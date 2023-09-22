@@ -122,8 +122,7 @@
 - [Curved World](https://github.com/rgrams/defold-curved-world) — Demo of a curved world effect similar to that in Animal Crossing.
 - [dae2collision](https://github.com/JustAPotota/dae2collision) — Converts DAE meshes to Defold collision objects.
 - [Defender](https://github.com/dlannan/defold-blender-export) — Blender import and export system with syncing.
-- [defold-3d-samples](https://github.com/dlannan/defold-3d-samples) — A set of simple projects showing various 3D concepts and features.
-- [defold-3d-samples](https://github.com/dlannan/defold-3d-samples) — Simple sample projects showing various concepts, including a sky shader.
+- [defold-3d-samples](https://github.com/dlannan/defold-3d-samples) — Simple projects showing various 3D concepts, including a sky shader.
 - [Illumination](https://github.com/astrochili/defold-illumination) — A ready-to-use forward shading lighting for 3D games.
 - [Jhonnyh Public Examples](https://github.com/Jhonnyg/my-public-defold-examples) — A set of examples with rendering, shadow mapping and etc.
 - [Kinematic Walker](https://github.com/astrochili/defold-kinematic-walker) — A tweakable kinematic character controller suitable for 3D games.

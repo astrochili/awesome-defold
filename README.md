@@ -357,7 +357,7 @@
 
 ### Particle System
 
-- [Kenney Particle Pack](https://github.com/subsoap/kenney_particle_pack_defold) — Particle effects for made with the Kenney Particle Pack.
+- [Kenney Particle Pack](https://github.com/subsoap/kenney_particle_pack_defold) — Particle effects made with the Kenney Particle Pack.
 
 ### Physics
 

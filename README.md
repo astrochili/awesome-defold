@@ -1,6 +1,8 @@
-# Awesome Defold
+![awesome](https://github.com/astrochili/awesome-defold/assets/4752473/66a056f3-f604-48ca-b8bc-9c1b48ef3786)
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue)](LICENSE)
+
+# Awesome Defold
 
 📚 A curated list of awesome [Defold](https://defold.com) extensions, tools and resources. An alternative to the [Defold Asset Portal](https://defold.com/assets/).
 

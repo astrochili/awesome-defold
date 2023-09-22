@@ -243,9 +243,9 @@
 - [Components](https://github.com/Jerakin/editor-script-components) — Editor script for creating components from resources.
 - [Distribute](https://github.com/Jerakin/editor-script-distribute) — Editor script for distributing nodes evenly.
 - [Lua Code Formatter](https://github.com/indiesoftby/defold-editor-script-lua-format) — Editor script that reformats your Lua source code.
+- [Simle Data Component](https://github.com/defold/extension-simpledata) — Example how to bring custom data to a game object.
 - [Sound Editor Scripts](https://github.com/subsoap/subsoap-editor-scripts) — A set of Editor scripts for the sound component.
 - [Z-Order Editor Script](https://github.com/Dragosha/defold-things/tree/master/editor-scripts) — Helper for ordering objects along Z-axis in the collection.
-- [Simle Data Component](https://github.com/defold/extension-simpledata) — Example how to bring custom data to a game object.
 
 ### Engines
 

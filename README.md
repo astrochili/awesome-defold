@@ -64,8 +64,8 @@
 
 ### Tutorials
 
-- [GalviaGames](https://www.youtube.com/playlist?list=PLYWnk-ACIeRi61SDWS62NQjN9wydnzWy7) — Defold tutorials by GalviaGames.
-- [GameFromScratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyC5gN_850U7iz21ZhdjS3J8) — Defold tutorials by GameFromScratch.
+- [Galvia Games](https://www.youtube.com/playlist?list=PLYWnk-ACIeRi61SDWS62NQjN9wydnzWy7) — Defold tutorials by GalviaGames.
+- [Game From Scratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyC5gN_850U7iz21ZhdjS3J8) — Defold tutorials by GameFromScratch.
 - [Tactx Studios](https://youtube.com/@DefoldTutorials/) — Defold tutorials by David Chadwick.
 - [Unfolding Gamedev](https://youtube.com/@unfolding_gamedev) — Defold tutorials by Pawel Jarosz.
 

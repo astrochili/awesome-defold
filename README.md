@@ -66,6 +66,8 @@
 
 - [Tactx Studios](https://youtube.com/@DefoldTutorials/) — Defold tutorials by David Chadwick.
 - [Unfolding Gamedev](https://youtube.com/@unfolding_gamedev) — Defold tutorials by Pawel Jarosz.
+- [GameFromScratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyC5gN_850U7iz21ZhdjS3J8) — Defold tutorials by GameFromScratch.
+- [GalviaGames](https://www.youtube.com/playlist?list=PLYWnk-ACIeRi61SDWS62NQjN9wydnzWy7) — Defold tutorials by GalviaGames.
 
 ### Videos
 
@@ -647,6 +649,7 @@
 - [Monkey Mart](https://poki.com/ru/g/monkey-mart)
 - [Moving Truck](https://poki.com/en/g/moving-truck)
 - [Ninja Mouse](https://poki.com/en/g/ninja-mouse)
+- [Ocean Protector](https://www.outreachgames.org/OceanProtector/main.html)
 - [Onet Paradise](https://poki.com/ru/g/onet-paradise)
 - [Puffy Cat](https://poki.com/en/g/puffy-cat)
 - [Raft Wart Multiplayer](https://poki.com/en/g/raft-wars-multiplayer)

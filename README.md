@@ -14,6 +14,8 @@
 
 🌙 Lua modules that are engine-independent but useful for game development are marked with this emoji.
 
+💬 [Discuss on the forum](https://forum.defold.com/t/alternative-awesome-defold/74185).
+
 ## Official
 
 ### Websites

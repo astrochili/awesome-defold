@@ -306,7 +306,6 @@
 - [Runtime Atlas](https://github.com/Jerakin/defold-runtime-atlas) — Runtime atlas creator.
 - [Screenshot](https://github.com/britzl/defold-screenshot) — An extension for taking screenshots.
 - [Sharp Sprite](https://github.com/indiesoftby/defold-sharp-sprite) — An implementation of Rotated Grid Super-Sampling.
-- [zeroParticles](https://github.com/Lampogolovii/zeroParticles) — A library for creating sprite-particles.
 - 🌙 [vivid](https://github.com/WetDesertRock/vivid) — Color manipulation library.
 
 ### Hardware
@@ -362,6 +361,7 @@
 ### Particle System
 
 - [Kenney Particle Pack](https://github.com/subsoap/kenney_particle_pack_defold) — Particle effects made with the Kenney Particle Pack.
+- [zeroParticles](https://github.com/Lampogolovii/zeroParticles) — A library for creating sprite-particles.
 
 ### Physics
 

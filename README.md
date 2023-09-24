@@ -627,6 +627,7 @@
 - [Cat Stories: New Year](https://play.google.com/store/apps/details?id=com.curiousfoxes.cat)
 - [Cat's Day](https://astronachos.com/catsday/)
 - [Civilization Path](https://play.google.com/store/apps/details?id=com.DenisMakhortov.CivilizationPath)
+- [Cold Path](https://play.google.com/store/apps/details?id=com.DenisMakhortov.ColdPath)
 - [Dark Heroes](https://play.google.com/store/apps/details?id=com.dark.heroes)
 - [Family Island](https://familyisland.games/)
 - [Galaxy Keeper](https://bigbutton.co/galaxy-keeper-space-shooter/)

@@ -646,6 +646,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Galaxy Keeper](https://bigbutton.co/galaxy-keeper-space-shooter/)
 - [JUUMP!](https://play.google.com/store/apps/details?id=com.winkelgames.juump)
 - [Look Your Loot!](https://apps.apple.com/us/app/look-your-loot/id1339205191)
+- [Lone Space Tower Defense](https://bigbuttonco.itch.io/lone-space-tower-defense)
 - [Lunar Orbit: Space Flight Game](https://apps.apple.com/app/lunar-orbit-space-strategy/id1486762718)
 - [Solitaire Jazz Travel](https://bigbutton.co/solitaire-jazz-travel/)
 - [Taxi Town](https://apps.apple.com/app/taxi-town/id1501324428)

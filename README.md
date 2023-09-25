@@ -644,6 +644,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Dark Heroes](https://play.google.com/store/apps/details?id=com.dark.heroes)
 - [Family Island](https://familyisland.games/)
 - [Galaxy Keeper](https://bigbutton.co/galaxy-keeper-space-shooter/)
+- [Ghosts and Apples](https://play.google.com/store/apps/details?id=io.refold.ghostsandapples)
 - [JUUMP!](https://play.google.com/store/apps/details?id=com.winkelgames.juump)
 - [Look Your Loot!](https://apps.apple.com/us/app/look-your-loot/id1339205191)
 - [Lone Space Tower Defense](https://bigbuttonco.itch.io/lone-space-tower-defense)

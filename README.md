@@ -578,6 +578,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Bunnymark](https://github.com/britzl/defold-bunnymark) — Bunnymark test.
 - [Crowd Runner](https://github.com/Insality/crowd-runner-defold) — Example with up to 32765 entities with simple physics.
+- [Haxe Bunnymark](https://github.com/hxdefold/hxdefold-bunnymark) — Bunnymark test rewritten in Haxe.
 
 #### Games
 
@@ -640,6 +641,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Cat Stories: New Year](https://play.google.com/store/apps/details?id=com.curiousfoxes.cat)
 - [Cat's Day](https://astronachos.com/catsday/)
 - [Civilization Path](https://play.google.com/store/apps/details?id=com.DenisMakhortov.CivilizationPath)
+- [Classic Solitaire Klondike](https://play.google.com/store/apps/details?id=com.potatojam.classic.solitaire.klondike)
 - [Cold Path](https://play.google.com/store/apps/details?id=com.DenisMakhortov.ColdPath)
 - [Dark Heroes](https://play.google.com/store/apps/details?id=com.dark.heroes)
 - [Family Island](https://familyisland.games/)

@@ -665,6 +665,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Blocks Fevrio!](https://fevrio.com/blocks)
 - [BoxRob](https://poki.com/en/g/boxrob)
 - [Bullseye Shoot'n Gallery](https://flexyourbrain.itch.io/bullseye-shootn-gallery)
+- [Cosmos Lines](https://poki.com/en/g/cosmos-lines)
 - [Cow Bay](https://poki.com/en/g/cow-bay)
 - [Curious Fishing](https://rhythmlynx.itch.io/curious-fishing)
 - [Day of Meat](https://poki.com/en/g/day-of-meat)

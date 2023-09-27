@@ -56,9 +56,10 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Articles
 
-- [Blender to Defold 3D animation Guide](https://github.com/FlexYourBrain/Defold_Animation3D_Guide)
-- [How to GUI in Defold](https://forum.defold.com/t/how-to-gui-in-defold/73256/)
+- [Blender to Defold 3D animation Guide](https://github.com/FlexYourBrain/Defold_Animation3D_Guide) — Exporting glTF animations from Blender to Defold.
+- [Curious Fishing Devlog](https://rhythmlynx.itch.io/curious-fishing/devlog) — A very detailed and in-depth development log.
 - [Defold. Where to begin?](https://agulev.com/en/defold-s-chego-nachat-lua/) — Starting point and tutorial for beginners in Defold.
+- [How to GUI in Defold](https://forum.defold.com/t/how-to-gui-in-defold/73256/) — Best practice proven approaches on how to make GUI.
 
 #### Base
 

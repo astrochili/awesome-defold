@@ -572,6 +572,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Apps
 
+- [Autonews](https://github.com/dlannan/autonews) — A simple auto news grabber and organizer.
 - [Cold Path Map Editor](https://github.com/jalhund/cold-path-map-editor) — Map Editor for the Cold Path game.
 - [Color Picker](https://github.com/rgrams/colorpicker) — A pretty basic HSV and RGB color picker.
 - [MultiViewer](https://github.com/rgrams/multiviewer) — A very basic multi-image viewer intended for displaying art references.

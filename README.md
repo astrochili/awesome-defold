@@ -599,6 +599,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Love Balls](https://github.com/d954mas/game-love-balls) — A linker game with using ECS.
 - [Lowrez Inviders](https://github.com/britzl/lowrezinvaders) — A simple Space Invaders clone with a 64x64 pixel resolution.
 - [Merge Getaway](https://github.com/aglitchman/defold-ld50-game) — 3D cars merger for Ludum Dare 50.
+- [Mine Runner 3D](https://github.com/d954mas/game-mine-runner-open) — A 3D endless runner game using ECS.
 - [Mini Mega Party](https://github.com/britzl/minimegaparty) — Multiplayer one-button mini games inspired by the Wario Ware series.
 - [Numberz](https://github.com/britzl/numberz) — Defold version of the zNumbers game.
 - [Pixel Line Platformer](https://github.com/defold/sample-pixel-line-platformer) — A sample project for a platformer game.

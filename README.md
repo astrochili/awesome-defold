@@ -145,6 +145,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Jhonnyh Public Examples](https://github.com/Jhonnyg/my-public-defold-examples) — A set of examples with rendering, shadow mapping and etc.
 - [Kinematic Walker](https://github.com/astrochili/defold-kinematic-walker) — A tweakable kinematic character controller suitable for 3D games.
 - [Light and Shadows](https://github.com/Dragosha/defold-light-and-shadows) — Pack of shaders to make light and shadows in Defold.
+- [Light Probes](https://github.com/abadonna/defold-light-probes) — An attempt to implement irradiance probes for global illumination.
 - [Mesh Binary](https://github.com/abadonna/defold-mesh-binary) — Binary export from Blender to Defold.
 - [PBR Core](https://github.com/defold/defold-pbr) — Set of scripts, shaders and materials for PBR rendering.
 - [PCSS](https://github.com/abadonna/defold-pcss) — Deferred shading and shadow map filter experiments: pcf, poisson, pcss.

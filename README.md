@@ -156,7 +156,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Skyquad](https://github.com/abadonna/defold-skyquad) — Skyquad implementation.
 - [SSAO](https://github.com/abadonna/defold-ssao) — A simple screen space ambient occlusion implementation.
 - [SSLR](https://github.com/abadonna/defold-sslr) — A screen space local reflections implementation.
-- [TrenchBroom](https://github.com/astrochili/defold-trenchbroom) — Configuration files and import scripts for designing levels in TrenchBroom.
+- [TrenchFold](https://github.com/astrochili/defold-trenchfold) — Configuration files and import scripts for designing levels in TrenchBroom.
 - [VSM](https://github.com/abadonna/defold-vsm) — A variance shadow map implementation.
 
 #### Ads

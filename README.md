@@ -519,6 +519,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Time
 
 - [Chrono](https://github.com/subsoap/chrono) — Reliable time from Google's NTP servers.
+- [Chronos](https://github.com/d954mas/defold-chronos) — High resolution monotonic timer with nanoseconds.
 - [DefQuest](https://github.com/subsoap/defquest) — Setup, track, and check real world time countdowns based on OS or server time.
 - [DefUniCo](https://github.com/u16kuma/defunico) — A coroutine library.
 - [Human Time](https://github.com/Jerakin/defold-human-time) — Library to get a "human time".

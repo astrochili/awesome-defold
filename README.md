@@ -355,6 +355,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Math
 
 - [DefMath](https://github.com/subsoap/defmath) — A module with a set of math functions.
+- [Fast Stream](https://github.com/KorolevSoftware/defold-faststream/) — Helps to quickly push vector3 and vector4 into the buffer stream.
 - [libdq](https://github.com/abadonna/extension-libdq) — A library for dual quaternions.
 - [Poly2tri](https://github.com/d954mas/defold-poly2tri) — Fast and stable triangulation of convex or concave polygons.
 - [Voronoi](https://github.com/JCash/defold-voronoi) — A small extension for Defold to add 2D voronoi functionality.

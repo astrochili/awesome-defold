@@ -477,6 +477,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefProcess](https://github.com/subsoap/defprocess) — Check if a Windows process is running.
 - [FileDrop](https://github.com/britzl/extension-filedrop) — Drag and drop files handling on macOS and HTML5.
 - [Inter-App Communication](https://github.com/defold/extension-iac) — Inter-app communication on iOS and Android.
+- [OpenCL](https://github.com/abadonna/defold-opencl) — OpenCL for parallel and massive computations.
 - [Permissions](https://github.com/defold/extension-permissions) — Query and request application permissions on Android.
 - [Push Notifications](https://github.com/defold/extension-push) — Push notifications on iOS and Android.
 - [Review](https://github.com/defold/extension-review) —  iOS and Android.

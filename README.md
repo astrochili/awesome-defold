@@ -388,6 +388,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Physics
 
 - [Box2D](https://github.com/d954mas/defold-box2d) — An alternative to the inbuilt Box2D wrapper with a full range of features.
+- [BulletFold](https://github.com/trainingmode/BulletFold/) — A simple and lightweight bullets handler.
 - [Chipmunk 2D](https://github.com/britzl/chipmunk2d-defold) — Chipmunk 2D physics engine wrapper.
 - [DAABBCC](https://github.com/selimanac/DAABBCC) — A dynamic AABB tree collisions resolver.
 - [Defluid](https://github.com/paweljarosz/defluid) — 2D fluid simulations based on metaballs.

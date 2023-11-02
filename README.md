@@ -548,6 +548,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [ImNodes](https://github.com/paweljarosz/defold_imnodes) — Example of how to create node/flow fraphs with Dear ImGUI.
 - [Monarch](https://github.com/britzl/monarch) — Screens and navigation manager.
 - [NativeText](https://github.com/Lerg/extension-nativetext) — Renders native text into an image resource.
+- [NetImGUI](https://github.com/DreamRealityInteractive/extension-netimgui) — Remotely displaying and controlling Dear ImGUI content.
 - [Printer](https://github.com/Insality/defold-printer) — A symbol-by-symbol text writer.
 - [RichText](https://github.com/britzl/defold-richtext) — Text styling based on an HTML inspired markup language.
 - [Typewriter](https://github.com/klaytonkowalski/library-defold-typewriter) — Styled text output with typing animation.

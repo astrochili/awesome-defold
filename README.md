@@ -409,7 +409,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Instant Games Bridge](https://github.com/instant-games-bridge/instant-games-bridge-defold) — SDK for cross-platform publishing HTML5 games.
 - [KaiAds](https://github.com/defold/extension-kaiads) — KaiOS SDK.
 - [PokiSDK](https://github.com/AGulev/defold-poki-sdk) — Poki SDK.
-- [Steamworks](https://github.com/britzl/steamworks-defold) — Steamworks SDK.
+- [Steamworks](https://github.com/defold/extension-steam) — Steamworks SDK.
 - [VK Bridge](https://github.com/potatojam/defold-vkbridge) — VK Bridge implementation for HTML5.
 - [VKminiBridge](https://github.com/Laminariy/vkminibridge) — Basic integration with VK on iOS, Android and HTML5.
 - [Web Monetization](https://github.com/defold/extension-webmonetization) — Web Monetization API.

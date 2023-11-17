@@ -190,6 +190,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Animation
 
+- [Bezier Animation Library](https://github.com/jbp4444/bzAnim) — An animation library that allows you to send graphics objects on a bezier curve path.
 - [Ease](https://github.com/subsoap/ease) — Easing functions module.
 - [Easier](https://github.com/AGulev/easier) — Interactive example of using inbuilt easing functions.
 - [Panthera Editor](https://github.com/Insality/panthera-editor) — Online tool for creating visual animations with lua code export.

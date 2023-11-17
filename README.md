@@ -624,6 +624,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Pong](https://github.com/britzl/pong) — An implementation of the classic game Pong.
 - [Secret Moon Station](https://github.com/paweljarosz/sms_secret_moon_station) — A short platformer game with Web Monetization.
 - [Slasher Prototype](https://github.com/Dragosha/slasher-prototype) — A game prototype with 2.5D perspective view, levels loader, the hero controller, monsters and basic AI logic.
+- [Tetris](https://github.com/joachimvalente/defold-tetris/) — A tetris game clone.
 - [Throw a Cow](https://github.com/britzl/throwacrow) — An implementation of the popular game Angry Birds.
 - [Towerz](https://github.com/britzl/towerz) — Defold version of Tipsy Towers.
 - [TweetFighter](https://github.com/britzl/tweetfighter) — A game of decision making with tweets.

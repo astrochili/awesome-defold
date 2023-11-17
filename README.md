@@ -471,6 +471,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [FMOD](https://github.com/dapetcu21/defold-fmod) — FMOD sound effects engine integration.
 - [MOD Player](https://github.com/selimanac/defold-modplayer) — Chiptune player for `.xm` and `.mod` files.
 - [OpenAL](https://github.com/Lerg/extension-openal) — Provides 3D audio, pitch control and other stuff.
+- [OSC](https://github.com/Brun0oO/defold-osc) — An Open Sound Control protocol library.
 - [ZzFX](https://github.com/thejustinwalsh/defold-zzfx) — Zuper Zmall Zound Zynth.
 
 #### System

@@ -256,6 +256,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Adaptive Icons](https://github.com/britzl/defold-adaptive_icons) — How to use adaptive icons for Android builds.
 - [APK Verifier](https://github.com/Melsoft-Games/defold-apk_verifier) – Library to check APK install source and bundle id.
 - [Deployer](https://github.com/Insality/defold-deployer) — Universal build and deploy script with configurable settings.
+- [Github Actions Builder](https://github.com/streamtheater/defold-githubactions-builder) — Github build workflow for Android & iOS.
 - [Manifest Decoding Tool](https://github.com/aglitchman/defold-dmanifest-decode) — App manifest decoding tool.
 - [Manifestation](https://github.com/britzl/manifestation) — App manifest generator.
 - [Prometheus](https://github.com/defold/extension-prometheus) – Lua obfuscation using Prometheus.

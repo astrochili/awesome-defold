@@ -408,6 +408,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Facebook Instant](https://github.com/defold/extension-fbinstant) — Facebook Instant Games API.
 - [Game Distribution](https://github.com/defold/gd-sdk-defold) — GameDistribution SDK.
 - [GOG Galaxy](https://github.com/dapetcu21/defold-gog-galaxy) — GOG Galaxy SDK.
+- [Google Colab](https://github.com/Brun0oO/defold-colab) — Access to the Google Colab notebook from an iOS or Android.
 - [Google Play Instant](https://github.com/defold/extension-googleplayinstant) — Google Play Instant API.
 - [IAP Manager](https://github.com/subsoap/iap_manager) — In-app purchases manager for Google Play and App Store.
 - [In-App Purchase](https://github.com/defold/extension-iap) — In-app purchase extension for iOS, Android and Facebook.

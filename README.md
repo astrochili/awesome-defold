@@ -263,6 +263,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Prometheus](https://github.com/defold/extension-prometheus) – Lua obfuscation using Prometheus.
 - [Resource Encryption](https://github.com/defold/extension-resource-encryption) — Example of how to create a resource encryption plugin for Defold assets.
 - [ResZip](https://github.com/indiesoftby/defold-liveupdate-reszip) — Live update loading speed improvement for HTML5.
+- [Simple Target System](https://github.com/merunes-goldman/defold-simple-target-system) — Provides a simple way to manage game.project presets (targets).
 
 #### Editor Scripts
 

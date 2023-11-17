@@ -175,6 +175,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### AI
 
 - [Genetical Neural Network](https://github.com/nathan68560/Genetical_Neural_Network) — A simple neural network with genetical renforcement.
+- [deftensor](https://github.com/Megus/deftensor) — TensorFlow Lite Native Extension.
 
 #### Analytics
 

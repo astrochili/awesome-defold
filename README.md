@@ -656,6 +656,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Tameshi](https://store.steampowered.com/app/1954720/Tameshi/)
 - [Void Scrappers](https://store.steampowered.com/app/2005210/Void_Scrappers/)
 - [Warnament](https://store.steampowered.com/app/1201700/Warnament/)
+- [The Lost Prince](https://store.steampowered.com/app/2525830/)
 - [Witchcrafter: Empire Legends](https://paweljarosz.itch.io/witchcrafter)
 - [Zooconomy](https://store.steampowered.com/app/1358110/Zooconomy/)
 

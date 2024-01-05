@@ -245,6 +245,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Lua51](https://github.com/indiesoftby/defold-lua51) — Replaces LuaJIT with Lua 5.1 on desktop platforms to see the actual performance on HTML5.
 - [Metrics](https://github.com/britzl/defold-metrics) — Calculates and displays performance metrics.
 - [Poco](https://github.com/defold/extension-poco) — Test automation from a computer to a test device using the Poco APO.
+- [Profile Counters](https://github.com/defold/extension-profile-counters) — Provides the profile counters in release mode via a Lua interface.
 - [Share Log](https://github.com/potatojam/defold-share-log) — Writes all output to the console and makes it possible save or send somewhere.
 - [signpost](https://github.com/AGulev/extension-signpost) — Helps to mark points of interest in Xcode Instruments.
 - [WebGL Memory](https://github.com/indiesoftby/defold-webgl-memory) — Tracker for GPU and CPU memory usage on HTML5.

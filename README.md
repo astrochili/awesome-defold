@@ -110,21 +110,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Defold + Zed](https://github.com/astrochili/defold-zed) — A collection of ideas on how to adapt the Zed editor for Defold.
 
-### Content Creation
-
-#### Map Editor
-
-- [LDtk](https://ldtk.io/) — A modern 2D level editor with a strong focus on user-friendliness.
-- [Tiled](https://mapeditor.org/) — An open-source full-featured level editor with export to Defold.
-- [Tilesetter](https://tilesetter.org/) — Powerful tileset and tilemap creation tool with export to Defold.
-- [TrenchBroom](https://trenchbroom.github.io/) — A level editor for low-poly geometry based games.
-
-#### Modeling
-
-- [Blender](https://blender.org/) — A well-known full-featured 3D software.
-- [Blockbench](https://blockbench.net/) — A low-poly 3D model editor.
-- [MagicaVoxel](https://ephtracy.github.io/) — A lightweight GPU-based voxel art editor.
-
 ### Programming Language
 
 - [Compat-5.3](https://github.com/alex-ac/defold-compat-5.3) — Providing Lua 5.3 style API.

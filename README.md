@@ -672,20 +672,30 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Web
 
-- [Ben James 171](https://benjames171.itch.io/)
+- [Ben James 171](https://benjames171.itch.io/) — A lot of pocket games, hard to enumerate them here.
 - [Blocks Fevrio!](https://fevrio.com/blocks)
-- [BoxRob](https://poki.com/en/g/boxrob)
+- [Blocky Universe](https://poki.com/en/g/blocky-universe)
+- [BoxRob](https://poki.com/en/g/boxrob) — Also [BoxRob 2](https://poki.com/en/g/boxrob-2) and [BoxRob 3](https://poki.com/en/g/boxrob-3).
 - [Bullseye Shoot'n Gallery](https://flexyourbrain.itch.io/bullseye-shootn-gallery)
 - [Cosmos Lines](https://poki.com/en/g/cosmos-lines)
 - [Cow Bay](https://poki.com/en/g/cow-bay)
 - [Curious Fishing](https://rhythmlynx.itch.io/curious-fishing)
-- [Day of Meat](https://poki.com/en/g/day-of-meat)
+- [Day of Meat](https://poki.com/en/g/day-of-meat) — Also [Day of Meat: Castle](https://poki.com/en/g/day-of-meat-castle) and [Day of Meat: Radiation](https://poki.com/en/g/day-of-meat-radiation).
+- [Dual Cat](https://sealunicorn.com/games/dual-cat)
+- [Duo Survival](https://poki.com/en/g/duo-survival) — Also [Du Survival 2](https://poki.com/en/g/duo-survival-2) and [Duo Survival 3](https://poki.com/en/g/duo-survival-3).
+- [Duo Vikings](https://poki.com/en/g/duo-vikings) — Also [Duo Vikings 2](https://poki.com/en/g/duo-vikings-2) and [Duo Vikings 3](https://poki.com/en/g/duo-vikings-3).
+- [Fish Eat Fish](https://poki.com/en/g/fish-eat-fish)
+- [Foxy Fog](https://poki.com/en/g/foggy-fox)
 - [Lands of Bligth](https://poki.com/en/g/lands-of-blight)
+- [Misland](https://sealunicorn.com/games/misland)
+- [Mjjong Cards](https://poki.com/en/g/mahjong-cards)
 - [Monkey Mart](https://poki.com/ru/g/monkey-mart)
-- [Moving Truck](https://poki.com/en/g/moving-truck)
+- [Moving Truck](https://poki.com/en/g/moving-truck) — Also [Moving Truck: Bounty](https://poki.com/en/g/moving-truck-bounty) and [Moving Truck: Construction](https://poki.com/en/g/moving-truck-construction).
 - [Ninja Mouse](https://poki.com/en/g/ninja-mouse)
 - [Ocean Protector](https://www.outreachgames.org/OceanProtector/main.html)
+- [Olly the Paw](https://poki.com/en/g/olly-the-paw)
 - [Onet Paradise](https://poki.com/ru/g/onet-paradise)
-- [Puffy Cat](https://poki.com/en/g/puffy-cat)
+- [Puffy Cat](https://poki.com/en/g/puffy-cat) — Also [Puffy Cat 2](https://poki.com/en/g/puffy-cat-2).
 - [Raft Wart Multiplayer](https://poki.com/en/g/raft-wars-multiplayer)
-- [Zoom-Be](https://poki.com/en/g/zoom-be)
+- [Zombotag](https://poki.com/en/g/zombotag)
+- [Zoom-Be](https://poki.com/en/g/zoom-be) — Also [Zoom-Be 2](https://poki.com/en/g/zoom-be-2) and [Zoom-Be 3](https://poki.com/en/g/zoom-be-3).

@@ -658,6 +658,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Cold Path](https://play.google.com/store/apps/details?id=com.DenisMakhortov.ColdPath)
 - [Dark Heroes](https://play.google.com/store/apps/details?id=com.dark.heroes)
 - [Family Island](https://familyisland.games/)
+- [Flames: Your Stories to Tell](https://apps.apple.com/app/flames-your-stories-to-tell/id6445916906)
 - [Galaxy Keeper](https://bigbutton.co/galaxy-keeper-space-shooter/)
 - [Ghosts and Apples](https://play.google.com/store/apps/details?id=io.refold.ghostsandapples)
 - [Hero Village](https://play.google.com/store/apps/details?id=overpower.hero.village)

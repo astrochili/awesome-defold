@@ -317,6 +317,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Runtime Atlas](https://github.com/Jerakin/defold-runtime-atlas) — Runtime atlas creator.
 - [Screenshot](https://github.com/britzl/defold-screenshot) — An extension for taking screenshots.
 - [Sharp Sprite](https://github.com/indiesoftby/defold-sharp-sprite) — An implementation of Rotated Grid Super-Sampling.
+- [World Map](https://github.com/dlannan/defold-worldmap) — A worldmap tool that loads in SHP files and displays them.
 - 🌙 [vivid](https://github.com/WetDesertRock/vivid) — Color manipulation library.
 
 #### Hardware

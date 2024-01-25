@@ -685,6 +685,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Bouncer Story](https://helmigames.com/bouncer-story/)
 - [Craftomation 101](https://luden.io/craftomation/)
 - [Cx6](https://store.steampowered.com/app/2302410/)
+- [Demons Hand](https://demonshand.com/)
 - [Domains of Dusk](https://store.steampowered.com/app/1462290/)
 - [Faerie Solitaire Harvest](https://store.steampowered.com/app/348910/)
 - [Fates of Ort](https://store.steampowered.com/app/895480/)

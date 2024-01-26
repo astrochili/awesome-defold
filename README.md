@@ -611,6 +611,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Crit](https://github.com/critique-gaming/crit) — Battle-tested collection of modules for game development.
 - [DefKit](https://github.com/adamwestman/defkit) — Component based scripts for Defold inspired by the Game Maker engine.
 - [Defold Persist](https://github.com/klaytonkowalski/library-defold-persist) — A simple interface for saving and loading data.
+- [Defold Wrap](https://github.com/baochungit/defold-wrap) — A tiny library to help you change the way you code on Defold.
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Eva](https://github.com/Insality/defold-eva) — Basic toolkit designed for mobile games with meta-game.
 - [Hashed](https://github.com/Lerg/defold-hashed) — A small utility library to automatically use hashed strings.

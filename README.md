@@ -21,11 +21,65 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 ### Contents
 
 - [Official](#official)
+    - [Websites](#websites)
+    - [Social](#social)
+    - [Sources](#sources)
 - [Resources](#resources)
+    - [Articles](#articles)
+    - [Base](#base)
+    - [Coding Style](#coding-style)
+    - [Tutorials](#tutorials)
+    - [Videos](#videos)
 - [Tools](#tools)
+  - [Code Editor](#code-editor)
+  - [Programming Language](#programming-language)
 - [Libraries](#libraries)
+    - [3D](#3d)
+    - [Ads](#ads)
+    - [AI](#ai)
+    - [Analytics](#analytics)
+    - [Animation](#animation)
+    - [Architecture](#architecture)
+    - [Backend](#backend)
+    - [Camera](#camera)
+    - [Debug](#debug)
+    - [Deployment](#deployment)
+    - [Editor Scripts](#editor-scripts)
+    - [Engines](#engines)
+    - [Files](#files)
+    - [Formats](#formats)
+    - [Generation](#generation)
+    - [Graphics](#graphics)
+    - [Hardware](#hardware)
+    - [HTML5](#html5)
+    - [Input](#input)
+    - [Math](#math)
+    - [Navigation](#navigation)
+    - [Network](#network)
+    - [Particle System](#particle-system)
+    - [Physics](#physics)
+    - [Platforms](#platforms)
+    - [Random](#random)
+    - [Render](#render)
+    - [Services](#services)
+    - [Shaders](#shaders)
+    - [Sound](#sound)
+    - [System](#system)
+    - [Templates](#templates)
+    - [Text](#text)
+    - [Tile](#tile)
+    - [Time](#time)
+    - [UI](#ui)
+    - [Utilities](#utilities)
 - [Examples](#examples)
+    - [Apps](#apps)
+    - [Experiments](#experiments)
+    - [Games](#games)
 - [Showcase](#showcase)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
+    - [Web](#web)
+
 
 ## Official
 
@@ -556,6 +610,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [AURL](https://github.com/subsoap/aurl) — Automatic URL reusing.
 - [Crit](https://github.com/critique-gaming/crit) — Battle-tested collection of modules for game development.
 - [DefKit](https://github.com/adamwestman/defkit) — Component based scripts for Defold inspired by the Game Maker engine.
+- [Defold Persist](https://github.com/klaytonkowalski/library-defold-persist) — A simple interface for saving and loading data.
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Eva](https://github.com/Insality/defold-eva) — Basic toolkit designed for mobile games with meta-game.
 - [Hashed](https://github.com/Lerg/defold-hashed) — A small utility library to automatically use hashed strings.
@@ -584,7 +639,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Color Picker](https://github.com/rgrams/colorpicker) — A pretty basic HSV and RGB color picker.
 - [MultiViewer](https://github.com/rgrams/multiviewer) — A very basic multi-image viewer intended for displaying art references.
 
-#### Perfomance
+#### Experiments
 
 - [Bunnymark](https://github.com/britzl/defold-bunnymark) — Bunnymark test.
 - [Crowd Runner](https://github.com/Insality/crowd-runner-defold) — Example with up to 32765 entities with simple physics.
@@ -632,6 +687,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Bouncer Story](https://helmigames.com/bouncer-story/)
 - [Craftomation 101](https://luden.io/craftomation/)
 - [Cx6](https://store.steampowered.com/app/2302410/)
+- [Demons Hand](https://demonshand.com/)
 - [Domains of Dusk](https://store.steampowered.com/app/1462290/)
 - [Faerie Solitaire Harvest](https://store.steampowered.com/app/348910/)
 - [Fates of Ort](https://store.steampowered.com/app/895480/)

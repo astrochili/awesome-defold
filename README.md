@@ -511,7 +511,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Blip](https://github.com/britzl/blip) — A procedural generator of 8-bit sound effects.
 - [DeBeat](https://github.com/adamwestman/debeat) — A sound mixer.
-- [DecodeOgg](https://github.com/JAlHund/decodeogg) — Decoding ogg files in wav.
+- [DecodeOgg](https://github.com/JAlHund/decodeogg) — Decoding ogg files to wav.
 - [FMOD](https://github.com/dapetcu21/defold-fmod) — FMOD sound effects engine integration.
 - [MOD Player](https://github.com/selimanac/defold-modplayer) — Chiptune player for `.xm` and `.mod` files.
 - [OpenAL](https://github.com/Lerg/extension-openal) — Provides 3D audio, pitch control and other stuff.

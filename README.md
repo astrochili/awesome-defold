@@ -468,8 +468,10 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Random
 
 - [dicebag](https://github.com/8bitskull/dicebag) — Probability functions designed specifically for games.
-- [PCG Random](https://github.com/selimanac/defold-random) — PCG random generator.
+- [PCG Random (Lerg)](https://github.com/Lerg/extension-pcgrandom) — PCG family of random number generators with many algorithms.
+- [PCG Random (selimanac)](https://github.com/selimanac/defold-random) — Random numbers generator with using minimal C implementation of PCG.
 - [RNG](https://github.com/alchimystic/defold-rng) — Multi-algorithm random number generator using instances.
+- [SFMT Random](https://github.com/Lerg/extension-sfmtrandom) — SIMD-oriented Fast Mersenne Twister random number generator.
 - [SplitMix64 PRNG](https://github.com/indiesoftby/defold-splitmix64) — SplitMix64 random generator.
 - [UUID4](https://github.com/selimanac/defold-uuid4) — UUID v4 generator.
 

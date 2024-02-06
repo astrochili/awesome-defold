@@ -425,6 +425,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefNet](https://github.com/britzl/defnet) — Networking modules and examples.
 - [LuaSocket](https://github.com/britzl/defold-luasocket) — Extended LuaSocket with the `mime.core` part.
 - [Tiny Http](https://github.com/selimanac/defold-tiny-http) — A simple HTTP server and client.
+- [WebRTC](https://github.com/VitusVeit/extension-webrtc) — A quick and easy C++ library that adds support for WebRTC.
 - [WebSocket](https://github.com/defold/extension-websocket) — WebSocket connections.
 
 #### Particle System

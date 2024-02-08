@@ -136,6 +136,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Game From Scratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyC5gN_850U7iz21ZhdjS3J8) — Defold tutorials by GameFromScratch.
 - [Tactx Studios](https://youtube.com/@DefoldTutorials/) — Defold tutorials by David Chadwick.
 - [Unfolding Gamedev](https://youtube.com/@unfolding_gamedev) — Defold tutorials by Pawel Jarosz.
+- [Lua Missions](https://github.com/kikito/lua_missions) — Learn the Lua language, syntax, structure, and some common functions and libraries, through failing tests.
 
 #### Videos
 
@@ -251,7 +252,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - 🌙 [lovetoys](https://github.com/lovetoys/lovetoys) — A full-featured ESC framework.
 - 🌙 [Lua Finite State Machine](https://github.com/kyleconroy/lua-state-machine) — A finite state machine.
 - 🌙 [middleclass](https://github.com/kikito/middleclass) — A simple OOP library.
-- 🌙 [stateful.lua](https://github.com/kikito/stateful.lua) — Stateful classes.
+- 🌙 [stateful](https://github.com/kikito/stateful.lua) — Stateful classes.
 - 🌙 [tiny-ecs](https://github.com/bakpakin/tiny-ecs) — A simple and flexible ESC library.
 
 #### Backend
@@ -584,6 +585,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefUniCo](https://github.com/u16kuma/defunico) — A coroutine library.
 - [Human Time](https://github.com/Jerakin/defold-human-time) — Library to get a "human time".
 - [Timer](https://github.com/klaytonkowalski/library-defold-timer) – Provides a visual timer widget.
+- 🌙 [cron](https://github.com/kikito/cron.lua) — Time-related functions inspired on javascript.
 - 🌙 [tick](https://github.com/rxi/tick) — A small module that simplifies the calling of functions at a set interval or after a delay.
 
 #### UI
@@ -626,6 +628,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - 🌙 [lua-algorithms](https://github.com/chen0040/lua-algorithms) — General algorithms and data structures.
 - 🌙 [LuaFun](https://github.com/luafun/luafun) — A high-performance functional programming library.
 - 🌙 [lume](https://github.com/rxi/lume/) — A collection of functions, geared towards game development.
+- 🌙 [md5](https://github.com/kikito/md5.lua) — MD5 sum in pure Lua.
+- 🌙 [memorize](https://github.com/kikito/memoize.lua) — A pure-Lua memoization functions.
 - 🌙 [Microlight](https://github.com/stevedonovan/Microlight) — A little library of useful Lua functions.
 - 🌙 [Moses](https://github.com/Yonaba/Moses) — A Lua utility-belt library for functional programming.
 - 🌙 [Penlight](https://github.com/lunarmodules/Penlight) — Provides the batteries that Lua doesn't.

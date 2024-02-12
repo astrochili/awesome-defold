@@ -489,6 +489,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [GameKit](https://github.com/animonger/extension-gamekit) — Apple Game Center integration.
 - [GPGS](https://github.com/defold/extension-gpgs) — Google Play Game Services integration.
 - [Sign In with Apple](https://github.com/defold/extension-siwa) — Native signing-in with Apple ID.
+- [Zendesk](https://github.com/defold/extension-zendesk) — Provides access to Zendesk SDK functionality on iOS and Android.
 
 #### Shaders
 

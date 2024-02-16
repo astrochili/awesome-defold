@@ -271,6 +271,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Orbit-Camera](https://github.com/abadonna/defold-orbit-camera) — A simple orbit camera example.
 - [Orthographic](https://github.com/britzl/defold-orthographic) — Orthographic camera API.
 - [Rendercam](https://github.com/rgrams/rendercam) — A universal render script and camera package.
+- [Rendy](https://github.com/klaytonkowalski/library-defold-rendy) — A versatile camera suite and render pipeline.
 
 #### Debug
 

@@ -134,9 +134,10 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Galvia Games](https://www.youtube.com/playlist?list=PLYWnk-ACIeRi61SDWS62NQjN9wydnzWy7) — Defold tutorials by GalviaGames.
 - [Game From Scratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyC5gN_850U7iz21ZhdjS3J8) — Defold tutorials by GameFromScratch.
-- [Tactx Studios](https://youtube.com/@DefoldTutorials/) — Defold tutorials by David Chadwick.
-- [Unfolding Gamedev](https://youtube.com/@unfolding_gamedev) — Defold tutorials by Pawel Jarosz.
 - [Lua Missions](https://github.com/kikito/lua_missions) — Learn the Lua language, syntax, structure, and some common functions and libraries, through failing tests.
+- [Tactx Studios](https://youtube.com/@DefoldTutorials/) — Defold tutorials by David Chadwick.
+- [Text-Based Defold Tutorials](https://github.com/klaytonkowalski/tutorial-defold) — Tutorials of game design concepts and feature implementations in Defold projects.
+- [Unfolding Gamedev](https://youtube.com/@unfolding_gamedev) — Defold tutorials by Pawel Jarosz.
 
 #### Videos
 

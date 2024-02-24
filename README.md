@@ -283,7 +283,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefPro](https://github.com/britzl/defpro) — Library to interact with Defold profiler.
 - [DefTest](https://github.com/britzl/deftest/) — Unit testing with Telescope.
 - [lmprof](https://github.com/defold/extension-lmprof) — Lua memory profiler for Defold based on lmprof.
-- [Log](https://github.com/subsoap/log) — General purpose logging.
+- [Log](https://github.com/Insality/defold-log) by Insality — Context logger with performance metrics.
+- [Log](https://github.com/subsoap/log) by subsoap — General purpose logging.
 - [Lua51](https://github.com/indiesoftby/defold-lua51) — Replaces LuaJIT with Lua 5.1 on desktop platforms to see the actual performance on HTML5.
 - [Metrics](https://github.com/britzl/defold-metrics) — Calculates and displays performance metrics.
 - [Poco](https://github.com/defold/extension-poco) — Test automation from a computer to a test device using the Poco APO.

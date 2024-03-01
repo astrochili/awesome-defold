@@ -205,6 +205,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [AdMob](https://github.com/defold/extension-admob) - AdMob functionality on iOS and Android.
 - [AdsWrapper](https://github.com/potatojam/defold-ads-wrapper) — Universal wrapper for ADS on different platforms.
+- [AppLovin MAX](https://github.com/AppLovin/AppLovin-MAX-Defold) — AppLovin MAX Plugin for Android and iOS.
 - [Def Video Ads](https://github.com/AGulev/DefVideoAds) - Plugin for Unity Ads.
 - [DefVungle](https://github.com/SkaterDad/defold-vungle) — Vungle video ads for Android and Amazon.
 - [Enhance](https://github.com/enhance-co/defold-connector) — Official Enhance SDK.

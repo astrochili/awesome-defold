@@ -246,6 +246,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Architecture
 
+- [Event](https://github.com/Insality/defold-event) — A cross-context Defold event system.
 - [Pigeon](https://github.com/paweljarosz/pigeon) — Pigeon allows easily and safely manage posting messages.
 - [Stately](https://github.com/britzl/stately) — A simple finite state machine.
 - [whefQuest](https://github.com/Megus/whdefquest) — A little helper library to create quests.

@@ -660,6 +660,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Haxe Bunnymark](https://github.com/hxdefold/hxdefold-bunnymark) — Bunnymark test rewritten in Haxe.
 - [Hexagonal Grid](https://github.com/redoak/defold-hexagon-grid-sample) — Hexagonal grid implementation with a three-axis coordinate system.
 - [RPG Map Sample](https://github.com/sicher/defold-rpgmap) — An example of creating very large RPG maps.
+- [Water reflection effect](https://github.com/FlexYourBrain/sample_2d_water_reflection) — A project showcases a 2d reflective water effect.
 
 #### Games
 

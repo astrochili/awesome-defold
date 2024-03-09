@@ -241,6 +241,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Spine](https://github.com/defold/extension-spine) — Spine animations runtime.
 - [Tilemap Animator](https://github.com/klaytonkowalski/defold-tilemap-animator) — Provides runtime tile animations.
 - [Timeline](https://github.com/AllanDouglas/deftimeline) — Easy way to make animation play in sequence.
+- [Tweener](https://github.com/Insality/defold-tweener) —  Timer based Defold tween library.
 - 🌙 [flux](https://github.com/rxi/flux) — A fast, lightweight tweening library.
 - 🌙 [tween](https://github.com/kikito/tween.lua) — A small library to perform tweening.
 

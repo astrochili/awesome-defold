@@ -543,7 +543,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [OpenCL](https://github.com/abadonna/defold-opencl) — OpenCL for parallel and massive computations.
 - [Permissions](https://github.com/defold/extension-permissions) — Query and request application permissions on Android.
 - [Push Notifications](https://github.com/defold/extension-push) — Push notifications on iOS and Android.
-- [Review](https://github.com/defold/extension-review) —  iOS and Android.
+- [Review](https://github.com/defold/extension-review) — Native iOS and Android ratings and reviews window.
 - [Sharing](https://github.com/britzl/defold-sharing) — Native sharing screen on macOS, iOS, Android and HTML5.
 - [StrictMode](https://github.com/AGulev/defold-extension-strictmode) — Gives a possibility to use StrictMode on Android.
 - [UpTime](https://github.com/AGulev/defold-extension-uptime) — Allows receiving a system uptime.

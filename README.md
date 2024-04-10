@@ -351,6 +351,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [PPReader](https://github.com/AGulev/ppreader) — Parser of Unity PlayerPrefs files into Lua tables.
 - [Proto](https://github.com/defold/extension-proto) — Generates Lua bindings to encode and decode a predefined set of protobuf messages.
 - [Sheets Exporter](https://github.com/Insality/sheets-exporter) — Processing and exporting data from Google Sheets to Lua.
+- [Texture Packer Atlas](https://github.com/defold/extension-texturepacker) — Native extensions that adds support for the TexturePacker atlas format.
 - [TexturePacker Exporter](https://github.com/Lerg/defold-texturepacker-exporter) — Exports from TexturePacker to a native atlas for Defold.
 
 #### Generation

@@ -486,6 +486,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Render
 
+- [Dezer](https://github.com/Wolfe2x7/Derez) — Render target with low resolution output (downsampling).
 - [Easer](https://github.com/britzl/easel) — Render script content switcher at run-time.
 - [Projections](https://github.com/defold/sample-projections) — A sample project showing the different render script projections.
 

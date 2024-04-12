@@ -115,6 +115,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Curious Fishing Devlog](https://rhythmlynx.itch.io/curious-fishing/devlog) — A very detailed and in-depth development log.
 - [Defold. Where to begin?](https://agulev.com/en/defold-s-chego-nachat-lua/) — Starting point and tutorial for beginners in Defold.
 - [How to GUI in Defold](https://forum.defold.com/t/how-to-gui-in-defold/73256/) — Best practice proven approaches on how to make GUI.
+- [Lightning VFX](https://forum.defold.com/t/lightning-vfx-how-its-was-made/76270) — Sample project with step-by-step guide.
 - [Mastering Render Targets in Defold](https://davabase.net/posts/mastering-render-targets-in-defold/)
 
 #### Base

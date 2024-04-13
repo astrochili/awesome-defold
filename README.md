@@ -235,7 +235,9 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Event](https://github.com/Insality/defold-event) — A cross-context Defold event system.
 - [Pigeon](https://github.com/paweljarosz/pigeon) — Pigeon allows easily and safely manage posting messages.
 - [Stately](https://github.com/britzl/stately) — A simple finite state machine.
+- [Vita](https://github.com/subsoap/vita) — A generic energy / life system.
 - [whefQuest](https://github.com/Megus/whdefquest) — A little helper library to create quests.
+- [XP](https://github.com/subsoap/xp) — A generic leveling up system.
 - 🌙 [beholder](https://github.com/kikito/beholder.lua) — A simple event observer.
 - 🌙 [Classic](https://github.com/rxi/classic) — A tiny class module.
 - 🌙 [lovetoys](https://github.com/lovetoys/lovetoys) — A full-featured ESC framework.
@@ -537,6 +539,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [MOD Player](https://github.com/selimanac/defold-modplayer) — Chiptune player for `.xm` and `.mod` files.
 - [OpenAL](https://github.com/Lerg/extension-openal) — Provides 3D audio, pitch control and other stuff.
 - [OSC](https://github.com/Brun0oO/defold-osc) — An Open Sound Control protocol library.
+- [SoundBank](https://github.com/subsoap/soundbank) — Sounds and music playlists system.
 - [ZzFX](https://github.com/thejustinwalsh/defold-zzfx) — Zuper Zmall Zound Zynth.
 
 #### System
@@ -588,6 +591,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Narrator](https://github.com/astrochili/narrator) — Ink language runtime that works with Ink files.
 - [Polyglot](https://github.com/paweljarosz/defold-polyglot) —A simple Polyglot to Defold tool for game localizations.
 - [UTF8](https://github.com/d954mas/defold-utf8) — Adds UTF-8 support to Lua.
+- [WrapText](https://github.com/subsoap/wraptext) — Filtering East Asian Language text to properly wrap it.
 - 🌙 [i18n](https://github.com/kikito/i18n.lua) — A very complete localisation i18n.
 
 #### Tiles, Grids
@@ -641,6 +645,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefKit](https://github.com/adamwestman/defkit) — Component based scripts for Defold inspired by the Game Maker engine.
 - [Defold Persist](https://github.com/klaytonkowalski/library-defold-persist) — A simple interface for saving and loading data.
 - [Defold Wrap](https://github.com/baochungit/defold-wrap) — A tiny library to help you change the way you code on Defold.
+- [DefRS](https://github.com/subsoap/defrs) — A collection of general resources to speed up workflows for new projects.
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Eva](https://github.com/Insality/defold-eva) — Basic toolkit designed for mobile games with meta-game.
 - [Hashed](https://github.com/Lerg/defold-hashed) — A small utility library to automatically use hashed strings.

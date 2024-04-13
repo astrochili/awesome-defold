@@ -4,7 +4,7 @@
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue)](LICENSE)
 
-A curated list of awesome [Defold](https://defold.com) extensions, tools and resources. An alternative to the [Defold Asset Portal](https://defold.com/assets/).
+A curated list of awesome [Defold](https://defold.com) extensions, tools and resources. An alternative to the [Defold Asset Portal](https://defold.com/assets).
 
 ### Contribution
 
@@ -20,84 +20,82 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 ### Contents
 
-- [Official](#official)
-    - [Websites](#websites)
-    - [Social](#social)
-    - [Sources](#sources)
+- [Links](#links)
+  - [Website](#website)
+  - [Social](#social)
+  - [Community](#community)
+  - [Open Source](#open-source)
 - [Resources](#resources)
-    - [Articles](#articles)
-    - [Base](#base)
-    - [Coding Style](#coding-style)
-    - [Tutorials](#tutorials)
-    - [Videos](#videos)
+  - [Lua](#lua)
+  - [Defold](#defold)
 - [Tools](#tools)
   - [Code Editor](#code-editor)
   - [Programming Language](#programming-language)
 - [Libraries](#libraries)
-    - [3D](#3d)
-    - [Ads](#ads)
-    - [AI](#ai)
-    - [Analytics](#analytics)
-    - [Animation](#animation)
-    - [Architecture](#architecture)
-    - [Backend](#backend)
-    - [Camera](#camera)
-    - [Debug](#debug)
-    - [Deployment](#deployment)
-    - [Editor Scripts](#editor-scripts)
-    - [Engines](#engines)
-    - [Files](#files)
-    - [Formats](#formats)
-    - [Generation](#generation)
-    - [Graphics](#graphics)
-    - [Hardware](#hardware)
-    - [HTML5](#html5)
-    - [Input](#input)
-    - [Math](#math)
-    - [Navigation](#navigation)
-    - [Network](#network)
-    - [Particle System](#particle-system)
-    - [Physics](#physics)
-    - [Platforms](#platforms)
-    - [Random](#random)
-    - [Render](#render)
-    - [Services](#services)
-    - [Shaders](#shaders)
-    - [Sound](#sound)
-    - [System](#system)
-    - [Templates](#templates)
-    - [Text](#text)
-    - [Tile](#tile)
-    - [Time](#time)
-    - [UI](#ui)
-    - [Utilities](#utilities)
+  - [Ads](#ads)
+  - [AI](#ai)
+  - [Analytics](#analytics)
+  - [Animation](#animation)
+  - [Architecture](#architecture)
+  - [Backend](#backend)
+  - [Camera](#camera)
+  - [Debug](#debug)
+  - [Deployment](#deployment)
+  - [Editor](#editor)
+  - [Files](#files)
+  - [Formats, Import, Export](#formats-import-export)
+  - [Generation](#generation)
+  - [Hardware](#hardware)
+  - [HTML5](#html5)
+  - [Image, Color](#image-color)
+  - [Input](#input)
+  - [Math](#math)
+  - [Navigation](#navigation)
+  - [Network](#network)
+  - [Particle System](#particle-system)
+  - [Perfomence](#perfomence)
+  - [Physics](#physics)
+  - [Platforms](#platforms)
+  - [Random](#random)
+  - [Render, Shaders](#render-shaders)
+  - [Services](#services)
+  - [Sound](#sound)
+  - [System](#system)
+  - [Templates, Engines](#templates-engines)
+  - [Text](#text)
+  - [Tiles, Grids](#tiles-grids)
+  - [Time](#time)
+  - [UI](#ui)
+  - [Utilities](#utilities)
 - [Examples](#examples)
-    - [Apps](#apps)
-    - [Experiments](#experiments)
-    - [Games](#games)
+  - [Apps](#apps)
+  - [Games](#games)
 - [Showcase](#showcase)
-    - [Desktop](#desktop)
-    - [Mobile](#mobile)
-    - [Web](#web)
+  - [Desktop](#desktop)
+  - [Mobile](#mobile)
+  - [Web](#web)
 
+## Links
 
-## Official
+#### Website
 
-#### Websites
-
-- [Website](https://defold.com/)
-- [Forum](https://forum.defold.com/)
+- [Defold](https://defold.com) — Official website.
 
 #### Social
 
-- [Github](https://github.com/defold/)
-- [Discord](https://discord.gg/cHBde7J)
-- [Twitter](https://twitter.com/defold)
-- [Mastodon](https://mastodon.gamedev.place/@defold)
-- [Reddit](https://reddit.com/r/defold/)
-- [Youtube](https://youtube.com/@defoldvideos/videos)
+- [Github](https://github.com/defold) — Official account.
+- [Mastodon](https://mastodon.gamedev.place/@defold) — Official account.
+- [Reddit](https://reddit.com/r/defold) — Official account.
+- [Twitter](https://twitter.com/defold) — Official account.
+- [Youtube](https://youtube.com/@defoldvideos/videos) — Official account.
 
-#### Sources
+#### Community
+
+- [Forum](https://forum.defold.com) — Official forum.
+- [Discord](https://discord.gg/cHBde7J) — Official community.
+- [Telegram](https://t.me/@DefoldEngine) — Unofficial community (Russian-speaking).
+
+#### Open Source
 
 - [Defold](https://github.com/defold/defold) — Game engine and editor.
 - [Extender](https://github.com/defold/extender) — Build server that builds native extensions.
@@ -109,21 +107,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 ## Resources
 
-#### Articles
-
-- [Blender to Defold 3D animation Guide](https://github.com/FlexYourBrain/Defold_Animation3D_Guide) — Exporting glTF animations from Blender to Defold.
-- [Curious Fishing Devlog](https://rhythmlynx.itch.io/curious-fishing/devlog) — A very detailed and in-depth development log.
-- [Defold. Where to begin?](https://agulev.com/en/defold-s-chego-nachat-lua/) — Starting point and tutorial for beginners in Defold.
-- [How to GUI in Defold](https://forum.defold.com/t/how-to-gui-in-defold/73256/) — Best practice proven approaches on how to make GUI.
-- [Lightning VFX](https://forum.defold.com/t/lightning-vfx-how-its-was-made/76270) — Sample project with step-by-step guide.
-- [Mastering Render Targets in Defold](https://davabase.net/posts/mastering-render-targets-in-defold/)
-
-#### Base
-
-- [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua/) — A quick start to understand the Lua language.
-- [Lua 5.1 Reference Manual](https://lua.org/manual/5.1/) — The reference manual is the official definition of the Lua language.
-- [Programming in Lua](https://lua.org/pil/contents.html) — A detailed and authoritative introduction to all aspects of Lua programming.
-- [lua-users Wiki](http://lua-users.org/wiki/) — A large community-maintained collection of Lua information and resources.
+### Lua
 
 #### Coding Style
 
@@ -133,16 +117,38 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Tutorials
 
-- [Galvia Games](https://www.youtube.com/playlist?list=PLYWnk-ACIeRi61SDWS62NQjN9wydnzWy7) — Defold tutorials by GalviaGames.
-- [Game From Scratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyC5gN_850U7iz21ZhdjS3J8) — Defold tutorials by GameFromScratch.
+- [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua) — A quick start to understand the Lua language.
+- [Lua 5.1 Reference Manual](https://lua.org/manual/5.1) — The reference manual is the official definition of the Lua language.
 - [Lua Missions](https://github.com/kikito/lua_missions) — Learn the Lua language, syntax, structure, and some common functions and libraries, through failing tests.
-- [Tactx Studios](https://youtube.com/@DefoldTutorials/) — Defold tutorials by David Chadwick.
+- [lua-users Wiki](http://lua-users.org/wiki) — A large community-maintained collection of Lua information and resources.
+- [Programming in Lua](https://lua.org/pil/contents.html) — A detailed and authoritative introduction to all aspects of Lua programming.
+
+### Defold
+
+#### Official
+
+- [API Reference](https://defold.com/ref/go) — Fully auto-generated API documentation.
+- [Examples](https://defold.com/examples/animation/basic_tween) - A lot of code samples with interactive examples.
+- [Manual](https://defold.com/manuals/introduction) - A friendly manual leading the newcomer into the world of Defold.
+- [Tutorials](https://defold.com/tutorials) - The perfect place to start the first practice.
+
+#### Tutorials
+
+- [Blender to Defold 3D animation Guide](https://github.com/FlexYourBrain/Defold_Animation3D_Guide) — Exporting glTF animations from Blender to Defold.
+- [Curious Fishing Devlog](https://rhythmlynx.itch.io/curious-fishing/devlog) — A very detailed and in-depth development log.
+- [Defold. Where to begin?](https://agulev.com/en/defold-s-chego-nachat-lua) — Starting point and tutorial for beginners in Defold.
+- [How to GUI in Defold](https://forum.defold.com/t/how-to-gui-in-defold/73256) — Best practice proven approaches on how to make GUI.
+- [Lightning VFX](https://forum.defold.com/t/lightning-vfx-how-its-was-made/76270) — Step-by-step guide with a sample project.
+- [Mastering Render Targets in Defold](https://davabase.net/posts/mastering-render-targets-in-defold)
 - [Text-Based Defold Tutorials](https://github.com/klaytonkowalski/tutorial-defold) — Tutorials of game design concepts and feature implementations in Defold projects.
-- [Unfolding Gamedev](https://youtube.com/@unfolding_gamedev) — Defold tutorials by Pawel Jarosz.
 
 #### Videos
 
 - [Best practices when releasing HTML5 games](https://www.youtube.com/watch?v=EbOmEuoTc7g) — Helpful advices by Björn Ritzl.
+- [Galvia Games](https://www.youtube.com/playlist?list=PLYWnk-ACIeRi61SDWS62NQjN9wydnzWy7) — Defold tutorials by GalviaGames.
+- [Game From Scratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyC5gN_850U7iz21ZhdjS3J8) — Defold tutorials by GameFromScratch.
+- [Tactx Studios](https://youtube.com/@DefoldTutorials) — Defold tutorials by David Chadwick.
+- [Unfolding Gamedev](https://youtube.com/@unfolding_gamedev) — Defold tutorials by Pawel Jarosz.
 
 ## Tools
 
@@ -151,7 +157,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Annotations
 
 - [Defold API generator on C#](https://github.com/mikatuo/defold-lua-annotations) — C# application to generate Defold API annotations.
-- [Defold API generator on Java](https://github.com/d954mas/defold-api-emmylua/) — Java application to generate Defold API annotations.
+- [Defold API generator on Java](https://github.com/d954mas/defold-api-emmylua) — Java application to generate Defold API annotations.
 - [Defold API generator on Lua](https://github.com/astrochili/defold-annotations) — Lua scripts to generate Defold API annotations.
 - [EmmyLua from LuaDoc](https://github.com/Insality/emmylua-from-ldoc-annotations) — Lua scripts to generate EmmyLua annotations from LuaDoc.
 - [EmmyLua from Protobuf](https://github.com/Insality/emmylua-protoc-annotations) — Lua scripts to generate EmmyLua annotations from Protobuf.
@@ -174,33 +180,9 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [hxDefold](https://github.com/hxdefold/hxdefold) — Haxe support library for the Defold.
 - [Lua Preprocessor](https://github.com/defold/extension-lua-preprocessor) — Small and simple Lua preprocessor for Defold.
 - [SpiralKit](https://github.com/Lerg/extension-spiralkit) — Low level framework to develop on C++.
-- [ts-defold](https://ts-defold.dev/) — TypeScript toolkit for development games with Defold.
+- [ts-defold](https://ts-defold.dev) — TypeScript toolkit for development games with Defold.
 
 ## Libraries
-
-#### 3D
-
-- [3D Tilemap](https://github.com/Dragosha/defold-things/tree/master/3d-tilemap) — Converting 2D tilemap to 3D mesh.
-- [Curved World](https://github.com/rgrams/defold-curved-world) — Demo of a curved world effect similar to that in Animal Crossing.
-- [dae2collision](https://github.com/JustAPotota/dae2collision) — Converts DAE meshes to Defold collision objects.
-- [Defender](https://github.com/dlannan/defold-blender-export) — Blender import and export system with syncing.
-- [defold-3d-samples](https://github.com/dlannan/defold-3d-samples) — Simple projects showing various 3D concepts, including a sky shader.
-- [Illumination](https://github.com/astrochili/defold-illumination) — A ready-to-use forward shading lighting for 3D games.
-- [Jhonnyh Public Examples](https://github.com/Jhonnyg/my-public-defold-examples) — A set of examples with rendering, shadow mapping and etc.
-- [Kinematic Walker](https://github.com/astrochili/defold-kinematic-walker) — A tweakable kinematic character controller suitable for 3D games.
-- [Light and Shadows](https://github.com/Dragosha/defold-light-and-shadows) — Pack of shaders to make light and shadows in Defold.
-- [Light Probes](https://github.com/abadonna/defold-light-probes) — An attempt to implement irradiance probes for global illumination.
-- [Mesh Binary](https://github.com/abadonna/defold-mesh-binary) — Binary export from Blender to Defold.
-- [PBR Core](https://github.com/defold/defold-pbr) — Set of scripts, shaders and materials for PBR rendering.
-- [PCSS](https://github.com/abadonna/defold-pcss) — Deferred shading and shadow map filter experiments: pcf, poisson, pcss.
-- [Pointer Lock](https://github.com/indiesoftby/defold-pointer-lock) — Pointer lock and mouselook for first-person 3D games.
-- [Scene3D](https://github.com/indiesoftby/defold-scene3d) — A collection of assets and useful functions for 3D games.
-- [Simple FPS](https://github.com/abadonna/defold-first-person) — A walkable room example with baked lightmaps.
-- [Skyquad](https://github.com/abadonna/defold-skyquad) — Skyquad implementation.
-- [SSAO](https://github.com/abadonna/defold-ssao) — A simple screen space ambient occlusion implementation.
-- [SSLR](https://github.com/abadonna/defold-sslr) — A screen space local reflections implementation.
-- [TrenchFold](https://github.com/astrochili/defold-trenchfold) — Configuration files and import scripts for designing levels in TrenchBroom.
-- [VSM](https://github.com/abadonna/defold-vsm) — A variance shadow map implementation.
 
 #### Ads
 
@@ -237,6 +219,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Bezier Animation Library](https://github.com/jbp4444/bzAnim) — An animation library that allows you to send graphics objects on a bezier curve path.
 - [Ease](https://github.com/subsoap/ease) — Easing functions module.
 - [Easier](https://github.com/AGulev/easier) — Interactive example of using inbuilt easing functions.
+- [Hypes Trails](https://github.com/indiesoftby/defold-hyper-trails) — Easy to use and customizable trail effect.
 - [Panthera Editor](https://github.com/Insality/panthera-editor) — Online tool for creating visual animations with lua code export.
 - [Rive](https://github.com/defold/extension-rive) — Rive animations runtime.
 - [Spine](https://github.com/defold/extension-spine) — Spine animations runtime.
@@ -285,7 +268,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Debug Draw](https://github.com/rgrams/debug-draw) — A simple wrapper to draw debug shapes.
 - [DefCon](https://github.com/britzl/defcon) — Developer console to interact with a game through a browser.
 - [DefPro](https://github.com/britzl/defpro) — Library to interact with Defold profiler.
-- [DefTest](https://github.com/britzl/deftest/) — Unit testing with Telescope.
+- [DefTest](https://github.com/britzl/deftest) — Unit testing with Telescope.
 - [lmprof](https://github.com/defold/extension-lmprof) — Lua memory profiler for Defold based on lmprof.
 - [Log](https://github.com/Insality/defold-log) by Insality — Context logger with performance metrics.
 - [Log](https://github.com/subsoap/log) by subsoap — General purpose logging.
@@ -296,7 +279,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Share Log](https://github.com/potatojam/defold-share-log) — Writes all output to the console and makes it possible save or send somewhere.
 - [signpost](https://github.com/AGulev/extension-signpost) — Helps to mark points of interest in Xcode Instruments.
 - [WebGL Memory](https://github.com/indiesoftby/defold-webgl-memory) — Tracker for GPU and CPU memory usage on HTML5.
-- 🌙 [Busted](http://olivinelabs.com/busted/) — Lua unit testing.
+- 🌙 [Busted](http://olivinelabs.com/busted) — Lua unit testing.
 - 🌙 [inspect](https://github.com/kikito/inspect.lua) — Human-readable table representation.
 - 🌙 [PegDebug](https://github.com/pkulchenko/PegDebug) — Trace debugger for LPeg rules and captures.
 
@@ -313,7 +296,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [ResZip](https://github.com/indiesoftby/defold-liveupdate-reszip) — Live update loading speed improvement for HTML5.
 - [Simple Target System](https://github.com/merunes-goldman/defold-simple-target-system) — Provides a simple way to manage game.project presets (targets).
 
-#### Editor Scripts
+#### Editor
 
 - [Align](https://github.com/Jerakin/editor-script-align) — Editor script for aligning gui nodes.
 - [Atlas](https://github.com/Jerakin/editor-script-atlas) — Editor script to add images to an atlas as well as create a new one
@@ -324,13 +307,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Sound Editor Scripts](https://github.com/subsoap/subsoap-editor-scripts) — A set of Editor scripts for the sound component.
 - [Z-Order Editor Script](https://github.com/Dragosha/defold-things/tree/master/editor-scripts) — Helper for ordering objects along Z-axis in the collection.
 
-#### Engines
-
-- [Boom](https://github.com/britzl/boom) — A game framework built on top of Defold inspired by Kaboom.
-- [MatchaNovel](https://github.com/HalfstarDev/matchanovel) — A visual novel framework library.
-- [Emthree](https://github.com/britzl/emthree) — Match three game engine.
-- [Platypus](https://github.com/britzl/platypus) — Platformer game engine.
-
 #### Files
 
 - [Defold-LFS](https://github.com/britzl/defold-lfs) — Library with a set of functions related to file systems.
@@ -338,22 +314,26 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Project Directory](https://github.com/dapetcu21/defold-project-dir) — Provides the project directory when the game is running from the Editor.
 - [Zip](https://github.com/Lerg/extension-zip) — Extracts a zip archive.
 
-#### Formats
+#### Formats, Import, Export
 
 - [CJSON](https://github.com/Melsoft-Games/defold-cjson) — Native JSON encoder and decoder.
 - [Collection Parser](https://github.com/rgrams/defold_collection_parser) — Defold files format encoder and decoder.
 - [Crypt](https://github.com/defold/extension-crypt) — Various hash and encode/decode algorithms.
 - [CSV Loader](https://github.com/subsoap/csvloader) — Can load and parse CSV files.
+- [dae2collision](https://github.com/JustAPotota/dae2collision) — Converts DAE meshes to Defold collision objects.
 - [DDF](https://github.com/JustAPotota/ddf) — A library for parsing Defold Data Format files.
+- [Defender](https://github.com/dlannan/defold-blender-export) — Blender import and export system with syncing.
 - [Defold Parser](https://github.com/Insality/defold-parser) — A node.js module to encode and decode Defold files.
 - [Defold Protobuf](https://github.com/Melsoft-Games/defold-protobuf) — Protobuf format encoder and decoder.
 - [Desert](https://github.com/britzl/desert) — Lua table (de)serialiser for the Defold.
+- [Mesh Binary](https://github.com/abadonna/defold-mesh-binary) — Binary export from Blender to Defold.
 - [Pack](https://github.com/subsoap/pack) — Compress, decompress, and obfuscate table data.
 - [PPReader](https://github.com/AGulev/ppreader) — Parser of Unity PlayerPrefs files into Lua tables.
 - [Proto](https://github.com/defold/extension-proto) — Generates Lua bindings to encode and decode a predefined set of protobuf messages.
 - [Sheets Exporter](https://github.com/Insality/sheets-exporter) — Processing and exporting data from Google Sheets to Lua.
 - [Texture Packer Atlas](https://github.com/defold/extension-texturepacker) — Native extensions that adds support for the TexturePacker atlas format.
 - [TexturePacker Exporter](https://github.com/Lerg/defold-texturepacker-exporter) — Exports from TexturePacker to a native atlas for Defold.
+- [TrenchFold](https://github.com/astrochili/defold-trenchfold) — Configuration files and scripts for designing levels in TrenchBroom.
 
 #### Generation
 
@@ -365,23 +345,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Perlin Terrain](https://github.com/Lerg/perlin-terrain-defold) — Perlin noise terrain generation.
 - [Wave Function Collapse](https://github.com/dlannan/defold-wfc) — Image generation with Wave Function Collapse algorithm.
 - 🌙 [Astray](https://github.com/SiENcE/astray) — Maze, room and dungeon generation library.
-
-#### Graphics
-
-- [Colors](https://github.com/klaytonkowalski/library-defold-colors) — Customizable palettes and color utility features.
-- [ColorsLib](https://github.com/y444/defold-color-lib) — Hex colors library and aonverter.
-- [defold-png](https://github.com/britzl/defold-png) — An extension to load and save PNG images.
-- [Draw Pixels](https://github.com/AGulev/drawpixels) — Drawing pixels and simple geometry into a texture buffer.
-- [Hypes Trails](https://github.com/indiesoftby/defold-hyper-trails) — Easy to use and customizable trail effect.
-- [ImageLoader](https://github.com/Lerg/extension-imageloader) — An extension to load JPG, PNG and other images efficiently.
-- [ImageTransparencyCalculator](https://github.com/jalhund/ImageTransparencyCalculator) — Tracks whether a transparent area is clicked or not.
-- [Imp](https://github.com/britzl/defold-imp) — Image processing and filters on an image buffer.
-- [QRCode](https://github.com/defold/extension-qrcode) – A small extension to encode and decode QR codes.
-- [Runtime Atlas](https://github.com/Jerakin/defold-runtime-atlas) — Runtime atlas creator.
-- [Screenshot](https://github.com/britzl/defold-screenshot) — An extension for taking screenshots.
-- [Sharp Sprite](https://github.com/indiesoftby/defold-sharp-sprite) — An implementation of Rotated Grid Super-Sampling.
-- [World Map](https://github.com/dlannan/defold-worldmap) — A worldmap tool that loads in SHP files and displays them.
-- 🌙 [vivid](https://github.com/WetDesertRock/vivid) — Color manipulation library.
 
 #### Hardware
 
@@ -403,16 +366,33 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Playable Ads](https://github.com/indiesoftby/defold-playable-ads) — Gulp tasks to bundle the Defold game into a single HTML file.
 - [WebP Slash Screen](https://github.com/d954mas/defold-html-splash-webp-example) — Using Webp for splash image.
 
+#### Image, Color
+
+- [Colors](https://github.com/klaytonkowalski/library-defold-colors) — Customizable palettes and color utility features.
+- [ColorsLib](https://github.com/y444/defold-color-lib) — Hex colors library and aonverter.
+- [defold-png](https://github.com/britzl/defold-png) — An extension to load and save PNG images.
+- [Draw Pixels](https://github.com/AGulev/drawpixels) — Drawing pixels and simple geometry into a texture buffer.
+- [ImageLoader](https://github.com/Lerg/extension-imageloader) — An extension to load JPG, PNG and other images efficiently.
+- [ImageTransparencyCalculator](https://github.com/jalhund/ImageTransparencyCalculator) — Tracks whether a transparent area is clicked or not.
+- [Imp](https://github.com/britzl/defold-imp) — Image processing and filters on an image buffer.
+- [QRCode](https://github.com/defold/extension-qrcode) – A small extension to encode and decode QR codes.
+- [Runtime Atlas](https://github.com/Jerakin/defold-runtime-atlas) — Runtime atlas creator.
+- [Screenshot](https://github.com/britzl/defold-screenshot) — An extension for taking screenshots.
+- [Sharp Sprite](https://github.com/indiesoftby/defold-sharp-sprite) — An implementation of Rotated Grid Super-Sampling.
+- [World Map](https://github.com/dlannan/defold-worldmap) — A worldmap tool that loads in SHP files and displays them.
+- 🌙 [vivid](https://github.com/WetDesertRock/vivid) — Color manipulation library.
+
 #### Input
 
 - [Defold-Input](https://github.com/britzl/defold-input) — Modules to simplifies input related operations.
 - [Mobile HTML5 Typing](https://github.com/mchlkpng/defold-mobilehtml5-typing) — Mobile HTML5 text keyboard input.
+- [Pointer Lock](https://github.com/indiesoftby/defold-pointer-lock) — Mouse pointer lock.
 - [Touch](https://github.com/subsoap/touch) — Multitouch support for HTML5.
 
 #### Math
 
 - [DefMath](https://github.com/subsoap/defmath) — A module with a set of math functions.
-- [Fast Stream](https://github.com/KorolevSoftware/defold-faststream/) — Helps to quickly push vector3 and vector4 into the buffer stream.
+- [Fast Stream](https://github.com/KorolevSoftware/defold-faststream) — Helps to quickly push vector3 and vector4 into the buffer stream.
 - [libdq](https://github.com/abadonna/extension-libdq) — A library for dual quaternions.
 - [Poly2tri](https://github.com/d954mas/defold-poly2tri) — Fast and stable triangulation of convex or concave polygons.
 - [SmoothDump](https://github.com/d954mas/defold-smooth-dump) — A native extension with smooth dump functions.
@@ -442,15 +422,23 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Kenney Particle Pack](https://github.com/subsoap/kenney_particle_pack_defold) — Particle effects made with the Kenney Particle Pack.
 - [zeroParticles](https://github.com/Lampogolovii/zeroParticles) — A library for creating sprite-particles.
 
+#### Perfomence
+
+- [Bunnymark](https://github.com/britzl/defold-bunnymark) — Bunnymark test.
+- [Crowd Runner](https://github.com/Insality/crowd-runner-defold) — Example with up to 32765 entities with simple physics.
+- [Haxe Bunnymark](https://github.com/hxdefold/hxdefold-bunnymark) — Bunnymark test rewritten in Haxe.
+
 #### Physics
 
 - [Box2D](https://github.com/d954mas/defold-box2d) — An alternative to the inbuilt Box2D wrapper with a full range of features.
-- [BulletFold](https://github.com/trainingmode/BulletFold/) — A simple and lightweight bullets handler.
+- [BulletFold](https://github.com/trainingmode/BulletFold) — A simple and lightweight bullets handler.
 - [Chipmunk 2D](https://github.com/britzl/chipmunk2d-defold) — Chipmunk 2D physics engine wrapper.
 - [DAABBCC](https://github.com/selimanac/DAABBCC) — A dynamic AABB tree collisions resolver.
 - [Defluid](https://github.com/paweljarosz/defluid) — 2D fluid simulations based on metaballs.
+- [Kinematic Walker](https://github.com/astrochili/defold-kinematic-walker) — A tweakable kinematic character controller suitable for 3D games.
 - [Polygon Editor](https://github.com/rgrams/defold_polygon_editor) — 2D collision shape editor.
 - [ReactPhysics3D](https://github.com/d954mas/defold-reactphysics3d) — ReactPhysics3D wrapper.
+- [Simple FPS](https://github.com/abadonna/defold-first-person) — A walkable room example with baked lightmaps.
 - 🌙 [bump](https://github.com/kikito/bump.lua) — AABB collision-detection library for axis-aligned rectangles.
 
 #### Platforms
@@ -485,11 +473,44 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [SplitMix64 PRNG](https://github.com/indiesoftby/defold-splitmix64) — SplitMix64 random generator.
 - [UUID4](https://github.com/selimanac/defold-uuid4) — UUID v4 generator.
 
-#### Render
+#### Render, Shaders
 
+- [Blur Shader](https://github.com/VincentLagerros/BlurShader) — Blur shader example.
+- [Box2D Lighting](https://github.com/d954mas/defold-box2d-light-demo) — 2D lighting using Box2D raycasting.
+- [Curved World](https://github.com/rgrams/defold-curved-world) — Demo of a curved world effect similar to that in Animal Crossing.
+- [DefBlend](https://github.com/subsoap/defblend) — Blend solid colors with your sprites using various blending modes.
+- [DefFX](https://github.com/subsoap/deffx) — A collection of useful shader effects.
+- [DefMaterial](https://github.com/subsoap/defmaterial) — A library of materials and textures for 2d and 3d objects.
+- [defold-3d-samples](https://github.com/dlannan/defold-3d-samples) — Simple projects showing various 3D concepts, including a sky shader.
+- [Defragments](https://github.com/paweljarosz/defragments) — Simple examples with fragment programs from Shadertoy.
+- [DeLab-2D Dissolve](https://github.com/FlexYourBrain/Delab2D_dissolve) — 2D dissolve effect shader sample project.
 - [Dezer](https://github.com/Wolfe2x7/Derez) — Render target with low resolution output (downsampling).
+- [Dissolve FX](https://github.com/indiesoftby/defold-dissolve-fx) — An example of implementing the dissolve effect for sprites.
 - [Easer](https://github.com/britzl/easel) — Render script content switcher at run-time.
+- [GLInfo](https://github.com/abadonna/defold-glinfo) — Getting some OpenGL params.
+- [Horri-Fold](https://github.com/TheKing0x9/horri-fold) — A Lo-Fi Horror shader.
+- [Illumination](https://github.com/astrochili/defold-illumination) — A ready-to-use forward shading lighting for 3D games.
+- [Jhonnyh Public Examples](https://github.com/Jhonnyg/my-public-defold-examples) — A set of examples with rendering, shadow mapping and etc.
+- [Light and Shadows](https://github.com/Dragosha/defold-light-and-shadows) — Pack of shaders to make light and shadows in Defold.
+- [Light Probes](https://github.com/abadonna/defold-light-probes) — An attempt to implement irradiance probes for global illumination.
+- [Lights and Shadows](https://github.com/defold/sample-lights-and-shadows) — Example of how to achieve pixel perfect shadows in a 2D view.
+- [Lumiere](https://github.com/britzl/lumiere) — A collection of post processing effects.
+- [Normal Map Lighting 2D](https://github.com/paweljarosz/normal-map-lighting-2d-sprites-defold) — Normal map example render pipeline for 2D sprites.
+- [PBR Core](https://github.com/defold/defold-pbr) — Set of scripts, shaders and materials for PBR rendering.
+- [PCSS](https://github.com/abadonna/defold-pcss) — Deferred shading and shadow map filter experiments: pcf, poisson, pcss.
+- [Pixel Planets](https://github.com/selimanac/defold-pixel-planets) — Port of Pixel Planets shaders.
+- [Point Light](https://github.com/abadonna/defold-point-light) — Omnidirectional shadow map implementation.
 - [Projections](https://github.com/defold/sample-projections) — A sample project showing the different render script projections.
+- [Scene3D](https://github.com/indiesoftby/defold-scene3d) — A collection of assets and useful functions for 3D games.
+- [Shader Examples](https://github.com/subsoap/defold-shader-examples/issues) — A collection of shader examples by subsoap.
+- [Skyquad](https://github.com/abadonna/defold-skyquad) — Skyquad implementation.
+- [Software Renderer](https://github.com/dlannan/defold-sw-renderer) — A software renderer implementation.
+- [Sprite texture repeat shader](https://github.com/Dragosha/defold-sprite-repeat) — Texture repeat (tiling) shader.
+- [SptirePallete](https://github.com/paweljarosz/SpritePalette) – Example project to show a possibility of changing palette using a palette texture.
+- [SSAO](https://github.com/abadonna/defold-ssao) — A simple screen space ambient occlusion implementation.
+- [SSLR](https://github.com/abadonna/defold-sslr) — A screen space local reflections implementation.
+- [VSM](https://github.com/abadonna/defold-vsm) — A variance shadow map implementation.
+- [Water reflection effect](https://github.com/FlexYourBrain/sample_2d_water_reflection) — A project showcases a 2d reflective water effect.
 
 #### Services
 
@@ -499,27 +520,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [GPGS](https://github.com/defold/extension-gpgs) — Google Play Game Services integration.
 - [Sign In with Apple](https://github.com/defold/extension-siwa) — Native signing-in with Apple ID.
 - [Zendesk](https://github.com/defold/extension-zendesk) — Provides access to Zendesk SDK functionality on iOS and Android.
-
-#### Shaders
-
-- [Blur Shader](https://github.com/VincentLagerros/BlurShader) — Blur shader example.
-- [Box2D Lighting](https://github.com/d954mas/defold-box2d-light-demo) — 2D lighting using Box2D raycasting.
-- [DefBlend](https://github.com/subsoap/defblend) — Blend solid colors with your sprites using various blending modes.
-- [DefFX](https://github.com/subsoap/deffx) — A collection of useful shader effects.
-- [DefMaterial](https://github.com/subsoap/defmaterial/) — A library of materials and textures for 2d and 3d objects.
-- [Defragments](https://github.com/paweljarosz/defragments) — Simple examples with fragment programs from Shadertoy.
-- [DeLab-2D Dissolve](https://github.com/FlexYourBrain/Delab2D_dissolve) — 2D dissolve effect shader sample project.
-- [Dissolve FX](https://github.com/indiesoftby/defold-dissolve-fx) — An example of implementing the dissolve effect for sprites.
-- [GLInfo](https://github.com/abadonna/defold-glinfo) — Getting some OpenGL params.
-- [Horri-Fold](https://github.com/TheKing0x9/horri-fold) — A Lo-Fi Horror shader.
-- [Lights and Shadows](https://github.com/defold/sample-lights-and-shadows) — Example of how to achieve pixel perfect shadows in a 2D view.
-- [Lumiere](https://github.com/britzl/lumiere) — A collection of post processing effects.
-- [Normal Map Lighting 2D](https://github.com/paweljarosz/normal-map-lighting-2d-sprites-defold) — Normal map example render pipeline for 2D sprites.
-- [Pixel Planets](https://github.com/selimanac/defold-pixel-planets) — Port of Pixel Planets shaders.
-- [Point Light](https://github.com/abadonna/defold-point-light) — Omnidirectional shadow map implementation.
-- [Shader Examples](https://github.com/subsoap/defold-shader-examples/issues) — A collection of shader examples.
-- [Software Renderer](https://github.com/dlannan/defold-sw-renderer) — A software renderer implementation.
-- [SptirePallete](https://github.com/paweljarosz/SpritePalette) – Example project to show a possibility of changing palette using a palette texture.
 
 #### Sound
 
@@ -536,7 +536,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [AdInfo](https://github.com/defold/extension-adinfo) — Provides access to advertising information and status on iOS and Android.
 - [Clipboard](https://github.com/britzl/defold-clipboard) — Access the system clipboard.
-- [Def-Diags](https://github.com/andsve/def-diags/) — Open and save dialogs for Desktop.
+- [Def-Diags](https://github.com/andsve/def-diags) — Open and save dialogs for Desktop.
 - [Def-Mnu](https://github.com/AGulev/def-mnu) — Native context and app menu library for macOS and Windows.
 - [DefOS](https://github.com/subsoap/defos) — Extra native OS functions on macOS, Windows, Linux and HTML5.
 - [Defpfd](https://github.com/AsakuraMizu/defpfd) — Portable File Dialogs.
@@ -554,13 +554,17 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Vulkan](https://github.com/defold/extension-vulkan) — Vulkan graphics adapter.
 - [WebView](https://github.com/defold/extension-webview) — Loads and displays web pages.
 
-#### Templates
+#### Templates, Engines
 
+- [Boom](https://github.com/britzl/boom) — A game framework built on top of Defold inspired by Kaboom.
 - [Crit Boilerplate](https://github.com/critique-gaming/crit-boilerplate) — Critique Gaming's starter project with many features out-of-box.
+- [Emthree](https://github.com/britzl/emthree) — Match three game engine.
 - [Fuior Example](https://github.com/critique-gaming/fuior-example) — Ready-to-use starter project based on Crit, Monarch and DefOS.
 - [Insality Template](https://github.com/Insality/defold-template) — Insality's new project template.
 - [LowRes](https://github.com/britzl/template-lowres) — A template project for lowres and pixel-art games.
+- [MatchaNovel](https://github.com/HalfstarDev/matchanovel) — A visual novel framework library.
 - [Platformer](https://github.com/defold/template-platformer) — A template project for a platformer game.
+- [Platypus](https://github.com/britzl/platypus) — Platformer game engine.
 - [Text Adventure](https://github.com/abadonna/text-adventure-template) — Text adventure template with Ink.
 - [Visual Novel](https://github.com/abadonna/visual-novel-template) — Visual novel template with DefSceneManager and Ink.
 
@@ -579,11 +583,14 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [UTF8](https://github.com/d954mas/defold-utf8) — Adds UTF-8 support to Lua.
 - 🌙 [i18n](https://github.com/kikito/i18n.lua) — A very complete localisation i18n.
 
-#### Tile
+#### Tiles, Grids
 
+- [3D Tilemap](https://github.com/Dragosha/defold-things/tree/master/3d-tilemap) — Converting 2D tilemap to 3D mesh.
 - [Autotiling](https://github.com/defold/extension-autotiling) — Adds autotiling to Defold tilemaps.
 - [Detiled](https://github.com/Insality/detiled) — A set of tools to make work with Defold and Tiled easier.
+- [Hexagonal Grid](https://github.com/redoak/defold-hexagon-grid-sample) — Hexagonal grid implementation with a three-axis coordinate system.
 - [Moku](https://github.com/Jrayp/Moku) — Map utility and auto-tiling module.
+- [RPG Map Sample](https://github.com/sicher/defold-rpgmap) — An example of creating very large RPG maps.
 - [Tile Raycast](https://github.com/selimanac/defold-tile-raycast) — Ray casting in tiled worlds using DDA algorithm.
 - [Tiled Example](https://github.com/d954mas/defold-tiled-example) — Example of using Tiled as level editor for game.
 
@@ -637,7 +644,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - 🌙 [Knife](https://github.com/airstruck/knife) — A collection of useful micro-modules for Lua.
 - 🌙 [lua-algorithms](https://github.com/chen0040/lua-algorithms) — General algorithms and data structures.
 - 🌙 [LuaFun](https://github.com/luafun/luafun) — A high-performance functional programming library.
-- 🌙 [lume](https://github.com/rxi/lume/) — A collection of functions, geared towards game development.
+- 🌙 [lume](https://github.com/rxi/lume) — A collection of functions, geared towards game development.
 - 🌙 [md5](https://github.com/kikito/md5.lua) — MD5 sum in pure Lua.
 - 🌙 [memorize](https://github.com/kikito/memoize.lua) — A pure-Lua memoization functions.
 - 🌙 [Microlight](https://github.com/stevedonovan/Microlight) — A little library of useful Lua functions.
@@ -650,24 +657,14 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 ## Examples
 
-#### Apps
+### Apps
 
 - [Autonews](https://github.com/dlannan/autonews) — A simple auto news grabber and organizer.
 - [Cold Path Map Editor](https://github.com/jalhund/cold-path-map-editor) — Map Editor for the Cold Path game.
 - [Color Picker](https://github.com/rgrams/colorpicker) — A pretty basic HSV and RGB color picker.
 - [MultiViewer](https://github.com/rgrams/multiviewer) — A very basic multi-image viewer intended for displaying art references.
 
-#### Experiments
-
-- [Bunnymark](https://github.com/britzl/defold-bunnymark) — Bunnymark test.
-- [Crowd Runner](https://github.com/Insality/crowd-runner-defold) — Example with up to 32765 entities with simple physics.
-- [Haxe Bunnymark](https://github.com/hxdefold/hxdefold-bunnymark) — Bunnymark test rewritten in Haxe.
-- [Hexagonal Grid](https://github.com/redoak/defold-hexagon-grid-sample) — Hexagonal grid implementation with a three-axis coordinate system.
-- [RPG Map Sample](https://github.com/sicher/defold-rpgmap) — An example of creating very large RPG maps.
-- [Sprite texture repeat shader](https://github.com/Dragosha/defold-sprite-repeat) — Texture repeat (tiling) shader.
-- [Water reflection effect](https://github.com/FlexYourBrain/sample_2d_water_reflection) — A project showcases a 2d reflective water effect.
-
-#### Games
+### Games
 
 - [2.5D Shooter](https://github.com/d954mas/2.5d-shooter) — Prototype of 2.5D shooter like Wolfenstein.
 - [Ben James 171](https://github.com/benjames-171/defold-games) — A countless list of examples of mini-games by Ben James.
@@ -693,7 +690,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Pong](https://github.com/britzl/pong) — An implementation of the classic game Pong.
 - [Secret Moon Station](https://github.com/paweljarosz/sms_secret_moon_station) — A short platformer game with Web Monetization.
 - [Slasher Prototype](https://github.com/Dragosha/slasher-prototype) — A game prototype with 2.5D perspective view, levels loader, the hero controller, monsters and basic AI logic.
-- [Tetris](https://github.com/joachimvalente/defold-tetris/) — A tetris game clone.
+- [Tetris](https://github.com/joachimvalente/defold-tetris) — A tetris game clone.
 - [Throw a Cow](https://github.com/britzl/throwacrow) — An implementation of the popular game Angry Birds.
 - [Towerz](https://github.com/britzl/towerz) — Defold version of Tipsy Towers.
 - [TweetFighter](https://github.com/britzl/tweetfighter) — A game of decision making with tweets.
@@ -704,26 +701,26 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Desktop
 
-- [Big Klondike](https://bigklondike.com/)
-- [Bore Blasters](https://store.steampowered.com/app/2398170/)
-- [Bouncer Story](https://helmigames.com/bouncer-story/)
-- [Craftomation 101](https://luden.io/craftomation/)
-- [Cx6](https://store.steampowered.com/app/2302410/)
-- [Demons Hand](https://demonshand.com/)
-- [Domains of Dusk](https://store.steampowered.com/app/1462290/)
-- [Faerie Solitaire Harvest](https://store.steampowered.com/app/348910/)
-- [Fates of Ort](https://store.steampowered.com/app/895480/)
-- [Good Morning, A.I.](https://store.steampowered.com/app/1791900/)
-- [Interrogation](https://interrogation-game.com/)
-- [Jerry Wanker and the Quest to get Laid](https://store.steampowered.com/app/1525050/) (NSFW)
-- [Perky Little Things](https://store.steampowered.com/app/811890/) (NSFW)
-- [Plague Lords: Witch Hunt](https://store.steampowered.com/app/1827240/)
-- [Tameshi](https://store.steampowered.com/app/1954720/)
-- [The Lost Prince](https://store.steampowered.com/app/2525830/)
-- [Void Scrappers](https://store.steampowered.com/app/2005210/)
-- [Warnament](https://store.steampowered.com/app/1201700/)
+- [Big Klondike](https://bigklondike.com)
+- [Bore Blasters](https://store.steampowered.com/app/2398170)
+- [Bouncer Story](https://helmigames.com/bouncer-story)
+- [Craftomation 101](https://luden.io/craftomation)
+- [Cx6](https://store.steampowered.com/app/2302410)
+- [Demons Hand](https://demonshand.com)
+- [Domains of Dusk](https://store.steampowered.com/app/1462290)
+- [Faerie Solitaire Harvest](https://store.steampowered.com/app/348910)
+- [Fates of Ort](https://store.steampowered.com/app/895480)
+- [Good Morning, A.I.](https://store.steampowered.com/app/1791900)
+- [Interrogation](https://interrogation-game.com)
+- [Jerry Wanker and the Quest to get Laid](https://store.steampowered.com/app/1525050) (NSFW)
+- [Perky Little Things](https://store.steampowered.com/app/811890) (NSFW)
+- [Plague Lords: Witch Hunt](https://store.steampowered.com/app/1827240)
+- [Tameshi](https://store.steampowered.com/app/1954720)
+- [The Lost Prince](https://store.steampowered.com/app/2525830)
+- [Void Scrappers](https://store.steampowered.com/app/2005210)
+- [Warnament](https://store.steampowered.com/app/1201700)
 - [Witchcrafter: Empire Legends](https://paweljarosz.itch.io/witchcrafter)
-- [Zooconomy](https://store.steampowered.com/app/1358110/)
+- [Zooconomy](https://store.steampowered.com/app/1358110)
 
 #### Mobile
 
@@ -731,14 +728,14 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Bouncing Catapult King](https://apps.apple.com/cy/app/bouncy-catapult-king/id1450757809)
 - [Bring Me Cakes](https://play.google.com/store/apps/details?id=com.bringmecakes)
 - [Cat Stories: New Year](https://play.google.com/store/apps/details?id=com.curiousfoxes.cat)
-- [Cat's Day](https://astronachos.com/catsday/)
+- [Cat's Day](https://astronachos.com/catsday)
 - [Civilization Path](https://play.google.com/store/apps/details?id=com.DenisMakhortov.CivilizationPath)
 - [Classic Solitaire Klondike](https://play.google.com/store/apps/details?id=com.potatojam.classic.solitaire.klondike)
 - [Cold Path](https://play.google.com/store/apps/details?id=com.DenisMakhortov.ColdPath)
 - [Dark Heroes](https://play.google.com/store/apps/details?id=com.dark.heroes)
-- [Family Island](https://familyisland.games/)
+- [Family Island](https://familyisland.games)
 - [Flames: Your Stories to Tell](https://apps.apple.com/app/flames-your-stories-to-tell/id6445916906)
-- [Galaxy Keeper](https://bigbutton.co/galaxy-keeper-space-shooter/)
+- [Galaxy Keeper](https://bigbutton.co/galaxy-keeper-space-shooter)
 - [Ghosts and Apples](https://play.google.com/store/apps/details?id=io.refold.ghostsandapples)
 - [Hero Village](https://play.google.com/store/apps/details?id=overpower.hero.village)
 - [JUUMP!](https://play.google.com/store/apps/details?id=com.winkelgames.juump)
@@ -747,12 +744,12 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Lunar Orbit: Space Flight Game](https://apps.apple.com/app/lunar-orbit-space-strategy/id1486762718)
 - [Merge Hotel: Family Empire](https://play.google.com/store/apps/details?id=com.happygames.mergehotel)
 - [Rare Pets](https://play.google.com/store/apps/details?id=com.drihq.pets)
-- [Solitaire Jazz Travel](https://bigbutton.co/solitaire-jazz-travel/)
+- [Solitaire Jazz Travel](https://bigbutton.co/solitaire-jazz-travel)
 - [Taxi Town](https://apps.apple.com/app/taxi-town/id1501324428)
 
 #### Web
 
-- [Ben James 171](https://benjames171.itch.io/) — A lot of pocket games, hard to enumerate them here.
+- [Ben James 171](https://benjames171.itch.io) — A lot of pocket games, hard to enumerate them here.
 - [Blocks Fevrio!](https://fevrio.com/blocks)
 - [Blocky Universe](https://poki.com/en/g/blocky-universe)
 - [BoxRob](https://poki.com/en/g/boxrob) — Also [BoxRob 2](https://poki.com/en/g/boxrob-2) and [BoxRob 3](https://poki.com/en/g/boxrob-3).
@@ -766,7 +763,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Duo Vikings](https://poki.com/en/g/duo-vikings) — Also [Duo Vikings 2](https://poki.com/en/g/duo-vikings-2) and [Duo Vikings 3](https://poki.com/en/g/duo-vikings-3).
 - [Fish Eat Fish](https://poki.com/en/g/fish-eat-fish)
 - [Foxy Fog](https://poki.com/en/g/foggy-fox)
-- [Gridog](https://gridog.com/) — Daily word challange.
+- [Gridog](https://gridog.com) — Daily word challange.
 - [Lands of Bligth](https://poki.com/en/g/lands-of-blight)
 - [Misland](https://sealunicorn.com/games/misland)
 - [Mjjong Cards](https://poki.com/en/g/mahjong-cards)

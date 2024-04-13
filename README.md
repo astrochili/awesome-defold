@@ -107,24 +107,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 ## Resources
 
-### Lua
-
-#### Coding Style
-
-- [lua-users](https://lua-users.org/wiki/LuaStyleGuide) — Lua style guide based on the Lua manuals.
-- [LuaRocks](https://github.com/luarocks/lua-style-guide) — Coding conventions used in the LuaRocks project.
-- [Olivine Labs](https://github.com/Olivine-Labs/lua-style-guide) — Olivine Labs Lua style guide.
-
-#### Tutorials
-
-- [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua) — A quick start to understand the Lua language.
-- [Lua 5.1 Reference Manual](https://lua.org/manual/5.1) — The reference manual is the official definition of the Lua language.
-- [Lua Missions](https://github.com/kikito/lua_missions) — Learn the Lua language, syntax, structure, and some common functions and libraries, through failing tests.
-- [lua-users Wiki](http://lua-users.org/wiki) — A large community-maintained collection of Lua information and resources.
-- [Programming in Lua](https://lua.org/pil/contents.html) — A detailed and authoritative introduction to all aspects of Lua programming.
-
-### Defold
-
 #### Official
 
 - [API Reference](https://defold.com/ref/go) — Fully auto-generated API documentation.
@@ -132,7 +114,21 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Manual](https://defold.com/manuals/introduction) - A friendly manual leading the newcomer into the world of Defold.
 - [Tutorials](https://defold.com/tutorials) - The perfect place to start the first practice.
 
-#### Tutorials
+#### Coding Style
+
+- [lua-users](https://lua-users.org/wiki/LuaStyleGuide) — Lua style guide based on the Lua manuals.
+- [LuaRocks](https://github.com/luarocks/lua-style-guide) — Coding conventions used in the LuaRocks project.
+- [Olivine Labs](https://github.com/Olivine-Labs/lua-style-guide) — Olivine Labs Lua style guide.
+
+#### Lua
+
+- [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua) — A quick start to understand the Lua language.
+- [Lua 5.1 Reference Manual](https://lua.org/manual/5.1) — The reference manual is the official definition of the Lua language.
+- [Lua Missions](https://github.com/kikito/lua_missions) — Learn the Lua language, syntax, structure, and some common functions and libraries, through failing tests.
+- [lua-users Wiki](http://lua-users.org/wiki) — A large community-maintained collection of Lua information and resources.
+- [Programming in Lua](https://lua.org/pil/contents.html) — A detailed and authoritative introduction to all aspects of Lua programming.
+
+#### Articles
 
 - [Blender to Defold 3D animation Guide](https://github.com/FlexYourBrain/Defold_Animation3D_Guide) — Exporting glTF animations from Blender to Defold.
 - [Curious Fishing Devlog](https://rhythmlynx.itch.io/curious-fishing/devlog) — A very detailed and in-depth development log.

@@ -141,6 +141,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Lightning VFX](https://forum.defold.com/t/lightning-vfx-how-its-was-made/76270) — Step-by-step guide with a sample project.
 - [Mastering Render Targets in Defold](https://davabase.net/posts/mastering-render-targets-in-defold)
 - [Text-Based Defold Tutorials](https://github.com/klaytonkowalski/tutorial-defold) — Tutorials of game design concepts and feature implementations in Defold projects.
+- [Texture Scrolling](https://forum.defold.com/t/texture-scrolling-shader-tutorial-example/71553) — Shader tutorial with an example project.
 
 #### Videos
 
@@ -258,6 +259,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Operator](https://github.com/astrochili/defold-operator) — A tweakable camera controller for 3D games.
 - [Orbit-Camera](https://github.com/abadonna/defold-orbit-camera) — A simple orbit camera example.
 - [Orthographic](https://github.com/britzl/defold-orthographic) — Orthographic camera API.
+- [Perspective Parallax](https://github.com/FlexYourBrain/sample-perspective_parallax) — An example of perspective parallax effect.
 - [Rendercam](https://github.com/rgrams/rendercam) — A universal render script and camera package.
 - [Rendy](https://github.com/klaytonkowalski/library-defold-rendy) — A versatile camera suite and render pipeline.
 
@@ -475,6 +477,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Render, Shaders
 
+- [3D in GUI](https://github.com/FlexYourBrain/sample_3d_gui_rt) — Shows how to display 3d in GUI via render target.
 - [Blur Shader](https://github.com/VincentLagerros/BlurShader) — Blur shader example.
 - [Box2D Lighting](https://github.com/d954mas/defold-box2d-light-demo) — 2D lighting using Box2D raycasting.
 - [Curved World](https://github.com/rgrams/defold-curved-world) — Demo of a curved world effect similar to that in Animal Crossing.
@@ -483,10 +486,12 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefMaterial](https://github.com/subsoap/defmaterial) — A library of materials and textures for 2d and 3d objects.
 - [defold-3d-samples](https://github.com/dlannan/defold-3d-samples) — Simple projects showing various 3D concepts, including a sky shader.
 - [Defragments](https://github.com/paweljarosz/defragments) — Simple examples with fragment programs from Shadertoy.
+- [DeLAB Scene](https://github.com/FlexYourBrain/DeLAB_scene) — A ready setup testing ground for rendering / materials / shaders & post-effects.
 - [DeLab-2D Dissolve](https://github.com/FlexYourBrain/Delab2D_dissolve) — 2D dissolve effect shader sample project.
 - [Dezer](https://github.com/Wolfe2x7/Derez) — Render target with low resolution output (downsampling).
 - [Dissolve FX](https://github.com/indiesoftby/defold-dissolve-fx) — An example of implementing the dissolve effect for sprites.
 - [Easer](https://github.com/britzl/easel) — Render script content switcher at run-time.
+- [Glimmer Shader](https://github.com/FlexYourBrain/Delab2D_glimmer) — A glimmering / highlighting shader for 2D sprites.
 - [GLInfo](https://github.com/abadonna/defold-glinfo) — Getting some OpenGL params.
 - [Horri-Fold](https://github.com/TheKing0x9/horri-fold) — A Lo-Fi Horror shader.
 - [Illumination](https://github.com/astrochili/defold-illumination) — A ready-to-use forward shading lighting for 3D games.
@@ -509,6 +514,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [SptirePallete](https://github.com/paweljarosz/SpritePalette) – Example project to show a possibility of changing palette using a palette texture.
 - [SSAO](https://github.com/abadonna/defold-ssao) — A simple screen space ambient occlusion implementation.
 - [SSLR](https://github.com/abadonna/defold-sslr) — A screen space local reflections implementation.
+- [Treasure 3D](https://github.com/FlexYourBrain/Basic3d_TreasureScene) — Showcase of rendering features for a 3D scene.
+- [Vertex Color Sample](https://github.com/FlexYourBrain/sample-vertex-colors) — Using vertex colors from glTF file example.
 - [VSM](https://github.com/abadonna/defold-vsm) — A variance shadow map implementation.
 - [Water reflection effect](https://github.com/FlexYourBrain/sample_2d_water_reflection) — A project showcases a 2d reflective water effect.
 

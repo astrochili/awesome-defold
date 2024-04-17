@@ -406,6 +406,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefGraph](https://github.com/dev-masih/defgraph) — A module to create a graph map and move inside of it.
 - [Grid Engine](https://github.com/klaytonkowalski/library-defold-grid-engine) — Grid-based movement, interactions and utility features.
 - [NavGO](https://github.com/DrCampbell2017/NavGO) — A-star path finding for game objects.
+- [OpenSteer](https://github.com/dlannan/defold-opensteer) — Group management in large scale with traffic control and behavior.
 - 🌙 [Jumper](https://github.com/Yonaba/Jumper) — A pathfinding library designed for grid-based games.
 
 #### Network

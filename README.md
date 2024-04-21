@@ -732,7 +732,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Mobile
 
-- [Blossom Blast Saga](https://king.com/game/blossomblast)
 - [Bouncing Catapult King](https://apps.apple.com/cy/app/bouncy-catapult-king/id1450757809)
 - [Bring Me Cakes](https://play.google.com/store/apps/details?id=com.bringmecakes)
 - [Cat Stories: New Year](https://play.google.com/store/apps/details?id=com.curiousfoxes.cat)

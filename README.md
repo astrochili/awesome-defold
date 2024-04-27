@@ -217,7 +217,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Ease](https://github.com/subsoap/ease) — Easing functions module.
 - [Easier](https://github.com/AGulev/easier) — Interactive example of using inbuilt easing functions.
 - [Hypes Trails](https://github.com/indiesoftby/defold-hyper-trails) — Easy to use and customizable trail effect.
-- [Panthera Editor](https://github.com/Insality/panthera-editor) — Online tool for creating visual animations with lua code export.
+- [Panthera](https://github.com/Insality/panthera) — Animation runtime and editor made with Defold for Defold.
 - [Rive](https://github.com/defold/extension-rive) — Rive animations runtime.
 - [Spine](https://github.com/defold/extension-spine) — Spine animations runtime.
 - [Tilemap Animator](https://github.com/klaytonkowalski/defold-tilemap-animator) — Provides runtime tile animations.

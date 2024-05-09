@@ -724,6 +724,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Jerry Wanker and the Quest to get Laid](https://store.steampowered.com/app/1525050) (NSFW)
 - [Perky Little Things](https://store.steampowered.com/app/811890) (NSFW)
 - [Plague Lords: Witch Hunt](https://store.steampowered.com/app/1827240)
+- [Sensual Hunting](https://store.steampowered.com/app/1967470/Sensual_Haunting/) (NSFW)
 - [Tameshi](https://store.steampowered.com/app/1954720)
 - [The Lost Prince](https://store.steampowered.com/app/2525830)
 - [Void Scrappers](https://store.steampowered.com/app/2005210)

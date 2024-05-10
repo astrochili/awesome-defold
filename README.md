@@ -177,6 +177,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [hxDefold](https://github.com/hxdefold/hxdefold) — Haxe support library for the Defold.
 - [Lua Preprocessor](https://github.com/defold/extension-lua-preprocessor) — Small and simple Lua preprocessor for Defold.
 - [SpiralKit](https://github.com/Lerg/extension-spiralkit) — Low level framework to develop on C++.
+- [Teal](https://github.com/defold/extension-teal) — An official extension to use Teal in your project.
 - [ts-defold](https://ts-defold.dev) — TypeScript toolkit for development games with Defold.
 
 ## Libraries

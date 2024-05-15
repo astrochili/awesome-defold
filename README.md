@@ -136,7 +136,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [How to GUI in Defold](https://forum.defold.com/t/how-to-gui-in-defold/73256) — Best practice proven approaches on how to make GUI.
 - [Lightning VFX](https://forum.defold.com/t/lightning-vfx-how-its-was-made/76270) — Step-by-step guide with a sample project.
 - [Mastering Render Targets in Defold](https://davabase.net/posts/mastering-render-targets-in-defold)
-- [Text-Based Defold Tutorials](https://github.com/klaytonkowalski/tutorial-defold) — Tutorials of game design concepts and feature implementations in Defold projects.
+- [Text-Based Defold Tutorials](https://github.com/whiteboxdev/tutorial-defold) — Tutorials of game design concepts and feature implementations in Defold projects.
 - [Texture Scrolling](https://forum.defold.com/t/texture-scrolling-shader-tutorial-example/71553) — Shader tutorial with an example project.
 
 #### Videos
@@ -221,7 +221,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Panthera](https://github.com/Insality/panthera) — Animation runtime and editor made with Defold for Defold.
 - [Rive](https://github.com/defold/extension-rive) — Rive animations runtime.
 - [Spine](https://github.com/defold/extension-spine) — Spine animations runtime.
-- [Tilemap Animator](https://github.com/klaytonkowalski/defold-tilemap-animator) — Provides runtime tile animations.
+- [Tilemap Animator](https://github.com/whiteboxdev/defold-tilemap-animator) — Provides runtime tile animations.
 - [Timeline](https://github.com/AllanDouglas/deftimeline) — Easy way to make animation play in sequence.
 - [Tweener](https://github.com/Insality/defold-tweener) —  Timer based Defold tween library.
 - 🌙 [flux](https://github.com/rxi/flux) — A fast, lightweight tweening library.
@@ -260,7 +260,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Orthographic](https://github.com/britzl/defold-orthographic) — Orthographic camera API.
 - [Perspective Parallax](https://github.com/FlexYourBrain/sample-perspective_parallax) — An example of perspective parallax effect.
 - [Rendercam](https://github.com/rgrams/rendercam) — A universal render script and camera package.
-- [Rendy](https://github.com/klaytonkowalski/library-defold-rendy) — A versatile camera suite and render pipeline.
+- [Rendy](https://github.com/whiteboxdev/library-defold-rendy) — A versatile camera suite and render pipeline.
 
 #### Debug
 
@@ -339,10 +339,10 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Generation
 
 - [biosim4](https://github.com/dlannan/defold-biosim4) — Port of biologial evolution simulator.
-- [Cellular Automata](https://github.com/klaytonkowalski/example-cellular-automata) — Example of cellular automata and procedural generation.
-- [Diamond Square](https://github.com/klaytonkowalski/example-diamond-square) – Example of the diamond square algorithm and procedural generation.
-- [Fractal Noise](https://github.com/klaytonkowalski/example-fractal-noise) — Example of fractal noise and procedural generation.
-- [Lazy Flood Fill](https://github.com/klaytonkowalski/example-lazy-flood-fill) – Example of the lazy flood fill algorithm and procedural generation.
+- [Cellular Automata](https://github.com/whiteboxdev/example-cellular-automata) — Example of cellular automata and procedural generation.
+- [Diamond Square](https://github.com/whiteboxdev/example-diamond-square) – Example of the diamond square algorithm and procedural generation.
+- [Fractal Noise](https://github.com/whiteboxdev/example-fractal-noise) — Example of fractal noise and procedural generation.
+- [Lazy Flood Fill](https://github.com/whiteboxdev/example-lazy-flood-fill) – Example of the lazy flood fill algorithm and procedural generation.
 - [Perlin Terrain](https://github.com/Lerg/perlin-terrain-defold) — Perlin noise terrain generation.
 - [Wave Function Collapse](https://github.com/dlannan/defold-wfc) — Image generation with Wave Function Collapse algorithm.
 - 🌙 [Astray](https://github.com/SiENcE/astray) — Maze, room and dungeon generation library.
@@ -369,7 +369,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Image, Color
 
-- [Colors](https://github.com/klaytonkowalski/library-defold-colors) — Customizable palettes and color utility features.
+- [Colors](https://github.com/whiteboxdev/library-defold-colors) — Customizable palettes and color utility features.
 - [ColorsLib](https://github.com/y444/defold-color-lib) — Hex colors library and aonverter.
 - [defold-png](https://github.com/britzl/defold-png) — An extension to load and save PNG images.
 - [Draw Pixels](https://github.com/AGulev/drawpixels) — Drawing pixels and simple geometry into a texture buffer.
@@ -405,7 +405,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [A-Star](https://github.com/selimanac/defold-astar) — A path finder and a-star solver.
 - [DefArmy](https://github.com/dev-masih/defarmy) — A module to create groups of game objects, organize them and manage moving saving the pattern.
 - [DefGraph](https://github.com/dev-masih/defgraph) — A module to create a graph map and move inside of it.
-- [Grid Engine](https://github.com/klaytonkowalski/library-defold-grid-engine) — Grid-based movement, interactions and utility features.
+- [Grid Engine](https://github.com/whiteboxdev/library-defold-grid-engine) — Grid-based movement, interactions and utility features.
 - [NavGO](https://github.com/DrCampbell2017/NavGO) — A-star path finding for game objects.
 - [OpenSteer](https://github.com/dlannan/defold-opensteer) — Group management in large scale with traffic control and behavior.
 - 🌙 [Jumper](https://github.com/Yonaba/Jumper) — A pathfinding library designed for grid-based games.
@@ -611,7 +611,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefQuest](https://github.com/subsoap/defquest) — Setup, track, and check real world time countdowns based on OS or server time.
 - [DefUniCo](https://github.com/u16kuma/defunico) — A coroutine library.
 - [Human Time](https://github.com/Jerakin/defold-human-time) — Library to get a "human time".
-- [Timer](https://github.com/klaytonkowalski/library-defold-timer) – Provides a visual timer widget.
+- [Timer](https://github.com/whiteboxdev/library-defold-timer) – Provides a visual timer widget.
 - 🌙 [cron](https://github.com/kikito/cron.lua) — Time-related functions inspired on javascript.
 - 🌙 [tick](https://github.com/rxi/tick) — A small module that simplifies the calling of functions at a set interval or after a delay.
 
@@ -632,7 +632,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [NetImGUI](https://github.com/DreamRealityInteractive/extension-netimgui) — Remotely displaying and controlling Dear ImGUI content.
 - [Printer](https://github.com/Insality/defold-printer) — A symbol-by-symbol text writer.
 - [RichText](https://github.com/britzl/defold-richtext) — Text styling based on an HTML inspired markup language.
-- [Typewriter](https://github.com/klaytonkowalski/library-defold-typewriter) — Styled text output with typing animation.
+- [Typewriter](https://github.com/whiteboxdev/library-defold-typewriter) — Styled text output with typing animation.
 - [whDefRouter](https://github.com/Megus/defold-router) — A screen management solution.
 - [Yoga](https://github.com/farism/defold-yoga) — An embeddable and performant flexbox layout engine.
 
@@ -642,7 +642,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [AURL](https://github.com/subsoap/aurl) — Automatic URL reusing.
 - [Crit](https://github.com/critique-gaming/crit) — Battle-tested collection of modules for game development.
 - [DefKit](https://github.com/adamwestman/defkit) — Component based scripts for Defold inspired by the Game Maker engine.
-- [Defold Persist](https://github.com/klaytonkowalski/library-defold-persist) — A simple interface for saving and loading data.
+- [Defold Persist](https://github.com/whiteboxdev/library-defold-persist) — A simple interface for saving and loading data.
 - [Defold Wrap](https://github.com/baochungit/defold-wrap) — A tiny library to help you change the way you code on Defold.
 - [DefRS](https://github.com/subsoap/defrs) — A collection of general resources to speed up workflows for new projects.
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.

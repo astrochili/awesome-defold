@@ -480,6 +480,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [3D in GUI](https://github.com/FlexYourBrain/sample_3d_gui_rt) — Shows how to display 3d in GUI via render target.
 - [Blur Shader](https://github.com/VincentLagerros/BlurShader) — Blur shader example.
 - [Box2D Lighting](https://github.com/d954mas/defold-box2d-light-demo) — 2D lighting using Box2D raycasting.
+- [Cards FX Kit](https://github.com/Dragosha/cards-fx-kit) — A small kit of scripts and shaders for card games and similar games.
 - [Curved World](https://github.com/rgrams/defold-curved-world) — Demo of a curved world effect similar to that in Animal Crossing.
 - [DefBlend](https://github.com/subsoap/defblend) — Blend solid colors with your sprites using various blending modes.
 - [DefFX](https://github.com/subsoap/deffx) — A collection of useful shader effects.

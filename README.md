@@ -568,6 +568,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Boom](https://github.com/britzl/boom) — A game framework built on top of Defold inspired by Kaboom.
 - [Crit Boilerplate](https://github.com/critique-gaming/crit-boilerplate) — Critique Gaming's starter project with many features out-of-box.
+- [Def-Shell](https://github.com/benjames-171/def-shell/) — Starter project for games by Ben James.
 - [Emthree](https://github.com/britzl/emthree) — Match three game engine.
 - [Fuior Example](https://github.com/critique-gaming/fuior-example) — Ready-to-use starter project based on Crit, Monarch and DefOS.
 - [Insality Template](https://github.com/Insality/defold-template) — Insality's new project template.
@@ -679,6 +680,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 ### Games
 
 - [2.5D Shooter](https://github.com/d954mas/2.5d-shooter) — Prototype of 2.5D shooter like Wolfenstein.
+- [Astrogue](https://github.com/benjames-171/astrogue) — A basic turned-based roguelike.
 - [Ben James 171](https://github.com/benjames-171/defold-games) — A countless list of examples of mini-games by Ben James.
 - [Breakout](https://github.com/britzl/breakout) — A barebones Breakout clone.
 - [britzl Examples](https://github.com/britzl/publicexamples) — A collection of several small examples.
@@ -707,6 +709,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Towerz](https://github.com/britzl/towerz) — Defold version of Tipsy Towers.
 - [TweetFighter](https://github.com/britzl/tweetfighter) — A game of decision making with tweets.
 - [Warbattles RTS](https://github.com/britzl/warbattles-rts) — A RTS sample project.
+- [Word Worm](https://benjames171.itch.io/word-worm) — Finish lines by making words from the letters stacked.
+- [Xfire](https://github.com/benjames-171/xfire) — A simple turn-based combat game.
 - [XOXO](https://github.com/defold/game-xoxo) — Tic Tac Toe game for reuse when testing different server implementations and backend services.
 
 ## Showcase

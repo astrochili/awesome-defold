@@ -192,6 +192,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Enhance](https://github.com/enhance-co/defold-connector) — Official Enhance SDK.
 - [Facebook Ads](https://github.com/MrZak-dev/defold-facebook-ads) - Facebook Ads for Android.
 - [IronSource](https://github.com/defold/extension-ironsource) — Access to IronSource ad mediation.
+- [SpellSync](https://gitlab.com/spellsync/spellsync-defold/) — Unified SDK for many of web platforms.
 - [Yandex Easy Monetization](https://github.com/osov/defold-yandex-easy-monetization) — A mobile mediation network from Yandex (Android only).
 - [Yandex Mobile Ads](https://github.com/osov/defold-yandex-sdk-ads) — Yandex Mobile Ads SDK (Android only).
 

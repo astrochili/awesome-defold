@@ -739,6 +739,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Plague Lords: Witch Hunt](https://store.steampowered.com/app/1827240)
 - [Sensual Hunting](https://store.steampowered.com/app/1967470/) (NSFW)
 - [Tameshi](https://store.steampowered.com/app/1954720)
+- [Tashikani](https://store.steampowered.com/app/2859060)
 - [The Lost Prince](https://store.steampowered.com/app/2525830)
 - [Void Scrappers](https://store.steampowered.com/app/2005210)
 - [Warnament](https://store.steampowered.com/app/1201700)

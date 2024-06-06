@@ -238,11 +238,11 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [XP](https://github.com/subsoap/xp) — A generic leveling up system.
 - 🌙 [beholder](https://github.com/kikito/beholder.lua) — A simple event observer.
 - 🌙 [Classic](https://github.com/rxi/classic) — A tiny class module.
-- 🌙 [lovetoys](https://github.com/lovetoys/lovetoys) — A full-featured ESC framework.
+- 🌙 [lovetoys](https://github.com/lovetoys/lovetoys) — A full-featured ECS framework.
 - 🌙 [Lua Finite State Machine](https://github.com/kyleconroy/lua-state-machine) — A finite state machine.
 - 🌙 [middleclass](https://github.com/kikito/middleclass) — A simple OOP library.
 - 🌙 [stateful](https://github.com/kikito/stateful.lua) — Stateful classes.
-- 🌙 [tiny-ecs](https://github.com/bakpakin/tiny-ecs) — A simple and flexible ESC library.
+- 🌙 [tiny-ecs](https://github.com/bakpakin/tiny-ecs) — A simple and flexible ECS library.
 
 #### Backend
 

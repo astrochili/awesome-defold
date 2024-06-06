@@ -791,7 +791,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Gridog](https://gridog.com) — Daily word challange.
 - [Lands of Bligth](https://poki.com/en/g/lands-of-blight)
 - [Misland](https://sealunicorn.com/games/misland)
-- [Mjjong Cards](https://poki.com/en/g/mahjong-cards)
+- [Mahjong Cards](https://poki.com/en/g/mahjong-cards)
 - [Monkey Mart](https://poki.com/ru/g/monkey-mart)
 - [Moving Truck](https://poki.com/en/g/moving-truck) — Also [Moving Truck: Bounty](https://poki.com/en/g/moving-truck-bounty) and [Moving Truck: Construction](https://poki.com/en/g/moving-truck-construction).
 - [Ninja Mouse](https://poki.com/en/g/ninja-mouse)

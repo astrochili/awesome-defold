@@ -305,6 +305,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Atlas](https://github.com/Jerakin/editor-script-atlas) — Editor script to add images to an atlas as well as create a new one
 - [Components](https://github.com/Jerakin/editor-script-components) — Editor script for creating components from resources.
 - [Distribute](https://github.com/Jerakin/editor-script-distribute) — Editor script for distributing nodes evenly.
+- [index](https://github.com/HalfstarDev/defold-index) — Automatically creates an index for custom resources.
 - [Lua Code Formatter](https://github.com/indiesoftby/defold-editor-script-lua-format) — Editor script that reformats your Lua source code.
 - [Simle Data Component](https://github.com/defold/extension-simpledata) — Example how to bring custom data to a game object.
 - [Sound Editor Scripts](https://github.com/subsoap/subsoap-editor-scripts) — A set of Editor scripts for the sound component.

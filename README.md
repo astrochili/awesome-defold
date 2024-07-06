@@ -402,6 +402,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [SmoothDump](https://github.com/d954mas/defold-smooth-dump) — A native extension with smooth dump functions.
 - [Voronoi](https://github.com/JCash/defold-voronoi) — A small extension for Defold to add 2D voronoi functionality.
 - [xMath](https://github.com/thejustinwalsh/defold-xmath) — A re-imagining of vmath functions that avoid allocations.
+- 🌙 [cpml](https://github.com/excessive/cpml) — Various useful bits of game math for 2D and 3D games.
 
 #### Navigation
 
@@ -444,7 +445,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Polygon Editor](https://github.com/rgrams/defold_polygon_editor) — 2D collision shape editor.
 - [ReactPhysics3D](https://github.com/d954mas/defold-reactphysics3d) — ReactPhysics3D wrapper.
 - [Simple FPS](https://github.com/abadonna/defold-first-person) — A walkable room example with baked lightmaps.
-- 🌙 [bump](https://github.com/kikito/bump.lua) — AABB collision-detection library for axis-aligned rectangles.
+- 🌙 [bump](https://github.com/kikito/bump.lua) — AABB collision detection library for axis-aligned rectangles.
+- 🌙 [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) — A fork of the `bump` library for 3D collision detection.
 
 #### Platforms
 

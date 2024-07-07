@@ -655,6 +655,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Eva](https://github.com/Insality/defold-eva) — Basic toolkit designed for mobile games with meta-game.
 - [Hashed](https://github.com/Lerg/defold-hashed) — A small utility library to automatically use hashed strings.
+- [luaproc](https://github.com/dlannan/defold-luaproc) — A concurrent programming library.
 - [Ludobits](https://github.com/britzl/ludobits) — A set of useful utilities and wrappers.
 - [m](https://github.com/wistpotion/m) — A module for creating hot-reloadable modules.
 - [MD5](https://github.com/Melsoft-Games/defold-md5) — Native MD5 generator from string.

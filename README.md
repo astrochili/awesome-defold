@@ -695,6 +695,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Climberz](https://github.com/defold/game-climberz) — An infinite climber with Web Monetization support.
 - [Driller](https://github.com/aglitchman/defold-ld48-game) — 3D first-person shooter for Ludum Dare 48.
 - [Flappy Bird](https://github.com/d954mas/defold-flappy-bird) — Flappy Bird clone implementation.
+- [Gabagus](https://github.com/asetsiya/gabagus) — Like a "flappy bird clone" but much more.
 - [Holdem Solitaire](https://github.com/derlidio/Holdem) — A solitaire puzzle game based on poker rules.
 - [Horror 3D](https://github.com/paweljarosz/horror_3d_game_mwdj_2023) — Horror 3D game inspired by Slender.
 - [Infinite Runner](https://github.com/defold/sample-runner) — Infinite runner sample project.

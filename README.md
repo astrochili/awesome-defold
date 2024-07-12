@@ -330,6 +330,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Defold Parser](https://github.com/Insality/defold-parser) — A node.js module to encode and decode Defold files.
 - [Defold Protobuf](https://github.com/Melsoft-Games/defold-protobuf) — Protobuf format encoder and decoder.
 - [Desert](https://github.com/britzl/desert) — Lua table (de)serialiser for the Defold.
+- [LZ4](https://github.com/JustAPotota/defold-lz4) — LZ4 fast compression algorithm.
 - [Mesh Binary](https://github.com/abadonna/defold-mesh-binary) — Binary export from Blender to Defold.
 - [Pack](https://github.com/subsoap/pack) — Compress, decompress, and obfuscate table data.
 - [PPReader](https://github.com/AGulev/ppreader) — Parser of Unity PlayerPrefs files into Lua tables.

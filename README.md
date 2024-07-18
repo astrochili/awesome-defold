@@ -230,6 +230,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Architecture
 
+- [def-behavior-tree](https://github.com/s-kania/def-behavior-tree) — A library for creating behavioral trees.
 - [Event](https://github.com/Insality/defold-event) — A cross-context Defold event system.
 - [Pigeon](https://github.com/paweljarosz/pigeon) — Pigeon allows easily and safely manage posting messages.
 - [Stately](https://github.com/britzl/stately) — A simple finite state machine.

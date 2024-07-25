@@ -391,6 +391,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Input
 
+- [Defold TextInput](https://github.com/baochungit/defold-textinput) — Brings native text input field behavior.
 - [Defold-Input](https://github.com/britzl/defold-input) — Modules to simplifies input related operations.
 - [Mobile HTML5 Typing](https://github.com/mchlkpng/defold-mobilehtml5-typing) — Mobile HTML5 text keyboard input.
 - [Pointer Lock](https://github.com/indiesoftby/defold-pointer-lock) — Mouse pointer lock.

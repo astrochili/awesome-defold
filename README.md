@@ -769,6 +769,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Bring Me Cakes](https://play.google.com/store/apps/details?id=com.bringmecakes)
 - [Cat Stories: New Year](https://play.google.com/store/apps/details?id=com.curiousfoxes.cat)
 - [Cat's Day](https://astronachos.com/catsday)
+- [Chess Box](https://play.google.com/store/apps/details?id=com.alistair.crompton.chess.box)
 - [Civilization Path](https://play.google.com/store/apps/details?id=com.DenisMakhortov.CivilizationPath)
 - [Classic Solitaire Klondike](https://play.google.com/store/apps/details?id=com.potatojam.classic.solitaire.klondike)
 - [Cold Path](https://play.google.com/store/apps/details?id=com.DenisMakhortov.ColdPath)
@@ -784,6 +785,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Look Your Loot!](https://apps.apple.com/us/app/look-your-loot/id1339205191)
 - [Lunar Orbit: Space Flight Game](https://apps.apple.com/app/lunar-orbit-space-strategy/id1486762718)
 - [Merge Hotel: Family Empire](https://play.google.com/store/apps/details?id=com.happygames.mergehotel)
+- [Once Upon a Galaxy](https://www.galaxygame.app/)
 - [Rare Pets](https://play.google.com/store/apps/details?id=com.drihq.pets)
 - [Solitaire Jazz Travel](https://bigbutton.co/solitaire-jazz-travel)
 - [Taxi Town](https://apps.apple.com/app/taxi-town/id1501324428)
@@ -805,9 +807,10 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Fish Eat Fish](https://poki.com/en/g/fish-eat-fish)
 - [Foxy Fog](https://poki.com/en/g/foggy-fox)
 - [Gridog](https://gridog.com) — Daily word challange.
+- [Kỳ Hoàng](https://kyhoang.com/game)
 - [Lands of Bligth](https://poki.com/en/g/lands-of-blight)
-- [Misland](https://sealunicorn.com/games/misland)
 - [Mahjong Cards](https://poki.com/en/g/mahjong-cards)
+- [Misland](https://sealunicorn.com/games/misland)
 - [Monkey Mart](https://poki.com/ru/g/monkey-mart)
 - [Moving Truck](https://poki.com/en/g/moving-truck) — Also [Moving Truck: Bounty](https://poki.com/en/g/moving-truck-bounty) and [Moving Truck: Construction](https://poki.com/en/g/moving-truck-construction).
 - [Ninja Mouse](https://poki.com/en/g/ninja-mouse)
@@ -816,5 +819,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Onet Paradise](https://poki.com/ru/g/onet-paradise)
 - [Puffy Cat](https://poki.com/en/g/puffy-cat) — Also [Puffy Cat 2](https://poki.com/en/g/puffy-cat-2).
 - [Raft Wart Multiplayer](https://poki.com/en/g/raft-wars-multiplayer)
+- [Space War](https://space-war.ru/)
+- [Tower Stack](https://farismmk.itch.io/tower-stack)
 - [Zombotag](https://poki.com/en/g/zombotag)
 - [Zoom-Be](https://poki.com/en/g/zoom-be) — Also [Zoom-Be 2](https://poki.com/en/g/zoom-be-2) and [Zoom-Be 3](https://poki.com/en/g/zoom-be-3).

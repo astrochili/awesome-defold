@@ -468,6 +468,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [In-App Purchase](https://github.com/defold/extension-iap) — In-app purchase extension for iOS, Android and Facebook.
 - [Instant Games Bridge](https://github.com/instant-games-bridge/instant-games-bridge-defold) — SDK for cross-platform publishing HTML5 games.
 - [KaiAds](https://github.com/defold/extension-kaiads) — KaiOS SDK.
+- [PlayDeck](https://github.com/d954mas/defold-playdeck) — A Telegram-native gaming marketplace.
 - [PokiSDK](https://github.com/AGulev/defold-poki-sdk) — Poki SDK.
 - [Steamworks](https://github.com/defold/extension-steam) — Steamworks SDK.
 - [VK Bridge](https://github.com/potatojam/defold-vkbridge) — VK Bridge implementation for HTML5.

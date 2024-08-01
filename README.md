@@ -331,12 +331,15 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Defold Parser](https://github.com/Insality/defold-parser) — A node.js module to encode and decode Defold files.
 - [Defold Protobuf](https://github.com/Melsoft-Games/defold-protobuf) — Protobuf format encoder and decoder.
 - [defold-blender-convex-hull] — A small script to export the convexshape from Blender.
+- [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Desert](https://github.com/britzl/desert) — Lua table (de)serialiser for the Defold.
 - [LZ4](https://github.com/JustAPotota/defold-lz4) — LZ4 fast compression algorithm.
 - [Mesh Binary](https://github.com/abadonna/defold-mesh-binary) — Binary export from Blender to Defold.
 - [Pack](https://github.com/subsoap/pack) — Compress, decompress, and obfuscate table data.
 - [PPReader](https://github.com/AGulev/ppreader) — Parser of Unity PlayerPrefs files into Lua tables.
 - [Proto](https://github.com/defold/extension-proto) — Generates Lua bindings to encode and decode a predefined set of protobuf messages.
+- [Proto](https://github.com/Insality/defold-proto) — Protobuf Library to encode, decode and verifying messages.
+- [Saver](https://github.com/Insality/defold-saver) — A library for saving and loading save data.
 - [Sheets Exporter](https://github.com/Insality/sheets-exporter) — Processing and exporting data from Google Sheets to Lua.
 - [Texture Packer Atlas](https://github.com/defold/extension-texturepacker) — Native extensions that adds support for the TexturePacker atlas format.
 - [TexturePacker Exporter](https://github.com/Lerg/defold-texturepacker-exporter) — Exports from TexturePacker to a native atlas for Defold.
@@ -597,6 +600,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Defork](https://github.com/paweljarosz/defork) — A parser for JSON files exported from Twine.
 - [DefString](https://github.com/subsoap/defstring) — A module with a set of extra string functions.
 - [Fuiur](https://github.com/critique-gaming/fuior) — A domain-specific language for narrative design.
+- [Lang](https://github.com/Insality/defold-lang) — A module for working with localization.
 - [LPeg](https://github.com/astrochili/defold-lpeg) — A pattern-matching library.
 - [Narrator](https://github.com/astrochili/narrator) — Ink language runtime that works with Ink files.
 - [Polyglot](https://github.com/paweljarosz/defold-polyglot) —A simple Polyglot to Defold tool for game localizations.
@@ -658,7 +662,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Defold Persist](https://github.com/whiteboxdev/library-defold-persist) — A simple interface for saving and loading data.
 - [Defold Wrap](https://github.com/baochungit/defold-wrap) — A tiny library to help you change the way you code on Defold.
 - [DefRS](https://github.com/subsoap/defrs) — A collection of general resources to speed up workflows for new projects.
-- [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Eva](https://github.com/Insality/defold-eva) — Basic toolkit designed for mobile games with meta-game.
 - [Hashed](https://github.com/Lerg/defold-hashed) — A small utility library to automatically use hashed strings.
 - [luaproc](https://github.com/dlannan/defold-luaproc) — A concurrent programming library.

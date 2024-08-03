@@ -230,10 +230,16 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Architecture
 
+- [Crit](https://github.com/critique-gaming/crit) — Battle-tested collection of modules for game development.
+- [Decore](https://github.com/Insality/decore) — A library for managing ECS game entities, components, and worlds in a data-driven way.
 - [def-behavior-tree](https://github.com/s-kania/def-behavior-tree) — A library for creating behavioral trees.
+- [DefRS](https://github.com/subsoap/defrs) — A collection of general resources to speed up workflows for new projects.
+- [Eva](https://github.com/Insality/defold-eva) — Basic toolkit designed for mobile games with meta-game.
 - [Event](https://github.com/Insality/defold-event) — A cross-context Defold event system.
 - [Pigeon](https://github.com/paweljarosz/pigeon) — Pigeon allows easily and safely manage posting messages.
+- [Quest](https://github.com/Insality/defold-quest) — A comprehensive system for managing quests in a game.
 - [Stately](https://github.com/britzl/stately) — A simple finite state machine.
+- [Token](https://github.com/Insality/defold-token) — A library to manage countable items such as money, lives, and other numeric values.
 - [Vita](https://github.com/subsoap/vita) — A generic energy / life system.
 - [whefQuest](https://github.com/Megus/whdefquest) — A little helper library to create quests.
 - [XP](https://github.com/subsoap/xp) — A generic leveling up system.
@@ -658,12 +664,9 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [AHash](https://github.com/subsoap/ahash) — A simple module for automatic hash reusing.
 - [AURL](https://github.com/subsoap/aurl) — Automatic URL reusing.
-- [Crit](https://github.com/critique-gaming/crit) — Battle-tested collection of modules for game development.
 - [DefKit](https://github.com/adamwestman/defkit) — Component based scripts for Defold inspired by the Game Maker engine.
 - [Defold Persist](https://github.com/whiteboxdev/library-defold-persist) — A simple interface for saving and loading data.
 - [Defold Wrap](https://github.com/baochungit/defold-wrap) — A tiny library to help you change the way you code on Defold.
-- [DefRS](https://github.com/subsoap/defrs) — A collection of general resources to speed up workflows for new projects.
-- [Eva](https://github.com/Insality/defold-eva) — Basic toolkit designed for mobile games with meta-game.
 - [Hashed](https://github.com/Lerg/defold-hashed) — A small utility library to automatically use hashed strings.
 - [luaproc](https://github.com/dlannan/defold-luaproc) — A concurrent programming library.
 - [Ludobits](https://github.com/britzl/ludobits) — A set of useful utilities and wrappers.

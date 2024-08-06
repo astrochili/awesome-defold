@@ -233,6 +233,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Crit](https://github.com/critique-gaming/crit) — Battle-tested collection of modules for game development.
 - [Decore](https://github.com/Insality/decore) — A library for managing ECS game entities, components, and worlds in a data-driven way.
 - [def-behavior-tree](https://github.com/s-kania/def-behavior-tree) — A library for creating behavioral trees.
+- [defold-ecs](https://github.com/dlannan/defold-ecs) — The ECS based on `tiny-ecs` with http web server debugging and monitoring.
 - [DefRS](https://github.com/subsoap/defrs) — A collection of general resources to speed up workflows for new projects.
 - [Eva](https://github.com/Insality/defold-eva) — Basic toolkit designed for mobile games with meta-game.
 - [Event](https://github.com/Insality/defold-event) — A cross-context Defold event system.

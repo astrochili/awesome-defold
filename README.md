@@ -329,6 +329,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Formats, Import, Export
 
 - [CJSON](https://github.com/Melsoft-Games/defold-cjson) — Native JSON encoder and decoder.
+- [CleanExporter](https://github.com/FlexYourBrain/CleanExporter) — Blender add-on for exporting mesh (.buffer) files.
 - [Collection Parser](https://github.com/rgrams/defold_collection_parser) — Defold files format encoder and decoder.
 - [Crypt](https://github.com/defold/extension-crypt) — Various hash and encode/decode algorithms.
 - [CSV Loader](https://github.com/subsoap/csvloader) — Can load and parse CSV files.

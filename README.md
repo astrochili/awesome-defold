@@ -537,6 +537,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [SptirePallete](https://github.com/paweljarosz/SpritePalette) – Example project to show a possibility of changing palette using a palette texture.
 - [SSAO](https://github.com/abadonna/defold-ssao) — A simple screen space ambient occlusion implementation.
 - [SSLR](https://github.com/abadonna/defold-sslr) — A screen space local reflections implementation.
+- [Toon Shader](https://github.com/selimanac/defold-toon-shader) — A rendering style designed to make 3D surfaces emulate 2D, flat surfaces.
 - [Treasure 3D](https://github.com/FlexYourBrain/Basic3d_TreasureScene) — Showcase of rendering features for a 3D scene.
 - [Vertex Color Sample](https://github.com/FlexYourBrain/sample-vertex-colors) — Using vertex colors from glTF file example.
 - [VSM](https://github.com/abadonna/defold-vsm) — A variance shadow map implementation.

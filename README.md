@@ -499,6 +499,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Render, Shaders
 
 - [3D in GUI](https://github.com/FlexYourBrain/sample_3d_gui_rt) — Shows how to display 3d in GUI via render target.
+- [3D Outline Shader](https://github.com/selimanac/defold-3D-outline-shader) — AsSimple outline shader for 3D models.
 - [Blur Shader](https://github.com/VincentLagerros/BlurShader) — Blur shader example.
 - [Box2D Lighting](https://github.com/d954mas/defold-box2d-light-demo) — 2D lighting using Box2D raycasting.
 - [Cards FX Kit](https://github.com/Dragosha/cards-fx-kit) — A small kit of scripts and shaders for card games and similar games.

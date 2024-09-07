@@ -170,6 +170,10 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Defold + Zed](https://github.com/astrochili/defold-zed) — A collection of ideas on how to adapt the Zed editor for Defold.
 
+#### Neovim
+
+- [DoNe](https://github.com/monkoose/DoNe) — A plugin for better Defold experience.
+
 ### Programming Language
 
 - [Compat-5.3](https://github.com/alex-ac/defold-compat-5.3) — Providing Lua 5.3 style API.
@@ -534,6 +538,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Shader Examples](https://github.com/subsoap/defold-shader-examples/issues) — A collection of shader examples by subsoap.
 - [Skyquad](https://github.com/abadonna/defold-skyquad) — Skyquad implementation.
 - [Software Renderer](https://github.com/dlannan/defold-sw-renderer) — A software renderer implementation.
+- [Sparkle Effect](https://github.com/ufgo/sparkle_effect) — A simple 2D sparkle shader.
 - [Sprite texture repeat shader](https://github.com/Dragosha/defold-sprite-repeat) — Texture repeat (tiling) shader.
 - [SptirePallete](https://github.com/paweljarosz/SpritePalette) – Example project to show a possibility of changing palette using a palette texture.
 - [SSAO](https://github.com/abadonna/defold-ssao) — A simple screen space ambient occlusion implementation.
@@ -571,6 +576,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Clipboard](https://github.com/britzl/defold-clipboard) — Access the system clipboard.
 - [Def-Diags](https://github.com/andsve/def-diags) — Open and save dialogs for Desktop.
 - [Def-Mnu](https://github.com/AGulev/def-mnu) — Native context and app menu library for macOS and Windows.
+- [defold-ffi](https://github.com/dlannan/defold-ffi) — A set of tests and examples of using ffi with Defold.
 - [DefOS](https://github.com/subsoap/defos) — Extra native OS functions on macOS, Windows, Linux and HTML5.
 - [Defpfd](https://github.com/AsakuraMizu/defpfd) — Portable File Dialogs.
 - [DefProcess](https://github.com/subsoap/defprocess) — Check if a Windows process is running.

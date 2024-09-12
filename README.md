@@ -444,6 +444,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Particle System
 
+- [Acid Rain](https://github.com/approboGames/AcidRain) — A single file pure Lua particle system for Defold.
 - [Kenney Particle Pack](https://github.com/subsoap/kenney_particle_pack_defold) — Particle effects made with the Kenney Particle Pack.
 - [zeroParticles](https://github.com/Lampogolovii/zeroParticles) — A library for creating sprite-particles.
 

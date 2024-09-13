@@ -294,7 +294,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Share Log](https://github.com/potatojam/defold-share-log) — Writes all output to the console and makes it possible save or send somewhere.
 - [signpost](https://github.com/AGulev/extension-signpost) — Helps to mark points of interest in Xcode Instruments.
 - [WebGL Memory](https://github.com/indiesoftby/defold-webgl-memory) — Tracker for GPU and CPU memory usage on HTML5.
-- 🌙 [Busted](http://olivinelabs.com/busted) — Lua unit testing.
+- 🌙 [Busted](https://github.com/lunarmodules/busted) — Lua unit testing.
 - 🌙 [inspect](https://github.com/kikito/inspect.lua) — Human-readable table representation.
 - 🌙 [PegDebug](https://github.com/pkulchenko/PegDebug) — Trace debugger for LPeg rules and captures.
 

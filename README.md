@@ -365,6 +365,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Fractal Noise](https://github.com/whiteboxdev/example-fractal-noise) — Example of fractal noise and procedural generation.
 - [Lazy Flood Fill](https://github.com/whiteboxdev/example-lazy-flood-fill) – Example of the lazy flood fill algorithm and procedural generation.
 - [Perlin Terrain](https://github.com/Lerg/perlin-terrain-defold) — Perlin noise terrain generation.
+- [Unique Names Generator](https://github.com/indiesoftby/defold-unique-names-generator) — A simple way to generate unique names.
 - [Wave Function Collapse](https://github.com/dlannan/defold-wfc) — Image generation with Wave Function Collapse algorithm.
 - 🌙 [Astray](https://github.com/SiENcE/astray) — Maze, room and dungeon generation library.
 

@@ -305,7 +305,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Deployer](https://github.com/Insality/defold-deployer) — Universal build and deploy script with configurable settings.
 - [Github Actions Builder](https://github.com/streamtheater/defold-githubactions-builder) — Github build workflow for Android & iOS.
 - [Manifest Decoding Tool](https://github.com/aglitchman/defold-dmanifest-decode) — App manifest decoding tool.
-- [Manifestation](https://github.com/britzl/manifestation) — App manifest generator.
 - [Prometheus](https://github.com/defold/extension-prometheus) – Lua obfuscation using Prometheus.
 - [Resource Encryption](https://github.com/defold/extension-resource-encryption) — Example of how to create a resource encryption plugin for Defold assets.
 - [ResZip](https://github.com/indiesoftby/defold-liveupdate-reszip) — Live update loading speed improvement for HTML5.

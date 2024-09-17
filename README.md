@@ -438,6 +438,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefBit](https://github.com/Laminariy/defbit) — Event, synchronization, RPC network library for multiplayer games.
 - [DefNet](https://github.com/britzl/defnet) — Networking modules and examples.
 - [LuaSocket](https://github.com/britzl/defold-luasocket) — Extended LuaSocket with the `mime.core` part.
+- [The Poki Networking Library](https://github.com/indiesoftby/defold-poki-netlib) — A peer-to-peer library for web games on Poki.
 - [Tiny Http](https://github.com/selimanac/defold-tiny-http) — A simple HTTP server and client.
 - [WebRTC](https://github.com/VitusVeit/extension-webrtc) — A quick and easy C++ library that adds support for WebRTC.
 - [WebSocket](https://github.com/defold/extension-websocket) — WebSocket connections.

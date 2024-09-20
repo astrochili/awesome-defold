@@ -662,6 +662,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Druid](https://github.com/Insality/druid) — A framework of wide range user interface components.
 - [DSFonts](https://github.com/sergeysinyavsky/dsfonts) — A set of shaders and materials for the distance field font.
 - [efSceneManager](https://github.com/abadonna/DefSceneManager) — Scene manager suitable for visual novels and adventure games.
+- [FontGen](https://github.com/defold/extension-fontgen) — Allows for extending an existing font (.fontc) with more glyphs at runtime.
 - [FontScale](https://github.com/myopic-design/defold-fontscale) — Returns the preferred font scaling factor on the device.
 - [Gooey](https://github.com/britzl/gooey) — A lightweight GUI system inspired by Dirty Larry.
 - [ImNodes](https://github.com/paweljarosz/defold_imnodes) — Example of how to create node/flow fraphs with Dear ImGUI.

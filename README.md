@@ -743,6 +743,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Slasher Prototype](https://github.com/Dragosha/slasher-prototype) — A game prototype with 2.5D perspective view, levels loader, the hero controller, monsters and basic AI logic.
 - [Tetris](https://github.com/joachimvalente/defold-tetris) — A tetris game clone.
 - [Throw a Cow](https://github.com/britzl/throwacrow) — An implementation of the popular game Angry Birds.
+- [Tic Tac Toe](https://github.com/paweljarosz/tick-tock-toe) — A game with undo mechanics featuring immutable tables as game states.
 - [Towerz](https://github.com/britzl/towerz) — Defold version of Tipsy Towers.
 - [TweetFighter](https://github.com/britzl/tweetfighter) — A game of decision making with tweets.
 - [Warbattles RTS](https://github.com/britzl/warbattles-rts) — A RTS sample project.

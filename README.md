@@ -688,6 +688,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [m](https://github.com/wistpotion/m) — A module for creating hot-reloadable modules.
 - [MD5](https://github.com/Melsoft-Games/defold-md5) — Native MD5 generator from string.
 - 🌙 [betteries](https://github.com/1bardesign/batteries) — Reusable dependencies for games made with Lua.
+- 🌙 [Immutable](https://github.com/paweljarosz/lua-immutable) — Runtime immutable Lua table implementation.
 - 🌙 [Knife](https://github.com/airstruck/knife) — A collection of useful micro-modules for Lua.
 - 🌙 [lua-algorithms](https://github.com/chen0040/lua-algorithms) — General algorithms and data structures.
 - 🌙 [LuaFun](https://github.com/luafun/luafun) — A high-performance functional programming library.

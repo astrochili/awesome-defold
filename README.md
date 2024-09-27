@@ -717,6 +717,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [2.5D Shooter](https://github.com/d954mas/2.5d-shooter) — Prototype of 2.5D shooter like Wolfenstein.
 - [Astrogue](https://github.com/benjames-171/astrogue) — A basic turned-based roguelike.
 - [Ben James 171](https://github.com/benjames-171/defold-games) — A countless list of examples of mini-games by Ben James.
+- [Blocks Cubes 2048](https://github.com/vokaimoh/blocks-cubes-2048) — A hyper casual 2d merge game.
 - [Breakout](https://github.com/britzl/breakout) — A barebones Breakout clone.
 - [britzl Examples](https://github.com/britzl/publicexamples) — A collection of several small examples.
 - [Climberz](https://github.com/defold/game-climberz) — An infinite climber with Web Monetization support.

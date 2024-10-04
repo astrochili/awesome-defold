@@ -273,10 +273,11 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Operator](https://github.com/astrochili/defold-operator) — A tweakable camera controller for 3D games.
 - [Orbit-Camera](https://github.com/abadonna/defold-orbit-camera) — A simple orbit camera example.
-- [Orthographic](https://github.com/britzl/defold-orthographic) — Orthographic camera API.
+- [Orthographic](https://github.com/britzl/defold-orthographic) — Orthographic camera functionality.
 - [Perspective Parallax](https://github.com/FlexYourBrain/sample-perspective_parallax) — An example of perspective parallax effect.
 - [Rendercam](https://github.com/rgrams/rendercam) — A universal render script and camera package.
 - [Rendy](https://github.com/whiteboxdev/library-defold-rendy) — A versatile camera suite and render pipeline.
+- [Starly](https://github.com/VowSoftware/starly) — A feature-rich orthographic camera solution.
 
 #### Debug
 

@@ -479,7 +479,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Cafe Bazaar](https://github.com/dev-masih/cafebazaar-iap) — Cafe Bazaar In-app purchase extension.
 - [Crazy Games](https://github.com/d954mas/defold-crazygames-sdk) — A partly implemented Crazy Games SDK.
 - [Facebook Instant](https://github.com/defold/extension-fbinstant) — Facebook Instant Games API.
-- [Game Distribution](https://github.com/defold/gd-sdk-defold) — GameDistribution SDK.
+- [Game Distribution](https://github.com/GameDistribution/gd-defold/) — GameDistribution SDK.
 - [GOG Galaxy](https://github.com/dapetcu21/defold-gog-galaxy) — GOG Galaxy SDK.
 - [Google Colab](https://github.com/Brun0oO/defold-colab) — Access to the Google Colab notebook from an iOS or Android.
 - [Google Play Instant](https://github.com/defold/extension-googleplayinstant) — Google Play Instant API.
@@ -543,7 +543,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Point Light](https://github.com/abadonna/defold-point-light) — Omnidirectional shadow map implementation.
 - [Projections](https://github.com/defold/sample-projections) — A sample project showing the different render script projections.
 - [Scene3D](https://github.com/indiesoftby/defold-scene3d) — A collection of assets and useful functions for 3D games.
-- [Shader Examples](https://github.com/subsoap/defold-shader-examples/issues) — A collection of shader examples by subsoap.
+- [Shader Examples](https://github.com/subsoap/defold-shader-examples) — A collection of shader examples by subsoap.
 - [Skyquad](https://github.com/abadonna/defold-skyquad) — Skyquad implementation.
 - [Software Renderer](https://github.com/dlannan/defold-sw-renderer) — A software renderer implementation.
 - [Sparkle Effect](https://github.com/ufgo/sparkle_effect) — A simple 2D sparkle shader.

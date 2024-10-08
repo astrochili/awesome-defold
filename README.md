@@ -752,7 +752,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Towerz](https://github.com/britzl/towerz) — Defold version of Tipsy Towers.
 - [TweetFighter](https://github.com/britzl/tweetfighter) — A game of decision making with tweets.
 - [Warbattles RTS](https://github.com/britzl/warbattles-rts) — A RTS sample project.
-- [Word Worm](https://benjames171.itch.io/word-worm) — Finish lines by making words from the letters stacked.
+- [Word Worm](https://github.com/benjames-171/word-worm/) — Finish lines by making words from the letters stacked.
 - [Xfire](https://github.com/benjames-171/xfire) — A simple turn-based combat game.
 - [XOXO](https://github.com/defold/game-xoxo) — Tic Tac Toe game for reuse when testing different server implementations and backend services.
 

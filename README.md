@@ -637,7 +637,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [3D Tilemap](https://github.com/Dragosha/defold-things/tree/master/3d-tilemap) — Converting 2D tilemap to 3D mesh.
 - [A-Star Hex Example](https://github.com/selimanac/defold-astar-hex-example) — An example of using a-star library for a hexagonal grid.
-- [Autotiling](https://github.com/defold/extension-autotiling) — Adds autotiling to Defold tilemaps.
 - [Detiled](https://github.com/Insality/detiled) — A set of tools to make work with Defold and Tiled easier.
 - [Hexagon](https://github.com/selimanac/defold-hexagon) — A library to work woth hexagon grids.
 - [Hexagonal Grid](https://github.com/redoak/defold-hexagon-grid-sample) — Hexagonal grid implementation with a three-axis coordinate system.

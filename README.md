@@ -348,6 +348,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [defold-blender-convex-hull](https://github.com/selimanac/defold-blender-convex-hull) — A small script to export the convexshape from Blender.
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Desert](https://github.com/britzl/desert) — Lua table (de)serialiser for the Defold.
+- [glb2convexshape] — A library for generate `.convexshape` file from `.glb` file. 
 - [LZ4](https://github.com/JustAPotota/defold-lz4) — LZ4 fast compression algorithm.
 - [Mesh Binary](https://github.com/abadonna/defold-mesh-binary) — Binary export from Blender to Defold.
 - [Pack](https://github.com/subsoap/pack) — Compress, decompress, and obfuscate table data.

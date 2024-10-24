@@ -492,6 +492,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [PokiSDK](https://github.com/AGulev/defold-poki-sdk) — Poki SDK.
 - [Rustore](https://gitflic.ru/company/rustore) — SDKs and examples of integration with Rustore.
 - [Steamworks](https://github.com/defold/extension-steam) — Steamworks SDK.
+- [UMP](https://github.com/tocaRepo/defold-androidextension-ump) — Google's User Messaging Platform to manage user consent for ads on Android.
 - [VK Bridge](https://github.com/potatojam/defold-vkbridge) — VK Bridge implementation for HTML5.
 - [VKminiBridge](https://github.com/Laminariy/vkminibridge) — Basic integration with VK on iOS, Android and HTML5.
 - [Web Monetization](https://github.com/defold/extension-webmonetization) — Web Monetization API.

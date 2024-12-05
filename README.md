@@ -528,6 +528,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Dezer](https://github.com/Wolfe2x7/Derez) — Render target with low resolution output (downsampling).
 - [Dissolve FX](https://github.com/indiesoftby/defold-dissolve-fx) — An example of implementing the dissolve effect for sprites.
 - [Easer](https://github.com/britzl/easel) — Render script content switcher at run-time.
+- [Fire Glow](https://github.com/ufgo/fire_glow) — Fire Glow shader effect.
 - [Glimmer Shader](https://github.com/FlexYourBrain/Delab2D_glimmer) — A glimmering / highlighting shader for 2D sprites.
 - [GLInfo](https://github.com/abadonna/defold-glinfo) — Getting some OpenGL params.
 - [Horri-Fold](https://github.com/TheKing0x9/horri-fold) — A Lo-Fi Horror shader.

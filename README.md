@@ -178,6 +178,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Compat-5.3](https://github.com/alex-ac/defold-compat-5.3) — Providing Lua 5.3 style API.
 - [DefoldSharp](https://github.com/RealityStop/DefoldSharp) — Transpiler from C# to Lua.
+- [dfnim](https://github.com/MhadhbiXissam/dfnim) — A native extension to use Nim language.
 - [hxDefold](https://github.com/hxdefold/hxdefold) — Haxe support library for the Defold.
 - [Lua Preprocessor](https://github.com/defold/extension-lua-preprocessor) — Small and simple Lua preprocessor for Defold.
 - [Pydefold](https://pypi.org/project/Pydefold/) — Python package to work with Defold Proto files.

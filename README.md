@@ -727,6 +727,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Blocks Cubes 2048](https://github.com/vokaimoh/blocks-cubes-2048) — A hyper casual 2d merge game.
 - [Breakout](https://github.com/britzl/breakout) — A barebones Breakout clone.
 - [britzl Examples](https://github.com/britzl/publicexamples) — A collection of several small examples.
+- [Bubble Balls](https://github.com/vokaimoh/bubble-balls) — Hyper casual 2d pop game.
 - [Climberz](https://github.com/defold/game-climberz) — An infinite climber with Web Monetization support.
 - [Driller](https://github.com/aglitchman/defold-ld48-game) — 3D first-person shooter for Ludum Dare 48.
 - [Flappy Bird](https://github.com/d954mas/defold-flappy-bird) — Flappy Bird clone implementation.

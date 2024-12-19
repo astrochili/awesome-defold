@@ -782,6 +782,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Good Morning, A.I.](https://store.steampowered.com/app/1791900)
 - [Interrogation](https://interrogation-game.com)
 - [Jerry Wanker and the Quest to get Laid](https://store.steampowered.com/app/1525050) (NSFW)
+- [Kaiju Control Force](https://store.steampowered.com/app/3268730)
 - [Perky Little Things](https://store.steampowered.com/app/811890) (NSFW)
 - [Plague Lords: Witch Hunt](https://store.steampowered.com/app/1827240)
 - [Sensual Hunting](https://store.steampowered.com/app/1967470/) (NSFW)

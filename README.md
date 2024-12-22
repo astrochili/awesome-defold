@@ -172,6 +172,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Neovim
 
+- [berru's setup](https://git.sr.ht/~berru/berrus_defold_linux_setup) - A Linux development setup with LSP autocompletion, hot-reload and builds via `Makefile`.
 - [DoNe](https://github.com/monkoose/DoNe) — A plugin for better Defold experience.
 
 ### Programming Language

@@ -436,6 +436,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [A-Star](https://github.com/selimanac/defold-astar) — A path finder and a-star solver.
 - [DefArmy](https://github.com/dev-masih/defarmy) — A module to create groups of game objects, organize them and manage moving saving the pattern.
 - [DefGraph](https://github.com/dev-masih/defgraph) — A module to create a graph map and move inside of it.
+- [Detour](https://github.com/abadonna/defold-detour) — A native extension for Recast Navigation.
 - [Grid Engine](https://github.com/whiteboxdev/library-defold-grid-engine) — Grid-based movement, interactions and utility features.
 - [NavGO](https://github.com/DrCampbell2017/NavGO) — A-star path finding for game objects.
 - [OpenSteer](https://github.com/dlannan/defold-opensteer) — Group management in large scale with traffic control and behavior.

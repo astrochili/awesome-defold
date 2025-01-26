@@ -268,6 +268,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Firebase Remote Config](https://github.com/defold/extension-firebase-remoteconfig) - Firebase Remote Config functionality on Android and iOS.
 - [Game Push](https://github.com/megalanthus/defold-gamepush) — GamePush SDK implementation.
 - [Nakama](https://github.com/heroiclabs/nakama-defold) — Client for the Nakama server.
+- [OMGSERVERS](https://github.com/OMGSERVERS/omgservers) — SDK for OMGSERVERS, a backend for authoritative game servers.
 - [PlayFab](https://github.com/PlayFab/LuaSdk) — PlayFab Lua SDK.
 - [PlayFab Examples](https://github.com/britzl/playfabexamples) — PlayFab API using examples.
 

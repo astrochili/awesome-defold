@@ -853,6 +853,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Gridog](https://gridog.com) — Daily word challange.
 - [Kỳ Hoàng](https://kyhoang.com/game)
 - [Lands of Bligth](https://poki.com/en/g/lands-of-blight)
+- [Mad Skills Motocross 2](https://poki.com/en/g/mad-skills-motocross-2)
 - [Mahjong Cards](https://poki.com/en/g/mahjong-cards)
 - [Misland](https://sealunicorn.com/games/misland)
 - [Monkey Mart](https://poki.com/ru/g/monkey-mart)

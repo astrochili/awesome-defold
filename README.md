@@ -347,7 +347,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [dae2collision](https://github.com/JustAPotota/dae2collision) — Converts DAE meshes to Defold collision objects.
 - [DDF](https://github.com/JustAPotota/ddf) — A library for parsing Defold Data Format files.
 - [Defender](https://github.com/dlannan/defold-blender-export) — Blender import and export system with syncing.
-- [Defold Parser](https://github.com/Insality/defold-parser) — A node.js module to encode and decode Defold files.
+- [Defold Parser (JS)](https://github.com/Insality/defold-parser) — A node.js module to encode and decode Defold files.
+- [Defold Parser (Lua)](https://github.com/GeCreator/defold_parser) — A simple module that allows you to create/parse/modify Defold files.
 - [Defold Protobuf](https://github.com/Melsoft-Games/defold-protobuf) — Protobuf format encoder and decoder.
 - [defold-blender-convex-hull](https://github.com/selimanac/defold-blender-convex-hull) — A small script to export the convexshape from Blender.
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.

@@ -473,7 +473,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Box2D](https://github.com/d954mas/defold-box2d) — An alternative to the inbuilt Box2D wrapper with a full range of features.
 - [BulletFold](https://github.com/trainingmode/BulletFold) — A simple and lightweight bullets handler.
 - [Chipmunk 2D](https://github.com/britzl/chipmunk2d-defold) — Chipmunk 2D physics engine wrapper.
-- [DAABBCC](https://github.com/selimanac/DAABBCC) — A dynamic AABB tree collisions resolver.
+- [DAABBCC](https://github.com/selimanac/defold-daabbcc) — A dynamic AABB tree collisions resolver in 2D.
+- [DAABBCC3D](https://github.com/selimanac/defold-daabbcc3d) — A dynamic AABB tree collisions resolver in 2D+3D.
 - [Defluid](https://github.com/paweljarosz/defluid) — 2D fluid simulations based on metaballs.
 - [Kinematic Walker](https://github.com/astrochili/defold-kinematic-walker) — A tweakable kinematic character controller suitable for 3D games.
 - [Polygon Editor](https://github.com/rgrams/defold_polygon_editor) — 2D collision shape editor.
@@ -727,6 +728,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 ### Games
 
+- [Charming Kitchen](https://github.com/selimanac/defold-daabbcc3d-example-charming-kitchen) — Basic example project for DAABBCC3D.
 - [2.5D Shooter](https://github.com/d954mas/2.5d-shooter) — Prototype of 2.5D shooter like Wolfenstein.
 - [Astrogue](https://github.com/benjames-171/astrogue) — A basic turned-based roguelike.
 - [Ben James 171](https://github.com/benjames-171/defold-games) — A countless list of examples of mini-games by Ben James.

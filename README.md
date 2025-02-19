@@ -486,7 +486,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Platforms
 
 - [Cafe Bazaar](https://github.com/dev-masih/cafebazaar-iap) — Cafe Bazaar In-app purchase extension.
-- [Crazy Games](https://github.com/d954mas/defold-crazygames-sdk) — A partly implemented Crazy Games SDK.
+- [Crazy Games](https://github.com/defold/extension-crazygames) — Crazy Games SDK.
 - [Facebook Instant](https://github.com/defold/extension-fbinstant) — Facebook Instant Games API.
 - [Game Distribution](https://github.com/GameDistribution/gd-defold/) — GameDistribution SDK.
 - [GOG Galaxy](https://github.com/dapetcu21/defold-gog-galaxy) — GOG Galaxy SDK.

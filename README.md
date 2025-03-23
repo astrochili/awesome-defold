@@ -396,6 +396,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DomainLock](https://github.com/subsoap/domainlock) — Secure your HTML5 Defold games so they can't (easily) be stolen by other sites
 - [HTML Loader](https://github.com/potatojam/defold-html-loader) — HTML loader example with a progress indicator.
 - [JsToDef](https://github.com/AGulev/jstodef) — Send messages from JavaScript to Defold.
+- [Page Visibility](https://github.com/indiesoftby/defold-page-visibility) — Detect when the page is visible or hidden. 
 - [Playable Ads](https://github.com/indiesoftby/defold-playable-ads) — Gulp tasks to bundle the Defold game into a single HTML file.
 - [WebP Slash Screen](https://github.com/d954mas/defold-html-splash-webp-example) — Using Webp for splash image.
 

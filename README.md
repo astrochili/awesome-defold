@@ -813,6 +813,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Void Scrappers](https://store.steampowered.com/app/2005210)
 - [Warnament](https://store.steampowered.com/app/1201700)
 - [Witchcrafter: Empire Legends](https://paweljarosz.itch.io/witchcrafter)
+- [Word Rave](https://store.steampowered.com/app/3262080/Word_Rave/)
 - [Yes, Master!](https://store.steampowered.com/app/1090900) (NSFW)
 - [Zooconomy](https://store.steampowered.com/app/1358110)
 

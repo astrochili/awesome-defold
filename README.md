@@ -369,6 +369,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Texture Packer Atlas](https://github.com/defold/extension-texturepacker) — Native extensions that adds support for the TexturePacker atlas format.
 - [TexturePacker Exporter](https://github.com/Lerg/defold-texturepacker-exporter) — Exports from TexturePacker to a native atlas for Defold.
 - [TrenchFold](https://github.com/astrochili/defold-trenchfold) — Configuration files and scripts for designing levels in TrenchBroom.
+- [Trim Atlas](https://github.com/maltsevda/trim_atlas) — Trimming of images in the Defold atlas.
 - [Zstandard Compression](https://github.com/indiesoftby/defold-zstd) — Zstandard to compress and decompress strings.
 
 #### Generation

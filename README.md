@@ -377,6 +377,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [biosim4](https://github.com/dlannan/defold-biosim4) — Port of biologial evolution simulator.
 - [Cellular Automata](https://github.com/whiteboxdev/example-cellular-automata) — Example of cellular automata and procedural generation.
 - [Diamond Square](https://github.com/whiteboxdev/example-diamond-square) – Example of the diamond square algorithm and procedural generation.
+- [FastNoise](https://gitlab.com/defold-fastnoise/defold-fastnoise) — A native extension with the FastNoise Lite library.
 - [Fractal Noise](https://github.com/whiteboxdev/example-fractal-noise) — Example of fractal noise and procedural generation.
 - [Lazy Flood Fill](https://github.com/whiteboxdev/example-lazy-flood-fill) – Example of the lazy flood fill algorithm and procedural generation.
 - [Perlin Terrain](https://github.com/Lerg/perlin-terrain-defold) — Perlin noise terrain generation.

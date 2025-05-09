@@ -183,6 +183,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 ### Programming Language
 
 - [Compat-5.3](https://github.com/alex-ac/defold-compat-5.3) — Providing Lua 5.3 style API.
+- [defold-rs](https://github.com/defold-rs/dmsdk) — Experiments in writing Defold extensions in Rust.
 - [DefoldSharp](https://github.com/RealityStop/DefoldSharp) — Transpiler from C# to Lua.
 - [dfnim](https://github.com/MhadhbiXissam/dfnim) — A native extension to use Nim language.
 - [hxDefold](https://github.com/hxdefold/hxdefold) — Haxe support library for the Defold.

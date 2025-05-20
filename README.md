@@ -529,6 +529,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Render, Shaders
 
+- [3D Glass](https://github.com/FlexYourBrain/sample_3dGlass_POP) — A sample project showing rendering basic 3D glass.
 - [3D in GUI](https://github.com/FlexYourBrain/sample_3d_gui_rt) — Shows how to display 3d in GUI via render target.
 - [3D Outline Shader](https://github.com/selimanac/defold-3D-outline-shader) — AsSimple outline shader for 3D models.
 - [Blur Shader](https://github.com/VincentLagerros/BlurShader) — Blur shader example.
@@ -576,7 +577,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Treasure 3D](https://github.com/FlexYourBrain/Basic3d_TreasureScene) — Showcase of rendering features for a 3D scene.
 - [Vertex Color Sample](https://github.com/FlexYourBrain/sample-vertex-colors) — Using vertex colors from glTF file example.
 - [VSM](https://github.com/abadonna/defold-vsm) — A variance shadow map implementation.
-- [Water reflection effect](https://github.com/FlexYourBrain/sample_2d_water_reflection) — A project showcases a 2d reflective water effect.
+- [Water reflection effect](https://github.com/FlexYourBrain/sample_2d_water_reflection) — A project showcases a 2D reflective water effect.
 
 #### Services
 
@@ -784,6 +785,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Desktop
 
+- [Basic Kanji Game](https://sigmaco.itch.io/basic-kanji-game)
 - [Big Klondike](https://bigklondike.com)
 - [Bore Blasters](https://store.steampowered.com/app/2398170)
 - [Bouncer Story](https://helmigames.com/bouncer-story)

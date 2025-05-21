@@ -261,6 +261,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - 🌙 [beholder](https://github.com/kikito/beholder.lua) — A simple event observer.
 - 🌙 [Classic](https://github.com/rxi/classic) — A tiny class module.
 - 🌙 [ecs-lua](https://github.com/nidorx/ecs-lua) — A fast and easy to use ECS engine.
+- 🌙 [evolved.lua](https://github.com/BlackMATov/evolved.lua) — A fast and flexible ECS library.
 - 🌙 [lovetoys](https://github.com/lovetoys/lovetoys) — A full-featured ECS framework.
 - 🌙 [Lua Finite State Machine](https://github.com/kyleconroy/lua-state-machine) — A finite state machine.
 - 🌙 [middleclass](https://github.com/kikito/middleclass) — A simple OOP library.

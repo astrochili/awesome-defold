@@ -867,6 +867,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Duo Vikings](https://poki.com/en/g/duo-vikings) — Also [Duo Vikings 2](https://poki.com/en/g/duo-vikings-2) and [Duo Vikings 3](https://poki.com/en/g/duo-vikings-3).
 - [Fish Eat Fish](https://poki.com/en/g/fish-eat-fish)
 - [Foxy Fog](https://poki.com/en/g/foggy-fox)
+- [Fruits of Fury](https://poki.com/fr/g/fruits-of-fury)
 - [Gridog](https://gridog.com) — Daily word challange.
 - [Kỳ Hoàng](https://kyhoang.com/game)
 - [Lands of Bligth](https://poki.com/en/g/lands-of-blight)
@@ -883,6 +884,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Quack Quest](https://poki.com/ru/g/quack-quest)
 - [Raft Wart Multiplayer](https://poki.com/en/g/raft-wars-multiplayer)
 - [Space War](https://space-war.ru/)
+- [Take 7](https://berru-dev.itch.io/take7)
 - [Tower Stack](https://farismmk.itch.io/tower-stack)
 - [Zombotag](https://poki.com/en/g/zombotag)
 - [Zoom-Be](https://poki.com/en/g/zoom-be) — Also [Zoom-Be 2](https://poki.com/en/g/zoom-be-2) and [Zoom-Be 3](https://poki.com/en/g/zoom-be-3).

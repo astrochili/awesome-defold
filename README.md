@@ -338,6 +338,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Files
 
+- [Checkpoint](https://github.com/klaleus/library-defold-checkpoint) — A library for writing and reading data to and from files.
 - [Defold-LFS](https://github.com/britzl/defold-lfs) — Library with a set of functions related to file systems.
 - [Directories](https://github.com/Lerg/extension-directories) — Provides paths to various system directories.
 - [Project Directory](https://github.com/dapetcu21/defold-project-dir) — Provides the project directory when the game is running from the Editor.

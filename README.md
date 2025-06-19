@@ -297,6 +297,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefCon](https://github.com/britzl/defcon) — Developer console to interact with a game through a browser.
 - [DefPro](https://github.com/britzl/defpro) — Library to interact with Defold profiler.
 - [DefTest](https://github.com/britzl/deftest) — Unit testing with Telescope.
+- [Gunit](https://gitlab.com/mattpwest/gunit-defold) — A game unit test framework based on the xUnit family of frameworks.
 - [lmprof](https://github.com/defold/extension-lmprof) — Lua memory profiler for Defold based on lmprof.
 - [Log](https://github.com/Insality/defold-log) by Insality — Context logger with performance metrics.
 - [Log](https://github.com/subsoap/log) by subsoap — General purpose logging.
@@ -360,6 +361,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [defold-blender-convex-hull](https://github.com/selimanac/defold-blender-convex-hull) — A small script to export the convexshape from Blender.
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Desert](https://github.com/britzl/desert) — Lua table (de)serialiser for the Defold.
+- [DeSpriter](https://github.com/EVEVGames/DeSpriter) — Import Spriter `.scml` animations into the `.collection` file.
 - [glb2convexshape] — A library for generate `.convexshape` file from `.glb` file. 
 - [LZ4](https://github.com/JustAPotota/defold-lz4) — LZ4 fast compression algorithm.
 - [Mesh Binary](https://github.com/abadonna/defold-mesh-binary) — Binary export from Blender to Defold.

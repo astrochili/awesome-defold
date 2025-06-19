@@ -547,7 +547,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Defragments](https://github.com/paweljarosz/defragments) — Simple examples with fragment programs from Shadertoy.
 - [DeLAB Scene](https://github.com/FlexYourBrain/DeLAB_scene) — A ready setup testing ground for rendering / materials / shaders & post-effects.
 - [DeLab-2D Dissolve](https://github.com/FlexYourBrain/Delab2D_dissolve) — 2D dissolve effect shader sample project.
-- [Dezer](https://github.com/Wolfe2x7/Derez) — Render target with low resolution output (downsampling).
+- [Derez](https://github.com/Wolfe2x7/Derez) — Render target with low resolution output (downsampling).
 - [Dissolve FX](https://github.com/indiesoftby/defold-dissolve-fx) — An example of implementing the dissolve effect for sprites.
 - [Easer](https://github.com/britzl/easel) — Render script content switcher at run-time.
 - [Fire Glow](https://github.com/ufgo/fire_glow) — Fire Glow shader effect.

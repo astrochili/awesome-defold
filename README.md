@@ -245,11 +245,9 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Architecture
 
 - [Crit](https://github.com/critique-gaming/crit) — Battle-tested collection of modules for game development.
-- [Decore](https://github.com/Insality/decore) — A library for managing ECS game entities, components, and worlds in a data-driven way.
 - [def-behavior-tree](https://github.com/s-kania/def-behavior-tree) — A library for creating behavioral trees.
 - [defold-ecs](https://github.com/dlannan/defold-ecs) — The ECS based on `tiny-ecs` with http web server debugging and monitoring.
 - [DefRS](https://github.com/subsoap/defrs) — A collection of general resources to speed up workflows for new projects.
-- [Eva](https://github.com/Insality/defold-eva) — Basic toolkit designed for mobile games with meta-game.
 - [Event](https://github.com/Insality/defold-event) — A cross-context Defold event system.
 - [Pigeon](https://github.com/paweljarosz/pigeon) — Pigeon allows easily and safely manage posting messages.
 - [Quest](https://github.com/Insality/defold-quest) — A comprehensive system for managing quests in a game.
@@ -636,7 +634,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Def-Shell](https://github.com/benjames-171/def-shell/) — Starter project for games by Ben James.
 - [Emthree](https://github.com/britzl/emthree) — Match three game engine.
 - [Fuior Example](https://github.com/critique-gaming/fuior-example) — Ready-to-use starter project based on Crit, Monarch and DefOS.
-- [Insality Template](https://github.com/Insality/defold-template) — Insality's new project template.
 - [LowRes](https://github.com/britzl/template-lowres) — A template project for lowres and pixel-art games.
 - [MatchaNovel](https://github.com/HalfstarDev/matchanovel) — A visual novel framework library.
 - [Platformer](https://github.com/defold/template-platformer) — A template project for a platformer game.
@@ -665,7 +662,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [3D Tilemap](https://github.com/Dragosha/defold-things/tree/master/3d-tilemap) — Converting 2D tilemap to 3D mesh.
 - [A-Star Hex Example](https://github.com/selimanac/defold-astar-hex-example) — An example of using a-star library for a hexagonal grid.
-- [Detiled](https://github.com/Insality/detiled) — A set of tools to make work with Defold and Tiled easier.
 - [Hexagon](https://github.com/selimanac/defold-hexagon) — A library to work woth hexagon grids.
 - [Hexagonal Grid](https://github.com/redoak/defold-hexagon-grid-sample) — Hexagonal grid implementation with a three-axis coordinate system.
 - [Moku](https://github.com/Jrayp/Moku) — Map utility and auto-tiling module.
@@ -689,7 +685,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Dear ImGUI](https://github.com/britzl/extension-imgui) — ImGUI wrapper for creating a debug interface or in-game tools.
 - [DeFine](https://github.com/adamwestman/define) — A UI/UX library providing fundamental components.
 - [Dirty Larry](https://github.com/andsve/dirtylarry) — A quick and dirty GUI library.
-- [Druid Assets](https://github.com/Insality/druid-assets) — A marketplace with custom styles and components for Druid.
 - [Druid](https://github.com/Insality/druid) — A framework of wide range user interface components.
 - [DSFonts](https://github.com/sergeysinyavsky/dsfonts) — A set of shaders and materials for the distance field font.
 - [efSceneManager](https://github.com/abadonna/DefSceneManager) — Scene manager suitable for visual novels and adventure games.

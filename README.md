@@ -138,6 +138,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Curious Fishing Devlog](https://rhythmlynx.itch.io/curious-fishing/devlog) — A very detailed and in-depth development log.
 - [Defold. Where to begin?](https://agulev.com/en/defold-s-chego-nachat-lua) — Starting point and tutorial for beginners in Defold.
 - [How to GUI in Defold](https://forum.defold.com/t/how-to-gui-in-defold/73256) — Best practice proven approaches on how to make GUI.
+- [How to Make Simple Lighting in Defold](https://goeshard.org/2025/08/07/how-to-make-simple-lighting-in-defold/) — Adding simple light maps to a 2D game.
 - [Landscape Tiler](https://astronachos.com/posts/madewithdefold-jam-2023/) — A short devlog about the implementation of multilayered auto-tiling.
 - [Lightning VFX](https://forum.defold.com/t/lightning-vfx-how-its-was-made/76270) — Step-by-step guide with a sample project.
 - [Mastering Render Targets in Defold](https://davabase.net/posts/mastering-render-targets-in-defold)
@@ -146,11 +147,15 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Videos
 
+- [Asatte Games](https://www.youtube.com/watch?v=D8nuGF-ymJQ&list=PLkdj9mBu4LRYRk9ArooFZXqxeRrrV_xV2) — A lot of short Defold tutorials.
 - [Best practices when releasing HTML5 games](https://www.youtube.com/watch?v=EbOmEuoTc7g) — Helpful advices by Björn Ritzl.
 - [Galvia Games](https://www.youtube.com/playlist?list=PLYWnk-ACIeRi61SDWS62NQjN9wydnzWy7) — Defold tutorials by GalviaGames.
 - [Game From Scratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyC5gN_850U7iz21ZhdjS3J8) — Defold tutorials by GameFromScratch.
+- [Insality Games](https://www.youtube.com/@insalitygames/videos) — Druid, Panthera workshops and more.
 - [Tactx Studios](https://youtube.com/@DefoldTutorials) — Defold tutorials by David Chadwick.
 - [Unfolding Gamedev](https://youtube.com/@unfolding_gamedev) — Defold tutorials by Pawel Jarosz.
+- [Zenva](https://www.youtube.com/watch?v=affVW3XDsMk) — Defold Game Development Academy (paid with free intro).
+- [Сделай игру с папой](https://www.youtube.com/@%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%B9%D0%B8%D0%B3%D1%80%D1%83%D1%81%D0%BF%D0%B0%D0%BF%D0%BE%D0%B9/videos) — How to build Defold games from scratch for beginners (Russian-language).
 
 ## Tools
 
@@ -164,6 +169,15 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [EmmyLua from LuaDoc](https://github.com/Insality/emmylua-from-ldoc-annotations) — Lua scripts to generate EmmyLua annotations from LuaDoc.
 - [EmmyLua from Protobuf](https://github.com/Insality/emmylua-protoc-annotations) — Lua scripts to generate EmmyLua annotations from Protobuf.
 
+#### Neovim
+
+- [berru's setup](https://git.sr.ht/~berru/berrus_defold_linux_setup) - A Linux development setup with LSP autocompletion, hot-reload and builds via `Makefile`.
+- [DoNe](https://github.com/monkoose/DoNe) — A plugin for better Defold experience.
+
+#### Sublime
+
+- [Defold Sublime Text](https://github.com/selimanac/defold-sublime-text) — A package to control the Defold Editor via HTTP, manage the extender server and fetch Lua annotations.
+
 #### Visual Studio Code
 
 - [Defold Buddy](https://github.com/mikatuo/vscode-defold-buddy) — Autocomplete, hot reload, building from Defold, manifest generator and other features.
@@ -174,11 +188,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Zed
 
 - [Defold + Zed](https://github.com/astrochili/defold-zed) — A collection of ideas on how to adapt the Zed editor for Defold.
-
-#### Neovim
-
-- [berru's setup](https://git.sr.ht/~berru/berrus_defold_linux_setup) - A Linux development setup with LSP autocompletion, hot-reload and builds via `Makefile`.
-- [DoNe](https://github.com/monkoose/DoNe) — A plugin for better Defold experience.
 
 ### Programming Language
 
@@ -542,6 +551,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Curved World](https://github.com/rgrams/defold-curved-world) — Demo of a curved world effect similar to that in Animal Crossing.
 - [Darker](https://github.com/ReanimatorXP/defold-darker) — Highlights the specified objects, darkening the rest of the screen.
 - [DefBlend](https://github.com/subsoap/defblend) — Blend solid colors with your sprites using various blending modes.
+- [Deferred Lighting Example](https://github.com/martianovdev/Defold-BRDF-Deferred-Rendering) — A full deferred rendering pipeline with G-buffer, SSAO, point light shadows, volumetric light, and filmic tonemapping.
 - [DefFX](https://github.com/subsoap/deffx) — A collection of useful shader effects.
 - [DefMaterial](https://github.com/subsoap/defmaterial) — A library of materials and textures for 2d and 3d objects.
 - [defold-3d-samples](https://github.com/dlannan/defold-3d-samples) — Simple projects showing various 3D concepts, including a sky shader.
@@ -561,6 +571,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Light Probes](https://github.com/abadonna/defold-light-probes) — An attempt to implement irradiance probes for global illumination.
 - [Lights and Shadows](https://github.com/defold/sample-lights-and-shadows) — An example of how to achieve pixel perfect shadows in a 2D view.
 - [Lumiere](https://github.com/britzl/lumiere) — A collection of post processing effects.
+- [Mesh Healthbar](https://github.com/FlexYourBrain/sample_mesh-healthbar) — Mesh healthbar sample project.
 - [New Illumination](https://github.com/d954mas/defold-illumination-new) — An example of mixing `Illumination` and `Light and Shadows` with clustered forward shading.
 - [Normal Map Lighting 2D](https://github.com/paweljarosz/normal-map-lighting-2d-sprites-defold) — Normal map example render pipeline for 2D sprites.
 - [PBR Core](https://github.com/defold/defold-pbr) — Set of scripts, shaders and materials for PBR rendering.
@@ -668,6 +679,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [RPG Map Sample](https://github.com/sicher/defold-rpgmap) — An example of creating very large RPG maps.
 - [Tile Raycast](https://github.com/selimanac/defold-tile-raycast) — Ray casting in tiled worlds using DDA algorithm.
 - [Tiled Example](https://github.com/d954mas/defold-tiled-example) — Example of using Tiled as level editor for game.
+- 🌙 [crop-tileset](https://github.com/Klaleus/crop-tileset) — A script that crops a tileset into individual tiles.
+- 🌙 [merge-tileset](https://github.com/Klaleus/merge-tileset) — A script that merges individual tiles into a tileset.
 
 #### Time
 
@@ -740,7 +753,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 ### Games
 
-- [Charming Kitchen](https://github.com/selimanac/defold-daabbcc3d-example-charming-kitchen) — Basic example project for DAABBCC3D.
 - [2.5D Shooter](https://github.com/d954mas/2.5d-shooter) — Prototype of 2.5D shooter like Wolfenstein.
 - [Astrogue](https://github.com/benjames-171/astrogue) — A basic turned-based roguelike.
 - [Ben James 171](https://github.com/benjames-171/defold-games) — A countless list of examples of mini-games by Ben James.
@@ -748,6 +760,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Breakout](https://github.com/britzl/breakout) — A barebones Breakout clone.
 - [britzl Examples](https://github.com/britzl/publicexamples) — A collection of several small examples.
 - [Bubble Balls](https://github.com/vokaimoh/bubble-balls) — Hyper casual 2d pop game.
+- [Charming Kitchen](https://github.com/selimanac/defold-daabbcc3d-example-charming-kitchen) — Basic example project for DAABBCC3D.
 - [Climberz](https://github.com/defold/game-climberz) — An infinite climber with Web Monetization support.
 - [Driller](https://github.com/aglitchman/defold-ld48-game) — 3D first-person shooter for Ludum Dare 48.
 - [Flappy Bird](https://github.com/d954mas/defold-flappy-bird) — Flappy Bird clone implementation.
@@ -775,6 +788,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Throw a Cow](https://github.com/britzl/throwacrow) — An implementation of the popular game Angry Birds.
 - [Tic Tac Toe](https://github.com/paweljarosz/tick-tock-toe) — A game with undo mechanics featuring immutable tables as game states.
 - [Towerz](https://github.com/britzl/towerz) — Defold version of Tipsy Towers.
+- [Turn-Based Battle Sample](https://github.com/yeqwep/turnbased_simple_battle) — A classic JRPG-style turn-based battle.
 - [TweetFighter](https://github.com/britzl/tweetfighter) — A game of decision making with tweets.
 - [Warbattles RTS](https://github.com/britzl/warbattles-rts) — A RTS sample project.
 - [Wateru](https://github.com/asetsiya/wateru) — Suika game clone for mobile.
@@ -804,6 +818,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [FAWE: Enchanted Forest](https://store.steampowered.com/app/1760510)
 - [Fling D'Block](https://store.steampowered.com/app/2303770)
 - [Good Morning, A.I.](https://store.steampowered.com/app/1791900)
+- [Holy Justice: Galaxy Outcast](https://store.steampowered.com/app/3788820)
 - [Interrogation](https://interrogation-game.com)
 - [Jerry Wanker and the Quest to get Laid](https://store.steampowered.com/app/1525050) (NSFW)
 - [Kaiju Control Force](https://store.steampowered.com/app/3268730)
@@ -841,6 +856,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Galaxy Keeper](https://bigbutton.co/galaxy-keeper-space-shooter)
 - [Ghosts and Apples](https://play.google.com/store/apps/details?id=io.refold.ghostsandapples)
 - [Hero Village](https://play.google.com/store/apps/details?id=overpower.hero.village)
+- [Idle Game Dev Simulator](https://play.google.com/store/apps/details?id=com.playcroc.idlegamedev)
 - [JUUMP!](https://play.google.com/store/apps/details?id=com.winkelgames.juump)
 - [Lone Space Tower Defense](https://bigbuttonco.itch.io/lone-space-tower-defense)
 - [Look Your Loot!](https://apps.apple.com/us/app/look-your-loot/id1339205191)
@@ -853,6 +869,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Web
 
+- [Astro Rush](https://sandiagames.itch.io/astro-rush)
 - [Ben James 171](https://benjames171.itch.io) — A lot of pocket games, hard to enumerate them here.
 - [Blocks Fevrio!](https://fevrio.com/blocks)
 - [Blocky Universe](https://poki.com/en/g/blocky-universe)
@@ -873,6 +890,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Lands of Bligth](https://poki.com/en/g/lands-of-blight)
 - [Mad Skills Motocross 2](https://poki.com/en/g/mad-skills-motocross-2)
 - [Mahjong Cards](https://poki.com/en/g/mahjong-cards)
+- [Mental Model Mini Series](https://en.timegalleon.com/) — Desolation Farm, Lunar Crisis and Decision Diner.
+- [Midnset GO!](https://mindset.game/)
 - [Misland](https://sealunicorn.com/games/misland)
 - [Monkey Mart](https://poki.com/ru/g/monkey-mart)
 - [Moving Truck](https://poki.com/en/g/moving-truck) — Also [Moving Truck: Bounty](https://poki.com/en/g/moving-truck-bounty) and [Moving Truck: Construction](https://poki.com/en/g/moving-truck-construction).
@@ -880,6 +899,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Ocean Protector](https://www.outreachgames.org/OceanProtector/main.html)
 - [Olly the Paw](https://poki.com/en/g/olly-the-paw)
 - [Onet Paradise](https://poki.com/ru/g/onet-paradise)
+- [Perfect+1](https://hellhog.itch.io/perfect-plus1)
 - [Puffy Cat](https://poki.com/en/g/puffy-cat) — Also [Puffy Cat 2](https://poki.com/en/g/puffy-cat-2).
 - [Quack Quest](https://poki.com/ru/g/quack-quest)
 - [Raft Wart Multiplayer](https://poki.com/en/g/raft-wars-multiplayer)

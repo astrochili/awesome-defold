@@ -367,6 +367,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [CJSON](https://github.com/Melsoft-Games/defold-cjson) — Native JSON encoder and decoder.
 - [CleanExporter](https://github.com/FlexYourBrain/CleanExporter) — Blender add-on for exporting mesh (.buffer) files.
 - [Collection Parser](https://github.com/rgrams/defold_collection_parser) — Defold files format encoder and decoder.
+- [Convex Hull Tracer](https://github.com/james2doyle/defold-convex-hull-tracer) — Create `.convexshape` files for Defold live in your browser by tracing your images.
 - [Crypt](https://github.com/defold/extension-crypt) — Various hash and encode/decode algorithms.
 - [CSV Loader](https://github.com/subsoap/csvloader) — Can load and parse CSV files.
 - [dae2collision](https://github.com/JustAPotota/dae2collision) — Converts DAE meshes to Defold collision objects.
@@ -379,7 +380,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Desert](https://github.com/britzl/desert) — Lua table (de)serialiser for the Defold.
 - [DeSpriter](https://github.com/EVEVGames/DeSpriter) — Import Spriter `.scml` animations into the `.collection` file.
-- [glb2convexshape] — A library for generate `.convexshape` file from `.glb` file. 
+- [glb2convexshape] — A library for generate `.convexshape` file from `.glb` file.
 - [LDTK To Defold](https://github.com/TheKing0x9/ldtk2defold) — A library for parsing and converting LDTK levels to Defold.
 - [LZ4](https://github.com/JustAPotota/defold-lz4) — LZ4 fast compression algorithm.
 - [Mesh Binary](https://github.com/abadonna/defold-mesh-binary) — Binary export from Blender to Defold.

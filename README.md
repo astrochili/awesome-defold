@@ -534,6 +534,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [KaiAds](https://github.com/defold/extension-kaiads) — KaiOS SDK.
 - [Play Asset Delivery](https://github.com/defold/extension-pad) — Play Asset Delivery API on Android devices.
 - [PlayDeck](https://github.com/d954mas/defold-playdeck) — A Telegram-native gaming marketplace.
+- [Player2](https://github.com/elefant-ai/player2-ai-npc-defold) — The official Player2 AI NPC plugin.
 - [PokiSDK](https://github.com/AGulev/defold-poki-sdk) — Poki SDK.
 - [Rustore](https://gitflic.ru/company/rustore) — SDKs and examples of integration with Rustore.
 - [Steamworks](https://github.com/defold/extension-steam) — Steamworks SDK.

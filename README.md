@@ -216,6 +216,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [AdMob](https://github.com/defold/extension-admob) - AdMob functionality on iOS and Android.
 - [AdsWrapper](https://github.com/potatojam/defold-ads-wrapper) — Universal wrapper for ADS on different platforms.
 - [AppLovin MAX](https://github.com/AppLovin/AppLovin-MAX-Defold) — AppLovin MAX Plugin for Android and iOS.
+- [CAS.AI](https://github.com/Lerg/extension-cas) — Plugin for CleverAdsSolutions ad mediation.
 - [Def Video Ads](https://github.com/AGulev/DefVideoAds) - Plugin for Unity Ads.
 - [DefVungle](https://github.com/SkaterDad/defold-vungle) — Vungle video ads for Android and Amazon.
 - [Enhance](https://github.com/enhance-co/defold-connector) — Official Enhance SDK.
@@ -245,6 +246,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Animation
 
 - [Bezier Animation Library](https://github.com/jbp4444/bzAnim) — An animation library that allows you to send graphics objects on a bezier curve path.
+- [Def Timeline](https://github.com/AllanDouglas/deftimeline) — Easy way to make animation play in sequence.
 - [Ease](https://github.com/subsoap/ease) — Easing functions module.
 - [Easier](https://github.com/AGulev/easier) — Interactive example of using inbuilt easing functions.
 - [Hypes Trails](https://github.com/indiesoftby/defold-hyper-trails) — Easy to use and customizable trail effect.
@@ -253,7 +255,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Rive](https://github.com/defold/extension-rive) — Rive animations runtime.
 - [Spine](https://github.com/defold/extension-spine) — Spine animations runtime.
 - [Tilemap Animator](https://github.com/whiteboxdev/library-defold-tilemap-animator) — Provides runtime tile animations.
-- [Timeline](https://github.com/AllanDouglas/deftimeline) — Easy way to make animation play in sequence.
 - [Tweener](https://github.com/Insality/defold-tweener) —  Timer based Defold tween library.
 - 🌙 [flux](https://github.com/rxi/flux) — A fast, lightweight tweening library.
 - 🌙 [tween](https://github.com/kikito/tween.lua) — A small library to perform tweening.
@@ -321,6 +322,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Profile Counters](https://github.com/defold/extension-profile-counters) — Provides the profile counters in release mode via a Lua interface.
 - [Share Log](https://github.com/potatojam/defold-share-log) — Writes all output to the console and makes it possible save or send somewhere.
 - [signpost](https://github.com/AGulev/extension-signpost) — Helps to mark points of interest in Xcode Instruments.
+- [SQUID](https://github.com/paweljarosz/squid) — A standalone injectable system for saveable logging of user logs, errors and crashes.
 - [WebGL Memory](https://github.com/indiesoftby/defold-webgl-memory) — Tracker for GPU and CPU memory usage on HTML5.
 - 🌙 [Busted](https://github.com/lunarmodules/busted) — Lua unit testing.
 - 🌙 [inspect](https://github.com/kikito/inspect.lua) — Human-readable table representation.
@@ -342,6 +344,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Align](https://github.com/Jerakin/editor-script-align) — Editor script for aligning gui nodes.
 - [Atlas](https://github.com/Jerakin/editor-script-atlas) — Editor script to add images to an atlas as well as create a new one
+- [Check Dependencies](https://github.com/Jerakin/editor-script-check-dependencies-versions) — Checks your dependencies against github releases to see if there are any updates.
+- [Cleanup](https://github.com/Jerakin/editor-script-cleanup) — Editor script that adds clean up functionallity.
 - [Components](https://github.com/Jerakin/editor-script-components) — Editor script for creating components from resources.
 - [CSV2Lua](https://github.com/yeqwep/csv2lua-defold_editor/) — Editor script for converting CSV to Lua tables.
 - [Dependencies](https://github.com/Jerakin/editor-script-dependencies) — Dependency checker and updater.
@@ -351,6 +355,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Lua Code Formatter](https://github.com/indiesoftby/defold-editor-script-lua-format) — Editor script that reformats your Lua source code.
 - [Simle Data Component](https://github.com/defold/extension-simpledata) — Example how to bring custom data to a game object.
 - [Sound Editor Scripts](https://github.com/subsoap/subsoap-editor-scripts) — A set of Editor scripts for the sound component.
+- [Templates](https://github.com/Jerakin/editor-script-templates) — Create files from your own defined templates.
 - [Z-Order Editor Script](https://github.com/Dragosha/defold-things/tree/master/editor-scripts) — Helper for ordering objects along Z-axis in the collection.
 
 #### Files
@@ -487,6 +492,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefBit](https://github.com/Laminariy/defbit) — Event, synchronization, RPC network library for multiplayer games.
 - [DefNet](https://github.com/britzl/defnet) — Networking modules and examples.
 - [LuaSocket](https://github.com/britzl/defold-luasocket) — Extended LuaSocket with the `mime.core` part.
+- [Photon Realtime](https://github.com/defold/extension-photon-realtime) — A native extension for the Photon Realtime framework.
+- [Planetary Processing](https://github.com/planetary-Processing/defold-sdk) — A multiplayer toolkit, for creating and hosting online games.
 - [The Poki Networking Library](https://github.com/indiesoftby/defold-poki-netlib) — A peer-to-peer library for web games on Poki.
 - [Tiny Http](https://github.com/selimanac/defold-tiny-http) — A simple HTTP server and client.
 - [WebRTC](https://github.com/VitusVeit/extension-webrtc) — A quick and easy C++ library that adds support for WebRTC.
@@ -522,6 +529,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### Platforms
 
 - [Cafe Bazaar](https://github.com/dev-masih/cafebazaar-iap) — Cafe Bazaar In-app purchase extension.
+- [Coolmath Games](https://github.com/fabtjar/defold-coolmathgames-sdk) — Coolmath Games SDK native extension.
 - [Crazy Games](https://github.com/defold/extension-crazygames) — Crazy Games SDK.
 - [Facebook Instant](https://github.com/defold/extension-fbinstant) — Facebook Instant Games API.
 - [Game Distribution](https://github.com/GameDistribution/gd-defold/) — GameDistribution SDK.
@@ -536,6 +544,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Play Asset Delivery](https://github.com/defold/extension-pad) — Play Asset Delivery API on Android devices.
 - [PlayDeck](https://github.com/d954mas/defold-playdeck) — A Telegram-native gaming marketplace.
 - [Player2](https://github.com/elefant-ai/player2-ai-npc-defold) — The official Player2 AI NPC plugin.
+- [Playgama Bridge](https://github.com/playgama/bridge-defold) — One SDK for cross-platform publishing HTML5 games.
 - [PokiSDK](https://github.com/AGulev/defold-poki-sdk) — Poki SDK.
 - [Rustore](https://gitflic.ru/company/rustore) — SDKs and examples of integration with Rustore.
 - [Steamworks](https://github.com/defold/extension-steam) — Steamworks SDK.
@@ -622,6 +631,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [GameKit](https://github.com/animonger/extension-gamekit) — Apple Game Center integration.
 - [GPGS](https://github.com/defold/extension-gpgs) — Google Play Game Services integration.
 - [Sign In with Apple](https://github.com/defold/extension-siwa) — Native signing-in with Apple ID.
+- [Usercentrics](https://github.com/HGPoint/def_usercentrics) — Usercentrics CMP for iOS and Android.
+- [Xsolla](https://github.com/defold/extension-xsolla) — Xsolla integration for Defold.
 - [Zendesk](https://github.com/defold/extension-zendesk) — Provides access to Zendesk SDK functionality on iOS and Android.
 
 #### Sound
@@ -639,6 +650,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### System
 
 - [AdInfo](https://github.com/defold/extension-adinfo) — Provides access to advertising information and status on iOS and Android.
+- [ADPF](https://github.com/defold/extension-adpf) — Android Dynamic Performance Framework.
+- [ANGLE](https://github.com/indiesoftby/defold-graphics-angle) — Windows-only graphics adapter that replaces OpenGL with Google ANGLE.
 - [Clipboard](https://github.com/britzl/defold-clipboard) — Access the system clipboard.
 - [Def-Diags](https://github.com/andsve/def-diags) — Open and save dialogs for Desktop.
 - [Def-Mnu](https://github.com/AGulev/def-mnu) — Native context and app menu library for macOS and Windows.
@@ -661,6 +674,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Templates, Engines
 
+- [3Deforms](https://github.com/Thevisionaire1/3Deforms) — Sample and 3D mesh package with simplest shapes and prototype textures in basic colors.
 - [Boom](https://github.com/britzl/boom) — A game framework built on top of Defold inspired by Kaboom.
 - [Crit Boilerplate](https://github.com/critique-gaming/crit-boilerplate) — Critique Gaming's starter project with many features out-of-box.
 - [Def-Shell](https://github.com/benjames-171/def-shell/) — Starter project for games by Ben James.
@@ -684,6 +698,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Fuiur](https://github.com/critique-gaming/fuior) — A domain-specific language for narrative design.
 - [Lang](https://github.com/Insality/defold-lang) — A module for working with localization.
 - [LPeg](https://github.com/astrochili/defold-lpeg) — A pattern-matching library.
+- [LualocaDE](https://github.com/greedy-chapa/lualocaDE) — An autotranslator with convenient localization json files that supports entries.
 - [Narrator](https://github.com/astrochili/narrator) — Ink language runtime that works with Ink files.
 - [Polyglot](https://github.com/paweljarosz/defold-polyglot) —A simple Polyglot to Defold tool for game localizations.
 - [UTF8](https://github.com/d954mas/defold-utf8) — Adds UTF-8 support to Lua.
@@ -716,6 +731,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### UI
 
+- [Cairo](defold-cairo) — UI based on Cairo graphics library.
 - [Dear ImGUI](https://github.com/britzl/extension-imgui) — ImGUI wrapper for creating a debug interface or in-game tools.
 - [DeFine](https://github.com/adamwestman/define) — A UI/UX library providing fundamental components.
 - [Dirty Larry](https://github.com/andsve/dirtylarry) — A quick and dirty GUI library.
@@ -728,6 +744,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [ImNodes](https://github.com/paweljarosz/defold_imnodes) — Example of how to create node/flow fraphs with Dear ImGUI.
 - [Monarch](https://github.com/britzl/monarch) — Screens and navigation manager.
 - [NativeText](https://github.com/Lerg/extension-nativetext) — Renders native text into an image resource.
+- [Neklear](https://github.com/dlannan/defold-nuklear) — An extension to provide Nuklear immediate mode gui capabilities.
 - [NetImGUI](https://github.com/DreamRealityInteractive/extension-netimgui) — Remotely displaying and controlling Dear ImGUI content.
 - [Printer](https://github.com/Insality/defold-printer) — A symbol-by-symbol text writer.
 - [RichText](https://github.com/britzl/defold-richtext) — Text styling based on an HTML inspired markup language.
@@ -742,6 +759,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefKit](https://github.com/adamwestman/defkit) — Component based scripts for Defold inspired by the Game Maker engine.
 - [Defold Persist](https://github.com/whiteboxdev/library-defold-persist) — A simple interface for saving and loading data.
 - [Defold Wrap](https://github.com/baochungit/defold-wrap) — A tiny library to help you change the way you code on Defold.
+- [defold-oop](https://github.com/xiyoo0812/defold-oop) — An extension to work with OOP in Lua.
+- [DefTable](https://github.com/BobG1983/DefTable) — A library that contains a whole bunch of useful table manipulation functions.
 - [Hashed](https://github.com/Lerg/defold-hashed) — A small utility library to automatically use hashed strings.
 - [luaproc](https://github.com/dlannan/defold-luaproc) — A concurrent programming library.
 - [Ludobits](https://github.com/britzl/ludobits) — A set of useful utilities and wrappers.
@@ -770,6 +789,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Autonews](https://github.com/dlannan/autonews) — A simple auto news grabber and organizer.
 - [Cold Path Map Editor](https://github.com/jalhund/cold-path-map-editor) — Map Editor for the Cold Path game.
 - [Color Picker](https://github.com/rgrams/colorpicker) — A pretty basic HSV and RGB color picker.
+- [In-apps by cryptocurrency](https://github.com/bdshahab/iap_defold) — A sample project showing how to enable in-app purchases using cryptocurrencies.
 - [MultiViewer](https://github.com/rgrams/multiviewer) — A very basic multi-image viewer intended for displaying art references.
 
 ### Games
@@ -887,8 +907,11 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Lunar Orbit: Space Flight Game](https://apps.apple.com/app/lunar-orbit-space-strategy/id1486762718)
 - [Merge Hotel: Family Empire](https://play.google.com/store/apps/details?id=com.happygames.mergehotel)
 - [Once Upon a Galaxy](https://www.galaxygame.app/)
+- [Piece of Cake: Merge & Bake](https://play.google.com/store/apps/details?id=com.happygames.mergecafe)
 - [Rare Pets](https://play.google.com/store/apps/details?id=com.drihq.pets)
+- [ShiboriLand: Action Platformer](https://play.google.com/store/apps/details?id=com.genesyseast.shiboriland)
 - [Solitaire Jazz Travel](https://bigbutton.co/solitaire-jazz-travel)
+- [Stick Merge](https://play.google.com/store/apps/details?id=com.tinydobbins.stickmerge)
 - [Taxi Town](https://apps.apple.com/app/taxi-town/id1501324428)
 - [Zombie Base: Tower Defense TD](https://play.google.com/store/apps/details?id=com.zombie.base.tower.defence.idle.offline)
 
@@ -898,6 +921,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Ben James 171](https://benjames171.itch.io) — A lot of pocket games, hard to enumerate them here.
 - [Blocks Fevrio!](https://fevrio.com/blocks)
 - [Blocky Universe](https://poki.com/en/g/blocky-universe)
+- [Bounce Ball](https://poki.com/en/g/bounce-ball)
 - [BoxRob](https://poki.com/en/g/boxrob) — Also [BoxRob 2](https://poki.com/en/g/boxrob-2) and [BoxRob 3](https://poki.com/en/g/boxrob-3).
 - [Bullseye Shoot'n Gallery](https://flexyourbrain.itch.io/bullseye-shootn-gallery)
 - [Cosmic Dash](https://insality.itch.io/cosmic-dash)
@@ -911,7 +935,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Fish Eat Fish](https://poki.com/en/g/fish-eat-fish)
 - [Foxy Fog](https://poki.com/en/g/foggy-fox)
 - [Fruits of Fury](https://poki.com/fr/g/fruits-of-fury)
-- [Gridog](https://gridog.com) — Daily word challange.
+- [Gridog](https://gridog.com)
 - [Kỳ Hoàng](https://kyhoang.com/game)
 - [Lands of Bligth](https://poki.com/en/g/lands-of-blight)
 - [Mad Skills Motocross 2](https://poki.com/en/g/mad-skills-motocross-2)

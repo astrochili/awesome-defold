@@ -384,7 +384,6 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [defold-blender-convex-hull](https://github.com/selimanac/defold-blender-convex-hull) — A small script to export the convexshape from Blender.
 - [DefSave](https://github.com/subsoap/defsave) — A module to save and load settings or user data.
 - [Desert](https://github.com/britzl/desert) — Lua table (de)serialiser for the Defold.
-- [DeSpriter](https://github.com/EVEVGames/DeSpriter) — Import Spriter `.scml` animations into the `.collection` file.
 - [glb2convexshape] — A library for generate `.convexshape` file from `.glb` file.
 - [LDTK To Defold](https://github.com/TheKing0x9/ldtk2defold) — A library for parsing and converting LDTK levels to Defold.
 - [LZ4](https://github.com/JustAPotota/defold-lz4) — LZ4 fast compression algorithm.
@@ -394,6 +393,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Proto](https://github.com/defold/extension-proto) — Generates Lua bindings to encode and decode a predefined set of protobuf messages.
 - [Proto](https://github.com/Insality/defold-proto) — Protobuf Library to encode, decode and verifying messages.
 - [Saver](https://github.com/Insality/defold-saver) — A library for saving and loading save data.
+- [SCML Parser](https://github.com/EVEVGames/SCMLParser) — Import Spriter `.scml` animations into the `.collection` file.
 - [Sheets Exporter](https://github.com/Insality/sheets-exporter) — Processing and exporting data from Google Sheets to Lua.
 - [Texture Packer Atlas](https://github.com/defold/extension-texturepacker) — Native extensions that adds support for the TexturePacker atlas format.
 - [TexturePacker Exporter](https://github.com/Lerg/defold-texturepacker-exporter) — Exports from TexturePacker to a native atlas for Defold.

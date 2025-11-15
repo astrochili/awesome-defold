@@ -577,7 +577,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Curved World](https://github.com/rgrams/defold-curved-world) — Demo of a curved world effect similar to that in Animal Crossing.
 - [Darker](https://github.com/ReanimatorXP/defold-darker) — Highlights the specified objects, darkening the rest of the screen.
 - [DefBlend](https://github.com/subsoap/defblend) — Blend solid colors with your sprites using various blending modes.
-- [Deferred Lighting Example](https://github.com/martianovdev/Defold-BRDF-Deferred-Rendering) — A full deferred rendering pipeline with G-buffer, SSAO, point light shadows, volumetric light, and filmic tonemapping.
+- [BRDF Deferred Rendering](https://github.com/martianovdev/Defold-BRDF-Deferred-Rendering) — An example of deferred rendering pipeline with PBR materials and post-processing effects.
+- [BRDF Deferred Rendering V2](https://github.com/martianovdev/Defold-BRDF-Deferred-Rendering-V2) — An example of deferred rendering pipeline with PBR materials and even more post-processing effects.
 - [DefFX](https://github.com/subsoap/deffx) — A collection of useful shader effects.
 - [DefMaterial](https://github.com/subsoap/defmaterial) — A library of materials and textures for 2d and 3d objects.
 - [defold-3d-samples](https://github.com/dlannan/defold-3d-samples) — Simple projects showing various 3D concepts, including a sky shader.

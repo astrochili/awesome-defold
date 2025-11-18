@@ -341,8 +341,8 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Simple Target System](https://github.com/merunes-goldman/defold-simple-target-system) — Provides a simple way to manage game.project presets (targets).
 
 #### Editor
-
 - [Align](https://github.com/Jerakin/editor-script-align) — Editor script for aligning gui nodes.
+- [Asset Store](https://github.com/Insality/asset-store) — A convenient way to browse, publish and install assets.
 - [Atlas](https://github.com/Jerakin/editor-script-atlas) — Editor script to add images to an atlas as well as create a new one
 - [Check Dependencies](https://github.com/Jerakin/editor-script-check-dependencies-versions) — Checks your dependencies against github releases to see if there are any updates.
 - [Cleanup](https://github.com/Jerakin/editor-script-cleanup) — Editor script that adds clean up functionallity.

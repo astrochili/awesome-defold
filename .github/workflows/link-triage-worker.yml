@@ -1,0 +1,49 @@
+name: Link Triage Worker
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "URL to triage"
+        required: true
+      models:
+        description: "Comma- or whitespace-separated GitHub Models IDs"
+        required: false
+
+permissions:
+  models: read
+  contents: write
+  pull-requests: write
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Generate README change
+        id: triage
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ENABLE_GITHUB_MODELS_TRIAGE: ${{ vars.ENABLE_GITHUB_MODELS_TRIAGE }}
+          TRIAGE_MODELS: ${{ vars.TRIAGE_MODELS }}
+          INPUT_MODELS: ${{ inputs.models }}
+          TRIAGE_URL: ${{ inputs.url }}
+        run: node .github/scripts/worker-link.mjs
+
+      - name: Create draft pull request
+        if: ${{ steps.triage.outputs.title != '' }}
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ github.token }}
+          branch: ${{ steps.triage.outputs.branch }}
+          delete-branch: true
+          title: ${{ steps.triage.outputs.title }}
+          body: ${{ steps.triage.outputs.body }}
+          draft: true
+          commit-message: ${{ steps.triage.outputs.title }}
+

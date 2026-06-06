@@ -225,6 +225,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [AppLovin MAX](https://github.com/AppLovin/AppLovin-MAX-Defold) — AppLovin MAX Plugin for Android and iOS.
 - [CAS.AI](https://github.com/Lerg/extension-cas) — Plugin for CleverAdsSolutions ad mediation.
 - [Def Video Ads](https://github.com/AGulev/DefVideoAds) - Plugin for Unity Ads.
+- [defold-xoshiro256](https://github.com/glorius-silver/defold-xoshiro256) — A fast, high-quality pseudo-random number generator for Defold based on the xoshiro256++ algorithm with splitmix64 seeding.
 - [DefVungle](https://github.com/SkaterDad/defold-vungle) — Vungle video ads for Android and Amazon.
 - [Enhance](https://github.com/enhance-co/defold-connector) — Official Enhance SDK.
 - [Facebook Ads](https://github.com/MrZak-dev/defold-facebook-ads) - Facebook Ads for Android.

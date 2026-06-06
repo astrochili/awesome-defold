@@ -7,6 +7,7 @@ import {
   inferPlatformSection,
   insertReadmeItem,
   parseDispatchLimit,
+  parseInputUrls,
   parseModelList,
   parseSections,
   pullRequestsContainUrl,
@@ -52,6 +53,12 @@ assert.equal(parseDispatchLimit("3"), 3);
 assert.equal(parseDispatchLimit("0"), Number.POSITIVE_INFINITY);
 assert.throws(() => parseDispatchLimit("-1"), /MAX_LINKS/);
 assert.throws(() => parseDispatchLimit("many"), /MAX_LINKS/);
+assert.deepEqual(parseInputUrls('["https://example.com/a?utm_source=x","https://example.com/b"]', ""), ["https://example.com/a", "https://example.com/b"]);
+assert.deepEqual(parseInputUrls("https://example.com/a, https://example.com/a?utm_source=x", "https://example.com/c"), [
+  "https://example.com/a",
+  "https://example.com/c",
+]);
+assert.throws(() => parseInputUrls("not-a-url", ""), /Invalid|Unexpected/);
 assert.equal(
   pullRequestsContainUrl([{ state: "closed", merged_at: null, title: "Add example", body: "Source URL: https://example.com/new" }], "https://example.com/new"),
   false,

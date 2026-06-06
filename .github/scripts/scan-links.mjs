@@ -55,8 +55,8 @@ const deferred = queued.slice(selected.length);
 const cleanedIssue = cleanReadmeDuplicates ? removeCanonicalUrlsFromText(issue.body || "", readmeDuplicateUrls) : { text: issue.body || "", removed: [] };
 
 if (!dryRun) {
-  for (const url of selected) {
-    await dispatchWorker({ owner, repo, token, ref, workflowId, url, models });
+  if (selected.length > 0) {
+    await dispatchWorker({ owner, repo, token, ref, workflowId, urls: selected, models });
   }
   if (cleanReadmeDuplicates && cleanedIssue.removed.length > 0 && cleanedIssue.text !== (issue.body || "")) {
     await githubJson({
@@ -75,7 +75,7 @@ await appendStepSummary(
     `Issue: #${issueNumber}`,
     `Extracted URLs: ${candidates.length}`,
     `New URLs after duplicate checks: ${queued.length}`,
-    `Queued worker runs: ${selected.length}`,
+    `Queued URLs in worker run: ${selected.length}`,
     `Deferred by max_links: ${deferred.length}`,
     `Skipped URLs: ${skipped.length}`,
     `README duplicate URLs ${dryRun ? "that would be removed from issue" : "removed from issue"}: ${cleanedIssue.removed.length}`,

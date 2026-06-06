@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile } from "node:fs/promises";
 
 const API_VERSION = "2022-11-28";
 const MODELS_ENDPOINT = "https://models.github.ai/inference/chat/completions";
@@ -133,10 +133,6 @@ export function parseSections(readme) {
   return sections;
 }
 
-export function sectionNames(readme) {
-  return parseSections(readme).map((section) => section.name);
-}
-
 export function sectionPaths(readme) {
   return parseSections(readme).map((section) => section.path);
 }
@@ -249,13 +245,6 @@ function sectionEndLine(lines, section) {
   return lines.length;
 }
 
-export async function writeReadmeWithItem(path, item) {
-  const readme = await readReadme(path);
-  const inserted = insertReadmeItem(readme, item);
-  await writeFile(path, inserted.readme, "utf8");
-  return inserted;
-}
-
 export function parseModelList(value) {
   return String(value || "")
     .split(/[,\s]+/)
@@ -270,6 +259,34 @@ export function parseDispatchLimit(value, defaultLimit = 1) {
     throw new Error("MAX_LINKS must be 0 for all links or a positive integer.");
   }
   return limit === 0 ? Number.POSITIVE_INFINITY : limit;
+}
+
+export function parseInputUrls(urlsValue, urlValue) {
+  const values = [];
+  if (urlsValue && String(urlsValue).trim()) {
+    const raw = String(urlsValue).trim();
+    try {
+      const parsed = JSON.parse(raw);
+      if (Array.isArray(parsed)) values.push(...parsed);
+      else throw new Error("TRIAGE_URLS JSON must be an array.");
+    } catch (error) {
+      if (raw.includes("\n")) values.push(...raw.split(/\r?\n/));
+      else if (raw.includes(",")) values.push(...raw.split(","));
+      else throw error;
+    }
+  }
+  if (urlValue && String(urlValue).trim()) values.push(urlValue);
+
+  const seen = new Set();
+  const result = [];
+  for (const value of values) {
+    const canonical = canonicalizeUrl(value);
+    if (!canonical) throw new Error(`Invalid triage URL: ${value}`);
+    if (seen.has(canonical)) continue;
+    seen.add(canonical);
+    result.push(canonical);
+  }
+  return result;
 }
 
 export async function fetchAllPullRequests({ owner, repo, token }) {
@@ -320,7 +337,7 @@ export async function githubJson({ path, method = "GET", token, body }) {
   return response.json();
 }
 
-export async function dispatchWorker({ owner, repo, token, ref, workflowId, url, models }) {
+export async function dispatchWorker({ owner, repo, token, ref, workflowId, urls, models }) {
   await githubJson({
     path: `/repos/${owner}/${repo}/actions/workflows/${workflowId}/dispatches`,
     method: "POST",
@@ -328,7 +345,7 @@ export async function dispatchWorker({ owner, repo, token, ref, workflowId, url,
     body: {
       ref,
       inputs: {
-        url,
+        ...(urls ? { urls: Array.isArray(urls) ? JSON.stringify(urls) : urls } : {}),
         ...(models ? { models } : {}),
       },
     },

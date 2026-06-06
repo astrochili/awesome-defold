@@ -1,17 +1,17 @@
 #!/usr/bin/env node
 import { createHash } from "node:crypto";
-import { appendFile } from "node:fs/promises";
+import { appendFile, writeFile } from "node:fs/promises";
 import {
   appendStepSummary,
-  canonicalizeUrl,
   fetchAllPullRequests,
   generateItemWithModels,
+  insertReadmeItem,
+  parseInputUrls,
   parseModelList,
   pullRequestsContainUrl,
   readReadme,
   readmeContainsUrl,
   repoContext,
-  writeReadmeWithItem,
 } from "./link-triage-lib.mjs";
 
 const token = process.env.GITHUB_TOKEN;
@@ -22,9 +22,8 @@ if (!enabled) {
   throw new Error("Set repository variable ENABLE_GITHUB_MODELS_TRIAGE=1 to enable GitHub Models link triage.");
 }
 
-const inputUrl = process.env.TRIAGE_URL;
-const url = canonicalizeUrl(inputUrl);
-if (!url) throw new Error(`Invalid TRIAGE_URL: ${inputUrl}`);
+const urls = parseInputUrls(process.env.TRIAGE_URLS, process.env.TRIAGE_URL);
+if (urls.length === 0) throw new Error("At least one URL is required via TRIAGE_URL or TRIAGE_URLS.");
 
 const models = parseModelList(process.env.INPUT_MODELS || process.env.TRIAGE_MODELS);
 if (models.length === 0) {
@@ -32,66 +31,95 @@ if (models.length === 0) {
 }
 
 const { owner, repo } = repoContext();
-const readme = await readReadme();
-
-if (readmeContainsUrl(readme, url)) {
-  await appendStepSummary(`## Link triage worker\n\nSkipped ${url}: README already contains this URL.`);
-  console.log("README already contains URL; exiting without changes.");
-  process.exit(0);
-}
-
+let readme = await readReadme();
 const pulls = await fetchAllPullRequests({ owner, repo, token });
-if (pullRequestsContainUrl(pulls, url)) {
-  await appendStepSummary(`## Link triage worker\n\nSkipped ${url}: PR history already contains this URL.`);
-  console.log("PR history already contains URL; exiting without changes.");
+
+const results = [];
+
+for (const url of urls) {
+  if (readmeContainsUrl(readme, url)) {
+    results.push({ url, skipped: true, reason: "README already contains URL" });
+    continue;
+  }
+  if (pullRequestsContainUrl(pulls, url)) {
+    results.push({ url, skipped: true, reason: "PR history already contains URL" });
+    continue;
+  }
+
+  const generated = await generateItemWithModels({ url, readme, models, token });
+  const inserted = insertReadmeItem(readme, generated.item);
+  readme = inserted.readme;
+  results.push({ url, generated, inserted });
+}
+
+const insertedResults = results.filter((result) => result.generated);
+if (insertedResults.length === 0) {
+  await appendStepSummary(
+    [
+      "## Link triage worker",
+      "",
+      "No README changes were generated.",
+      "",
+      ...results.map((result) => `- skipped: ${result.url} (${result.reason})`),
+    ].join("\n"),
+  );
+  console.log(JSON.stringify({ urls, results }, null, 2));
   process.exit(0);
 }
 
-const generated = await generateItemWithModels({ url, readme, models, token });
-const inserted = await writeReadmeWithItem("README.md", generated.item);
+await writeFile("README.md", readme, "utf8");
 
-const branchSlug = generated.item.title
+const primary = insertedResults[0];
+const branchSlug = (insertedResults.length === 1 ? primary.generated.item.title : `links-${insertedResults.length}`)
   .toLowerCase()
   .replace(/[^a-z0-9]+/g, "-")
   .replace(/^-+|-+$/g, "")
   .slice(0, 48);
-const urlHash = createHash("sha256").update(url).digest("hex").slice(0, 8);
-const prTitle = `Add ${generated.item.title}`;
+const urlHash = createHash("sha256").update(urls.join("\n")).digest("hex").slice(0, 8);
+const prTitle = insertedResults.length === 1 ? `Add ${primary.generated.item.title}` : `Add ${insertedResults.length} links`;
 const prBody = [
   "Automated daily link triage draft.",
   "",
-  `Source URL: ${url}`,
-  `Chosen section: ${inserted.sectionPath || inserted.section}`,
-  `Inserted line: ${inserted.line}`,
-  `Model used: ${generated.model}`,
-  "",
-  "Model attempts:",
-  ...generated.attempts.map((attempt) => `- ${attempt.model}: ${attempt.ok ? "ok" : `failed (${attempt.error})`}`),
-  "",
-  `Reason: ${generated.item.reason}`,
+  "Generated entries:",
+  ...insertedResults.flatMap((result, index) => [
+    "",
+    `### ${index + 1}. ${result.generated.item.title}`,
+    "",
+    `Source URL: ${result.url}`,
+    `Chosen section: ${result.inserted.sectionPath || result.inserted.section}`,
+    `Inserted line: ${result.inserted.line}`,
+    `Model used: ${result.generated.model}`,
+    "Model attempts:",
+    ...result.generated.attempts.map((attempt) => `- ${attempt.model}: ${attempt.ok ? "ok" : `failed (${attempt.error})`}`),
+    `Reason: ${result.generated.item.reason}`,
+  ]),
+  ...(results.some((result) => result.skipped)
+    ? ["", "Skipped URLs:", ...results.filter((result) => result.skipped).map((result) => `- ${result.url} (${result.reason})`)]
+    : []),
 ].join("\n");
 
 await writeGithubOutput({
   branch: `triage/${branchSlug || "link"}-${urlHash}`,
   title: prTitle,
   body: prBody,
-  section: inserted.sectionPath || inserted.section,
-  model: generated.model,
+  section: insertedResults.map((result) => result.inserted.sectionPath || result.inserted.section).join(", "),
+  model: [...new Set(insertedResults.map((result) => result.generated.model))].join(", "),
 });
 
 await appendStepSummary(
   [
     "## Link triage worker",
     "",
-    `Source URL: ${url}`,
-    `Title: ${generated.item.title}`,
-    `Section: ${inserted.sectionPath || inserted.section}`,
-    `Model used: ${generated.model}`,
-    `Line: ${inserted.line}`,
+    `Input URLs: ${urls.length}`,
+    `Inserted entries: ${insertedResults.length}`,
+    `Skipped URLs: ${results.length - insertedResults.length}`,
+    "",
+    ...insertedResults.map((result) => `- ${result.generated.item.title}: ${result.inserted.sectionPath || result.inserted.section} (line ${result.inserted.line})`),
+    ...results.filter((result) => result.skipped).map((result) => `- skipped: ${result.url} (${result.reason})`),
   ].join("\n"),
 );
 
-console.log(JSON.stringify({ url, item: generated.item, inserted, model: generated.model }, null, 2));
+console.log(JSON.stringify({ urls, results }, null, 2));
 
 async function writeGithubOutput(values) {
   const outputPath = process.env.GITHUB_OUTPUT;

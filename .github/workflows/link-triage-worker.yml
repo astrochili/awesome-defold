@@ -4,8 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: "URL to triage"
-        required: true
+        description: "Single URL to triage"
+        required: false
+      urls:
+        description: "JSON array, comma-separated, or newline-separated URLs to triage"
+        required: false
       models:
         description: "Comma- or whitespace-separated GitHub Models IDs"
         required: false
@@ -33,6 +36,7 @@ jobs:
           TRIAGE_MODELS: ${{ vars.TRIAGE_MODELS }}
           INPUT_MODELS: ${{ inputs.models }}
           TRIAGE_URL: ${{ inputs.url }}
+          TRIAGE_URLS: ${{ inputs.urls }}
         run: node .github/scripts/worker-link.mjs
 
       - name: Create draft pull request
@@ -46,4 +50,3 @@ jobs:
           body: ${{ steps.triage.outputs.body }}
           draft: true
           commit-message: ${{ steps.triage.outputs.title }}
-

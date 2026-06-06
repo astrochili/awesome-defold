@@ -1,0 +1,45 @@
+name: Daily Link Triage Scan
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: "Inbox issue number"
+        required: false
+        default: "16"
+      dry_run:
+        description: "Scan without dispatching worker workflows"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  issues: read
+  pull-requests: read
+  contents: read
+  actions: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Scan inbox issue and dispatch workers
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ inputs.issue_number || '16' }}
+          DRY_RUN: ${{ inputs.dry_run == 'true' && '1' || '0' }}
+          TRIAGE_MODELS: ${{ vars.TRIAGE_MODELS }}
+          WORKER_WORKFLOW_ID: link-triage-worker.yml
+        run: node .github/scripts/scan-links.mjs
+

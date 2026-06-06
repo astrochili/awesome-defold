@@ -586,6 +586,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [SFMT Random](https://github.com/Lerg/extension-sfmtrandom) — SIMD-oriented Fast Mersenne Twister random number generator.
 - [SplitMix64 PRNG](https://github.com/indiesoftby/defold-splitmix64) — SplitMix64 random generator.
 - [UUID4](https://github.com/selimanac/defold-uuid4) — UUID v4 generator.
+- [Xoshiro256](https://github.com/glorius-silver/defold-xoshiro256) — High-quality PRNG based on xoshiro256++.
 
 #### Render, Shaders
 

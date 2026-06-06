@@ -796,6 +796,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Defold Wrap](https://github.com/baochungit/defold-wrap) — A tiny library to help you change the way you code on Defold.
 - [defold-oop](https://github.com/xiyoo0812/defold-oop) — An extension to work with OOP in Lua.
 - [DefTable](https://github.com/BobG1983/DefTable) — A library that contains a whole bunch of useful table manipulation functions.
+- [Gimme](https://github.com/AGulev/extension-gimme) — Tiny extension to convert Defold types into readable values.
 - [Hashed](https://github.com/Lerg/defold-hashed) — A small utility library to automatically use hashed strings.
 - [luaproc](https://github.com/dlannan/defold-luaproc) — A concurrent programming library.
 - [Ludobits](https://github.com/britzl/ludobits) — A set of useful utilities and wrappers.

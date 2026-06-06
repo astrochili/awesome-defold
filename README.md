@@ -1009,6 +1009,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Puffy Cat](https://poki.com/en/g/puffy-cat) — Also [Puffy Cat 2](https://poki.com/en/g/puffy-cat-2).
 - [Quack Quest](https://poki.com/ru/g/quack-quest)
 - [Raft Wart Multiplayer](https://poki.com/en/g/raft-wars-multiplayer)
+- [Robo Dance](https://insality.itch.io/robo-dance)
 - [Space War](https://space-war.ru/)
 - [Spattris](https://leshido.itch.io/spattris)
 - [Take 7](https://berru-dev.itch.io/take7)

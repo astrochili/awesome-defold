@@ -435,6 +435,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [ButtPlug](https://github.com/abadonna/defold-buttplug) — Support for buttplug.io open-source standards.
 - [Camera](https://github.com/defold/extension-camera) — Access to the camera on macOS, iOS and Android.
 - [DefMidi](https://github.com/subsoap/defold-midi) — Interaction with MIDI devices.
+- [Defold-Mic](https://github.com/HalfstarDev/defold-mic) — An extension for microphone recording via miniaudio.
 - [Gyro](https://github.com/britzl/defold-gyro) — Gyroscope monitoring on iOS and Android.
 - [SafeArea](https://github.com/defold/extension-safearea) — Safe area handling on iOS and Android.
 - [TapticEngine](https://github.com/MaratGilyazov/def_taptic_engine) — Taptic Engine on iOS.

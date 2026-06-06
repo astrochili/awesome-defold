@@ -202,6 +202,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 - [Defold + Zed](https://github.com/astrochili/defold-zed) — A collection of ideas on how to adapt the Zed editor for Defold.
 - [Zed Defold Extension](https://github.com/whiterabbit1983/zed-defold) — An extension that provides LSP, Defold API annotations, build tasks and snippets.
+- [zed-defold-kit](https://github.com/SalavatR/zed-defold-kit) — A Zed editor toolkit that injects Defold API and native extension annotations into the Lua language server for enhanced Defold game development.
 
 ### Programming Language
 

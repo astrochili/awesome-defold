@@ -904,6 +904,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Kaiju Control Force](https://store.steampowered.com/app/3268730)
 - [Perky Little Things](https://store.steampowered.com/app/811890) (NSFW)
 - [Plague Lords: Witch Hunt](https://store.steampowered.com/app/1827240)
+- [Push Titans](https://poki.com/en/g/push-titans) — A strategic battle game where you defend your kingdom by summoning champions and upgrading your army, playable on desktop and mobile.
 - [Red Raging Wolf](https://tystnex.itch.io/red-raging-wolf)
 - [Sensual Hunting](https://store.steampowered.com/app/1967470) (NSFW)
 - [Skull Horde](https://store.steampowered.com/app/3199360)

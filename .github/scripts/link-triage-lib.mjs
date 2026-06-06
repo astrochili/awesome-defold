@@ -421,7 +421,7 @@ export async function generateItemWithModels({ url, readme, models, token }) {
                 "- For GitHub repositories: choose Libraries if reusable as a dependency, Examples if it is a sample/source game, Tools if it helps the development workflow.",
                 "Platform rules for game/showcase links: Google Play and Apple App Store belong in Mobile; Steam belongs in Desktop; browser game portals such as Poki belong in Web.",
                 "Showcase / Desktop, Showcase / Mobile, and Showcase / Web are for games made with Defold. Do not put mobile store links in Desktop.",
-                "Title style: use a readable display name, like existing README entries. Do not return raw repository slugs such as defold-fake-real-glass, library-defold-foo, or my-tool-name. For GitHub repositories, first look for the repository display title, About title, or README heading; use the slug only as a last fallback. Strip generic Defold/library/extension prefixes when they are only technical packaging. Preserve official capitalization. Add '(NSFW)' only when the page is explicitly adult/NSFW.",
+                "Title style: use a readable display name, like existing README entries. Do not return raw repository slugs such as defold-fake-real-glass, library-defold-foo, or my-tool-name. For GitHub repositories, first look for the repository display title, About title, or README heading; use the slug only as a last fallback. Strip generic Defold/library/extension prefixes and suffixes when they are only technical packaging. Prefer 'Spriteloop' over 'Spriteloop for Defold'. Preserve official capitalization. Add '(NSFW)' only when the page is explicitly adult/NSFW.",
                 `Write a concise title and a short one-sentence description for validation. Existing README descriptions have a median length of about 45 characters; aim for ${DESCRIPTION_TARGET} and do not exceed ${DESCRIPTION_MAX_LENGTH} characters.`,
                 "Description style: neutral, compact, factual. Avoid marketing copy and long feature lists. Prefer phrases like 'SDK wrapper.', 'Runtime atlas loader.', 'Pathfinding library.', or 'Shader tutorial with an example project.'.",
                 "The workflow will omit descriptions in sections whose existing entries are mostly title-only.",
@@ -486,9 +486,11 @@ export function sanitizeInline(value) {
 }
 
 export function normalizeTitleForUrl(title, url) {
-  const sanitized = sanitizeInline(title);
+  const raw = sanitizeInline(title);
+  const sanitized = normalizeDefoldPackagingTitle(raw);
   const canonical = canonicalizeUrl(url);
   if (!sanitized || !canonical) return sanitized;
+  if (sanitized !== raw || /\s/.test(sanitized)) return sanitized;
 
   const parsed = new URL(canonical);
   if (parsed.hostname !== "github.com") return sanitized;
@@ -501,9 +503,9 @@ export function normalizeTitleForUrl(title, url) {
   const repoSlug = repo.toLowerCase().replace(/_/g, "-");
   if (titleSlug !== repoSlug) return sanitized;
 
-  let display = repo
+  let display = normalizeDefoldPackagingTitle(repo)
     .replace(/_/g, "-")
-    .replace(/^(library-defold|defold-library|defold|extension|sample|example|game)-/i, "")
+    .replace(/^(library-defold|defold-library|defold|extension|sample|game)-/i, "")
     .replace(/-defold$/i, "");
 
   display = display
@@ -517,6 +519,14 @@ export function normalizeTitleForUrl(title, url) {
     .join(" ");
 
   return sanitizeInline(display || sanitized);
+}
+
+function normalizeDefoldPackagingTitle(title) {
+  return title
+    .replace(/\s+(?:for|in|with)\s+Defold$/i, "")
+    .replace(/\s*[-:]\s*Defold\s+(?:library|extension|plugin|module|asset)$/i, "")
+    .replace(/\s+Defold\s+(?:library|extension|plugin|module|asset)$/i, "")
+    .trim();
 }
 
 export function sanitizeDescription(value) {

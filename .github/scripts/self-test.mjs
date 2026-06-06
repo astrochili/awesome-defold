@@ -81,6 +81,9 @@ assert.equal(
 assert.equal(normalizeTitleForUrl("defold-example-render-effect", "https://github.com/example/defold-example-render-effect"), "Example Render Effect");
 assert.equal(normalizeTitleForUrl("library-defold-example-ui", "https://github.com/example/library-defold-example-ui"), "Example UI");
 assert.equal(normalizeTitleForUrl("Example UI", "https://github.com/example/library-defold-example-ui"), "Example UI");
+assert.equal(normalizeTitleForUrl("Example Loop for Defold", "https://github.com/example/example-loop"), "Example Loop");
+assert.equal(normalizeTitleForUrl("Example Tools Defold Extension", "https://github.com/example/example-tools"), "Example Tools");
+assert.equal(normalizeTitleForUrl("Defold Example Kit", "https://github.com/example/defold-example-kit"), "Defold Example Kit");
 assert.equal(inferPlatformSection("https://play.google.com/store/apps/details?id=com.example.mobilegame"), "Mobile");
 assert.equal(inferPlatformSection("https://apps.apple.com/app/example/id123"), "Mobile");
 assert.equal(inferPlatformSection("https://store.steampowered.com/app/123/example"), "Desktop");

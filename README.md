@@ -98,6 +98,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Open Source
 
+- [Asobi Defold SDK](https://github.com/widgrensit/asobi-defold) — Defold client SDK for Asobi game backend enabling multiplayer features like matchmaking, world and match modes with entity synchronization.
 - [Defold](https://github.com/defold/defold) — Game engine and editor.
 - [Extender](https://github.com/defold/extender) — Build server that builds native extensions.
 - [Documentaton](https://github.com/defold/doc) — Markdown source files and assets for Defold documentation.

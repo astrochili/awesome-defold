@@ -228,6 +228,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefVungle](https://github.com/SkaterDad/defold-vungle) — Vungle video ads for Android and Amazon.
 - [Enhance](https://github.com/enhance-co/defold-connector) — Official Enhance SDK.
 - [Facebook Ads](https://github.com/MrZak-dev/defold-facebook-ads) - Facebook Ads for Android.
+- [immut.lua](https://github.com/BlackMATov/immut.lua) — Immutable and persistent data structures library for Lua, compatible with Lua 5.1+, LuaJIT, and Luau.
 - [IronSource](https://github.com/defold/extension-ironsource) — Access to IronSource ad mediation.
 - [SpellSync](https://gitlab.com/spellsync/spellsync-defold/) — Unified SDK for many of web platforms.
 - [Yandex Easy Monetization](https://github.com/osov/defold-yandex-easy-monetization) — A mobile mediation network from Yandex (Android only).

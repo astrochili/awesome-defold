@@ -791,6 +791,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefKit](https://github.com/adamwestman/defkit) — Component based scripts for Defold inspired by the Game Maker engine.
 - [Defold Persist](https://github.com/whiteboxdev/library-defold-persist) — A simple interface for saving and loading data.
 - [Defold Wrap](https://github.com/baochungit/defold-wrap) — A tiny library to help you change the way you code on Defold.
+- [defold-fake-real-glass](https://github.com/paweljarosz/defold-fake-real-glass) — Multipass fake glass shader effect for Defold engine.
 - [defold-oop](https://github.com/xiyoo0812/defold-oop) — An extension to work with OOP in Lua.
 - [DefTable](https://github.com/BobG1983/DefTable) — A library that contains a whole bunch of useful table manipulation functions.
 - [Hashed](https://github.com/Lerg/defold-hashed) — A small utility library to automatically use hashed strings.

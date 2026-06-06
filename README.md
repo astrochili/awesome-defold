@@ -905,6 +905,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Perky Little Things](https://store.steampowered.com/app/811890) (NSFW)
 - [Plague Lords: Witch Hunt](https://store.steampowered.com/app/1827240)
 - [Red Raging Wolf](https://tystnex.itch.io/red-raging-wolf)
+- [Robo Dance](https://insality.itch.io/robo-dance) — A rhythm-turn-based tactics puzzle game made with Defold, featuring synced music and animations, developed for GamedevJS Jam 2026.
 - [Sensual Hunting](https://store.steampowered.com/app/1967470) (NSFW)
 - [Skull Horde](https://store.steampowered.com/app/3199360)
 - [Solianico](https://littlefunnysouls.itch.io/solianiko)

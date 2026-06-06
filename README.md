@@ -294,6 +294,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Backend
 
+- [Asobi](https://github.com/widgrensit/asobi-defold) — Defold client SDK for the Asobi game backend.
 - [AWS SDK](https://github.com/britzl/aws-sdk-lua) — Unofficial AWS SDK for Lua.
 - [Colyseus](https://github.com/colyseus/colyseus-defold) — Client for the Colyseus server.
 - [Firebase Remote Config](https://github.com/defold/extension-firebase-remoteconfig) - Firebase Remote Config functionality on Android and iOS.

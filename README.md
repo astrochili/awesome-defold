@@ -263,6 +263,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Panthera](https://github.com/Insality/panthera) — Animation runtime and editor made with Defold for Defold.
 - [Rive](https://github.com/defold/extension-rive) — Rive animations runtime.
 - [Spine](https://github.com/defold/extension-spine) — Spine animations runtime.
+- [SpriteLoop](https://github.com/Balkan-Ram-Games/spriteloop-defold) — Native playback for .spla animation packages with editor integration.
 - [Tilemap Animator](https://github.com/whiteboxdev/library-defold-tilemap-animator) — Provides runtime tile animations.
 - [Tweener](https://github.com/Insality/defold-tweener) —  Timer based Defold tween library.
 - 🌙 [flux](https://github.com/rxi/flux) — A fast, lightweight tweening library.

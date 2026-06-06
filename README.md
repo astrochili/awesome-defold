@@ -321,6 +321,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefCon](https://github.com/britzl/defcon) — Developer console to interact with a game through a browser.
 - [DefPro](https://github.com/britzl/defpro) — Library to interact with Defold profiler.
 - [DefTest](https://github.com/britzl/deftest) — Unit testing with Telescope.
+- [extension-gimme](https://github.com/AGulev/extension-gimme) — A tiny Defold extension providing functions to convert Defold types into readable values, aiding in debugging and error interpretation.
 - [Gunit](https://gitlab.com/mattpwest/gunit-defold) — A game unit test framework based on the xUnit family of frameworks.
 - [lmprof](https://github.com/defold/extension-lmprof) — Lua memory profiler for Defold based on lmprof.
 - [Log](https://github.com/Insality/defold-log) by Insality — Context logger with performance metrics.

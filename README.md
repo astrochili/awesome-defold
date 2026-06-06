@@ -579,6 +579,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 
 #### Random
 
+- [defold-xoshiro256](https://github.com/glorius-silver/defold-xoshiro256) — High-quality PRNG for Defold using xoshiro256++ algorithm.
 - [dicebag](https://github.com/8bitskull/dicebag) — Probability functions designed specifically for games.
 - [PCG Random (Lerg)](https://github.com/Lerg/extension-pcgrandom) — PCG family of random number generators with many algorithms.
 - [PCG Random (selimanac)](https://github.com/selimanac/defold-random) — Random numbers generator with using minimal C implementation of PCG.

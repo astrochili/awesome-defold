@@ -102,6 +102,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Extender](https://github.com/defold/extender) — Build server that builds native extensions.
 - [Documentaton](https://github.com/defold/doc) — Markdown source files and assets for Defold documentation.
 - [Asset Portal](https://github.com/defold/asset-portal) — The asset definitions for the Asset Portal page.
+- [Fake Real Glass for Defold](https://github.com/paweljarosz/defold-fake-real-glass) — A multipass fake glass effect for Defold featuring screen-space double refraction, back-face normals/depth pass, thickness-based distortion, and optional reflection probes.
 - [Games Showcase](https://github.com/defold/games-showcase) — The game definitions for the Showcase page.
 - [Build Size](https://github.com/defold/build-size) — Graph showing the Defold engine and editor sizes for all supported platforms.
 - [Logo Assets](https://github.com/defold/assets-defold) — Defold logos to use on splash screens or other kinds of promotions.

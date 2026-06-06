@@ -173,6 +173,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Defold API generator on C#](https://github.com/mikatuo/defold-lua-annotations) — C# application to generate Defold API annotations.
 - [Defold API generator on Java](https://github.com/d954mas/defold-api-emmylua) — Java application to generate Defold API annotations.
 - [Defold API generator on Lua](https://github.com/astrochili/defold-annotations) — Lua scripts to generate Defold API annotations.
+- [defold_live_unbundler](https://github.com/HGPoint/defold_live_unbundler) — Extension for Defold Live Update with dynamic chunk loading.
 - [EmmyLua from LuaDoc](https://github.com/Insality/emmylua-from-ldoc-annotations) — Lua scripts to generate EmmyLua annotations from LuaDoc.
 - [EmmyLua from Protobuf](https://github.com/Insality/emmylua-protoc-annotations) — Lua scripts to generate EmmyLua annotations from Protobuf.
 

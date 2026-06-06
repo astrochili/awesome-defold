@@ -832,6 +832,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Color Picker](https://github.com/rgrams/colorpicker) — A pretty basic HSV and RGB color picker.
 - [Cosmic Dash](https://github.com/Insality/cosmic-dash-jam-2025) — A puzzle game made with tiny-ecs library with ECS-kind approach.
 - [Driller](https://github.com/aglitchman/defold-ld48-game) — 3D first-person shooter for Ludum Dare 48.
+- [easy_explosion_vfx](https://github.com/JuLongZhiLu/easy_explosion_vfx) — Defold example project for explosion VFX using particle system.
 - [Flappy Bird](https://github.com/d954mas/defold-flappy-bird) — Flappy Bird clone implementation.
 - [Gabagus](https://github.com/asetsiya/gabagus) — Like a "flappy bird clone" but much more.
 - [Ghosts and Loot](https://github.com/pabaucom/kenney-jam-2023) — 2D walker with a flashlight for Kenney Jam 2023 game jam.

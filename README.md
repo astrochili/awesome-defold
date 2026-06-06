@@ -882,6 +882,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Bore Blasters](https://store.steampowered.com/app/2398170)
 - [Bouncer Story](https://helmigames.com/bouncer-story)
 - [Brain Please Don't](https://store.steampowered.com/app/1324360)
+- [Break the Forest: Roguelike](https://play.google.com/store/apps/details?id=com.breaktheforest.cardroguelike) — A card-based roguelike game featuring deck building, survival mechanics, and 50 checkpoints to escape a mysterious forest.
 - [Chromacell](https://store.steampowered.com/app/2293310)
 - [Color Guys](https://store.steampowered.com/app/1762490)
 - [Craftomation 101](https://luden.io/craftomation)

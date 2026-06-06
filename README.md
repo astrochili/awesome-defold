@@ -928,6 +928,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Animal Hero](https://animalhero.ru/).
 - [Bouncing Catapult King](https://apps.apple.com/cy/app/bouncy-catapult-king/id1450757809)
 - [Brave Duck](https://play.google.com/store/apps/details?id=com.duck.the.brave.duck.platformer.run)
+- [Break the Forest: Roguelike](https://play.google.com/store/apps/details?id=com.breaktheforest.cardroguelike)
 - [Bring Me Cakes](https://play.google.com/store/apps/details?id=com.bringmecakes)
 - [Cat Stories: New Year](https://play.google.com/store/apps/details?id=com.curiousfoxes.cat)
 - [Cat's Day](https://astronachos.com/catsday)

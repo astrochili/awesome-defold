@@ -613,6 +613,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefMaterial](https://github.com/subsoap/defmaterial) — A library of materials and textures for 2d and 3d objects.
 - [defold-3d-samples](https://github.com/dlannan/defold-3d-samples) — Simple projects showing various 3D concepts, including a sky shader.
 - [Defragments](https://github.com/paweljarosz/defragments) — Simple examples with fragment programs from Shadertoy.
+- [Defrend](https://github.com/akhleung/defrend) — Deferred 3D rendering pipeline for Defold with modern lighting.
 - [DeLAB Scene](https://github.com/FlexYourBrain/DeLAB_scene) — A ready setup testing ground for rendering / materials / shaders & post-effects.
 - [DeLab-2D Dissolve](https://github.com/FlexYourBrain/Delab2D_dissolve) — 2D dissolve effect shader sample project.
 - [Derez](https://github.com/Wolfe2x7/Derez) — Render target with low resolution output (downsampling).

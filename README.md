@@ -905,6 +905,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [FaeVerse Alchemy](https://store.steampowered.com/app/282880)
 - [Fates of Ort](https://store.steampowered.com/app/895480)
 - [FAWE: Enchanted Forest](https://store.steampowered.com/app/1760510)
+- [Final Deal](https://store.steampowered.com/app/4660910/Final_Deal)
 - [Fling D'Block](https://store.steampowered.com/app/2303770)
 - [Fortness Fury](https://store.steampowered.com/app/3010920/)
 - [Good Morning, A.I.](https://store.steampowered.com/app/1791900)

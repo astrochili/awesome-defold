@@ -534,6 +534,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [ECS Bunnymark](https://github.com/d954mas/defold-bunnymark-ecs-example) — Bunnymark benchmark project built around an ECS-style approach.
 - [Go Position Setter](https://github.com/d954mas/defold-go-position-setter) — Native extension for updating thousands of game object positions faster.
 - [Haxe Bunnymark](https://github.com/hxdefold/hxdefold-bunnymark) — Bunnymark test rewritten in Haxe.
+- [Stress Test](https://github.com/jeanstkng/defold-stress-test) — Defold project to test max game object count and performance.
 
 #### Physics
 

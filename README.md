@@ -696,6 +696,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [DefOS](https://github.com/subsoap/defos) — Extra native OS functions on macOS, Windows, Linux and HTML5.
 - [Defpfd](https://github.com/AsakuraMizu/defpfd) — Portable File Dialogs.
 - [DefProcess](https://github.com/subsoap/defprocess) — Check if a Windows process is running.
+- [DefWin](https://github.com/HalfstarDev/DefWin) — Extension for advanced Windows window features.
 - [FileDrop](https://github.com/britzl/extension-filedrop) — Drag and drop files handling on macOS and HTML5.
 - [Inter-App Communication](https://github.com/defold/extension-iac) — Inter-app communication on iOS and Android.
 - [OpenCL](https://github.com/abadonna/defold-opencl) — OpenCL for parallel and massive computations.

@@ -231,6 +231,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Facebook Ads](https://github.com/MrZak-dev/defold-facebook-ads) - Facebook Ads for Android.
 - [IronSource](https://github.com/defold/extension-ironsource) — Access to IronSource ad mediation.
 - [SpellSync](https://gitlab.com/spellsync/spellsync-defold/) — Unified SDK for many of web platforms.
+- [Unity LevelPlay](https://github.com/defold/extension-levelplay/) — Unity LevelPlay ad mediation on Android and iOS.
 - [Yandex Easy Monetization](https://github.com/osov/defold-yandex-easy-monetization) — A mobile mediation network from Yandex (Android only).
 - [Yandex Mobile Ads](https://github.com/osov/defold-yandex-sdk-ads) — Yandex Mobile Ads SDK (Android only).
 
@@ -315,9 +316,11 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Rendercam](https://github.com/rgrams/rendercam) — A universal render script and camera package.
 - [Rendy](https://github.com/whiteboxdev/library-defold-rendy) — A versatile camera suite and render pipeline.
 - [Starly](https://github.com/VowSoftware/starly) — A feature-rich orthographic camera solution.
+- [Vantage](https://github.com/Jhonnyg/defold-vantage) — A simple controller for an FPS camera.
 
 #### Debug
 
+- [Automation Bridge](https://github.com/defold/extension-automation-bridge) — Debug-only native extension for inspecting a running game and sending input from local automation clients.
 - [Commander](https://github.com/JustAPotota/Commander) — A debug console and command system inside your game.
 - [Crashtool](https://github.com/britzl/crashtool) — Shows information from a Defold crash file.
 - [Debug Draw](https://github.com/rgrams/debug-draw) — A simple wrapper to draw debug shapes.
@@ -390,6 +393,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [CSV Loader](https://github.com/subsoap/csvloader) — Can load and parse CSV files.
 - [dae2collision](https://github.com/JustAPotota/dae2collision) — Converts DAE meshes to Defold collision objects.
 - [DDF](https://github.com/JustAPotota/ddf) — A library for parsing Defold Data Format files.
+- [DataForge](https://github.com/ufgo/dataforge) — Visual game database and content editor for structuring static game data.
 - [Defender](https://github.com/dlannan/defold-blender-export) — Blender import and export system with syncing.
 - [Defold Parser (JS)](https://github.com/Insality/defold-parser) — A node.js module to encode and decode Defold files.
 - [Defold Parser (Lua)](https://github.com/GeCreator/defold_parser) — A simple module that allows you to create/parse/modify Defold files.
@@ -773,6 +777,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 #### UI
 
 - [Cairo](defold-cairo) — UI based on Cairo graphics library.
+- [Clay](https://github.com/hsjunnesson/extension-clay) — Native extension for the Clay high-performance UI layout library.
 - [Dear ImGUI](https://github.com/britzl/extension-imgui) — ImGUI wrapper for creating a debug interface or in-game tools.
 - [DeFine](https://github.com/adamwestman/define) — A UI/UX library providing fundamental components.
 - [Dirty Larry](https://github.com/andsve/dirtylarry) — A quick and dirty GUI library.
@@ -783,6 +788,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [FontGen](https://github.com/defold/extension-fontgen) — Allows for extending an existing font (.fontc) with more glyphs at runtime.
 - [FontScale](https://github.com/myopic-design/defold-fontscale) — Returns the preferred font scaling factor on the device.
 - [Gooey](https://github.com/britzl/gooey) — A lightweight GUI system inspired by Dirty Larry.
+- [GUIX](https://github.com/Morgerion/defold-guix) — An imperative GUI widget toolkit built on Defold's `gui.*` API.
 - [ImGui Gizmo](https://github.com/d954mas/defold-imgui-gizmo) — ImGui gizmo demo for picking, transforms and camera manipulation.
 - [ImNodes](https://github.com/paweljarosz/defold_imnodes) — Example of how to create node/flow fraphs with Dear ImGUI.
 - [Monarch](https://github.com/britzl/monarch) — Screens and navigation manager.
@@ -986,6 +992,7 @@ A curated list of awesome [Defold](https://defold.com) extensions, tools and res
 - [Bullseye Shoot'n Gallery](https://flexyourbrain.itch.io/bullseye-shootn-gallery)
 - [Cosmic Dash](https://insality.itch.io/cosmic-dash)
 - [Cosmos Lines](https://poki.com/en/g/cosmos-lines)
+- [CROWNFALL](https://fabricvisions.itch.io/crownfall) — A one-button shooter where health is ammunition.
 - [Cow Bay](https://poki.com/en/g/cow-bay)
 - [Curious Fishing](https://rhythmlynx.itch.io/curious-fishing)
 - [Day of Meat](https://poki.com/en/g/day-of-meat) — Also [Day of Meat: Castle](https://poki.com/en/g/day-of-meat-castle) and [Day of Meat: Radiation](https://poki.com/en/g/day-of-meat-radiation).
